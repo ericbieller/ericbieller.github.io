@@ -1,60 +1,8 @@
-<!DOCTYPE html>
-<html>
+---
+layout: default
+---
 
-  <head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-
-  <title>The Endless Adventure</title>
-  <meta name="description" content="We've left our old lives behind to travel the world with nothing but our backpacks, cameras and open minds.  We're searching for adventure and we won't stop until we find it!
-">
-
-  <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
-  <link href='https://fonts.googleapis.com/css?family=Itim|PT+Sans:400,700|Asap:700|Shadows+Into+Light:400|Londrina+Sketch:400' rel='stylesheet' type='text/css'>
-  <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.11.5/mapbox-gl.css' rel='stylesheet' />
-
-  <link rel="stylesheet" href="/css/normalize.css">
-  <link rel="stylesheet" href="/css/skeleton.css">
-  <link rel="stylesheet" href="/css/main.css">
-  <link rel="stylesheet" href="/css/global.css">
-  <link rel="stylesheet" href="/css/nav.css">
-  <link rel="stylesheet" href="/css/home.css">
-  <link rel="canonical" href="http://yourdomain.com/">
-  <link rel="alternate" type="application/rss+xml" title="The Endless Adventure" href="http://yourdomain.com/feed.xml" />
-
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
-  <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.11.5/mapbox-gl.js'></script>
-</head>
-
-  <body>
-
-    <header class="nav">
-  <nav class="site-nav">
-    <a class="page-link" href="/blog"><img src="/images/icons/marker.png" width="17" height="17px" />Travel Blog</a>
-    <a class="page-link" href="/vlog"><img src="/images/icons/video.png" width="17" height="17px" />Daily Vlog</a>
-    <a class="page-link logo" href="/"><img src="/images/logo.png" width="300" height="33" /></a>
-    <a class="page-link" href="/location"><img src="/images/icons/map.png" width="17" height="17px" />Where are we?</a>
-    <a class="page-link" href="/finances"><img src="/images/icons/money.png" width="17" height="17px" />Our Finances</a>
-  </nav>
-</header>
-
-<div class="hero">
-  <div class="copy">
-    <h1>LET'S GO SOMEWHERE</h1>
-    <p>
-      We've quit our jobs, sold everything we own and left our old lives behind. We're looking for adventure and we won't stop until we find it.
-    </p>
-  </div>
-  
-  <video height="900" width="auto" muted="" autoplay="" loop="" preload="auto">
-    <source src="/videos/home.mp4" type="video/mp4">
-  </video>
-</div>
-
-
-    <div class="page-content">
-        <div class="home">
+<div class="home">
   <div class="map-wrapper">
     <div class="copy">
       <h2>Where we are</h2>
@@ -122,15 +70,15 @@
       <h1 class="page-heading">From the Blog</h1>
 
       <ul class="post-list">
-        
+        {% for post in site.posts %}
           <li>
-            <span class="post-meta">Nov 27, 2015</span>
+            <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
             <h2>
-              <a class="post-link" href="/jekyll/update/2015/11/27/welcome-to-jekyll.html">Welcome to Jekyll!</a>
+              <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
             </h2>
           </li>
-        
+        {% endfor %}
       </ul>
     </div>
   </div>
@@ -279,28 +227,3 @@ map.on('style.load', function () {
   });
 });
 </script>
-
-    </div>
-
-    <footer class="site-footer">
-  <div class="container">
-    <div class="three columns">
-      <span><a href="...">Travel Blog</a><span>
-      <span><a href="...">Daily Vlog</a></span>
-    </div>
-    <div class="three columns">
-      <span><a href="...">Where are we?</a></span>
-      <span><a href="...">Our Finances</a></span>
-    </div>
-    
-    <div class="six columns description">
-      <h2 class="footer-heading">The Endless Adventure</h2>
-      <p class="text">We've left our old lives behind to travel the world with nothing but our backpacks, cameras and open minds.  We're searching for adventure and we won't stop until we find it!
-</p>
-    </div>
-</footer>
-
-
-  </body>
-
-</html>
