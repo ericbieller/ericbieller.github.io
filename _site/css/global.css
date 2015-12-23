@@ -1,7 +1,8 @@
 body {
   background: #fff; }
+  body h1, body h2, body h3, body h4, body h5 {
+    font-family: Asap; }
   body h1 {
-    font-family: Asap;
     font-size: 45px; }
   body h2 {
     font-size: 44px;
@@ -20,13 +21,18 @@ body {
     color: #585858;
     text-align: center;
     font-size: 30px; }
+  body .page-header h1 {
+    color: #fff;
+    text-align: center;
+    margin-top: 100px; }
   body .page-content {
     padding: 0; }
   body .site-footer {
     background: #3A3D41;
     padding: 60px 0;
     text-align: left;
-    color: #fff; }
+    color: #fff;
+    border: none; }
     body .site-footer h2 {
       color: #fff;
       font-size: 30px;

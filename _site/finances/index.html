@@ -6,7 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>About</title>
+  <title>The Endless Adventure</title>
   <meta name="description" content="We've left our old lives behind to travel the world with nothing but our backpacks, cameras and open minds.  We're searching for adventure and we won't stop until we find it!
 ">
 
@@ -22,13 +22,13 @@
   <link rel="stylesheet" href="/css/page.css">
   <link rel="stylesheet" href="/css/home.css">
   <link rel="stylesheet" href="/css/finances.css">
-  <link rel="canonical" href="http://yourdomain.com/about/">
+  <link rel="canonical" href="http://yourdomain.com/finances/">
   <link rel="alternate" type="application/rss+xml" title="The Endless Adventure" href="http://yourdomain.com/feed.xml" />
 
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
   <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.11.5/mapbox-gl.js'></script>
   <script src='/js/Chart.min.js'></script>
-  <script src='/js/.js'></script>
+  <script src='/js/papaparse.min.js'></script>
   <script src='https://cdnjs.cloudflare.com/ajax/libs/randomcolor/0.4.1/randomColor.js'></script>
 </head>
 
@@ -44,10 +44,10 @@
   </nav>
 </header>
     
-    <header class="page-header" style="background-image: url('/images/headers/');">
+    <header class="page-header" style="background-image: url('/images/headers/forest.jpg');">
       <div class="container">
         <div class="ten offset-by-one columns">
-          <h1></h1>
+          <h1>Our Finances</h1>
         </div>
       </div>
     </header>
@@ -55,16 +55,23 @@
     <div class="post">
 
       <header class="post-header">
-        <h1 class="post-title">About</h1>
+        <h1 class="post-title"></h1>
       </header>
 
       <article class="post-content">
-        <p>This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at <a href="http://jekyllrb.com/">jekyllrb.com</a></p>
+        <div class="finances">
+  <div class="container">
+    <div class="ten offset-by-one columns">
+      <p>
+        We don't have tons of money in the bank. We don't even have full-time jobs! So how do we make this crazy life possible? Well, we've put all of our finances below so you can see exactly how we do it.
+      </p>
+    </div>
+  </div>
+  
+  <div class="months"></div>
+</div>
 
-<p>You can find the source code for the Jekyll new theme at: <a href="https://github.com/jglovier/jekyll-new">github.com/jglovier/jekyll-new</a></p>
-
-<p>You can find the source code for Jekyll at <a href="https://github.com/jekyll/jekyll">github.com/jekyll/jekyll</a></p>
-
+<script src="/js/finances.js"></script>
       </article>
 
     </div>

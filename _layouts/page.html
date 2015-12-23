@@ -1,14 +1,37 @@
 ---
-layout: default
 ---
-<div class="post">
 
-  <header class="post-header">
-    <h1 class="post-title">{{ page.title }}</h1>
-  </header>
+<!DOCTYPE html>
+<html>
 
-  <article class="post-content">
-    {{ content }}
-  </article>
+  {% include head.html %}
 
-</div>
+  <body class="page">
+    
+    {% include nav.html %}
+    
+    <header class="page-header" style="background-image: url('/images/headers/{{ page.background_image }}');">
+      <div class="container">
+        <div class="ten offset-by-one columns">
+          <h1>{{ page.header }}</h1>
+        </div>
+      </div>
+    </header>
+
+    <div class="post">
+
+      <header class="post-header">
+        <h1 class="post-title">{{ page.title }}</h1>
+      </header>
+
+      <article class="post-content">
+        {{ content }}
+      </article>
+
+    </div>
+
+    {% include footer.html %}
+
+  </body>
+
+</html>

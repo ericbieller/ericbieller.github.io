@@ -4,8 +4,11 @@
 body {
   background: #fff;
   
-  h1 {
+  h1,h2,h3,h4,h5 {
     font-family: Asap;
+  }
+  
+  h1 {
     font-size: 45px;
   }
   
@@ -32,6 +35,14 @@ body {
     font-size: 30px;
   }
   
+  .page-header {
+    h1 {
+      color: #fff;
+      text-align: center;
+      margin-top: 100px;
+    }
+  }
+  
   .page-content {
     padding: 0;
   }
@@ -41,6 +52,7 @@ body {
     padding: 60px 0;
     text-align: left;
     color: #fff;
+    border: none;
     
     h2 {
       color: #fff;

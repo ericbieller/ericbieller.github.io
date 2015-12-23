@@ -15,10 +15,15 @@
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
   <link rel="stylesheet" href="{{ "/css/global.css" | prepend: site.baseurl }}">
   <link rel="stylesheet" href="{{ "/css/nav.css" | prepend: site.baseurl }}">
+  <link rel="stylesheet" href="{{ "/css/page.css" | prepend: site.baseurl }}">
   <link rel="stylesheet" href="{{ "/css/home.css" | prepend: site.baseurl }}">
+  <link rel="stylesheet" href="{{ "/css/finances.css" | prepend: site.baseurl }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
 
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
   <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.11.5/mapbox-gl.js'></script>
+  <script src='/js/Chart.min.js'></script>
+  <script src='/js/{{ page.script }}.js'></script>
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/randomcolor/0.4.1/randomColor.js'></script>
 </head>
