@@ -11,7 +11,7 @@ body {
     margin-bottom: 0;
     text-align: center;
     -webkit-font-smoothing: antialiased; }
-  body h2 + p {
+  body .subheader + p {
     margin: 0;
     margin-top: 4px;
     font-size: 22px;
@@ -24,7 +24,9 @@ body {
   body .page-header h1 {
     color: #fff;
     text-align: center;
-    margin-top: 100px; }
+    margin-top: 100px;
+    z-index: 1;
+    position: relative; }
   body .page-content {
     padding: 0; }
   body .site-footer {
@@ -45,6 +47,9 @@ body {
       -webkit-font-smoothing: antialiased; }
     body .site-footer .description {
       text-align: left; }
+      @media (max-width: 549px) {
+        body .site-footer .description {
+          margin-top: 30px; } }
     body .site-footer span {
       display: block;
       color: #fff;
