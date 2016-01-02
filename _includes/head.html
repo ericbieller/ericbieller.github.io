@@ -26,6 +26,8 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
   <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.11.5/mapbox-gl.js'></script>
   <script src='/js/Chart.min.js'></script>
-  <script src='/js/{{ page.script }}.js'></script>
+  {% if page.script %}
+    <script src='/js/{{ page.script }}.js'></script>
+  {% endif %}
   <script src='https://cdnjs.cloudflare.com/ajax/libs/randomcolor/0.4.1/randomColor.js'></script>
 </head>

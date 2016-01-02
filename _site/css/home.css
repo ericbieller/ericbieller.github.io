@@ -90,8 +90,7 @@
     .home #videos .video {
       margin-bottom: 20px; } }
   .home #videos .video .thumbnail-wrapper {
-    overflow: hidden;
-    padding: 12px 0; }
+    overflow: hidden; }
     .home #videos .video .thumbnail-wrapper a {
       display: block;
       position: relative; }
@@ -111,8 +110,7 @@
         opacity: 1; }
     .home #videos .video .thumbnail-wrapper img {
       width: 100%;
-      height: auto;
-      transform: scale(1.15); }
+      height: auto; }
   .home #videos .video .title {
     background: #f7f7f7;
     padding: 10px; }
