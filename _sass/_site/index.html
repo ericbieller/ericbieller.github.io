@@ -1,0 +1,335 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>The Endless Adventure</title>
+  <meta name="description" content="We’ve traded in our steady paychecks and permanent home for a life of travel and adventure.  Let's see what happens!
+">
+
+  <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+  <link href='https://fonts.googleapis.com/css?family=Itim|PT+Sans:400,700|Asap:700|Shadows+Into+Light:400|Londrina+Sketch:400' rel='stylesheet' type='text/css'>
+  <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.11.5/mapbox-gl.css' rel='stylesheet' />
+  
+  <link rel="apple-touch-icon" sizes="57x57" href="/images/favicon/apple-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="/images/favicon/apple-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="/images/favicon/apple-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="/images/favicon/apple-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="/images/favicon/apple-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="/images/favicon/apple-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="/images/favicon/apple-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="/images/favicon/apple-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/favicon/apple-icon-180x180.png">
+  <link rel="icon" type="image/png" sizes="192x192"  href="/images/favicon/android-icon-192x192.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="96x96" href="/images/favicon/favicon-96x96.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon/favicon-16x16.png">
+  <link rel="manifest" href="/images/favicon/manifest.json">
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="msapplication-TileImage" content="/images/favicon/ms-icon-144x144.png">
+  <meta name="theme-color" content="#ffffff">
+
+  <link rel="stylesheet" href="/css/normalize.css">
+  <link rel="stylesheet" href="/css/skeleton.css">
+  <link rel="stylesheet" href="/css/main.css">
+  <link rel="stylesheet" href="/css/global.css">
+  <link rel="stylesheet" href="/css/nav.css">
+  <link rel="stylesheet" href="/css/blog.css">
+  <link rel="stylesheet" href="/css/page.css">
+  <link rel="stylesheet" href="/css/post.css">
+  <link rel="stylesheet" href="/css/home.css">
+  <link rel="stylesheet" href="/css/finances.css">
+  <link rel="canonical" href="http://yourdomain.com/">
+  <link rel="alternate" type="application/rss+xml" title="The Endless Adventure" href="http://yourdomain.com/feed.xml" />
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+  <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.11.5/mapbox-gl.js'></script>
+  <script src='/js/Chart.min.js'></script>
+  
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/randomcolor/0.4.1/randomColor.js'></script>
+</head>
+
+  <body>
+
+    <header class="nav">
+  <nav class="site-nav">
+    <a class="page-link" href="/blog"><img src="/images/icons/marker.png" width="17" height="17px" />Travel Blog</a>
+    <a class="page-link" target="_blank" href="https://www.youtube.com/channel/UCEDrRCC0qRtPd5-sSa1hajw"><img src="/images/icons/video.png" width="17" height="17px" />Daily Vlog</a>
+    <a class="page-link logo" href="/"><img src="/images/logo.png" width="300" height="33" /></a>
+    <a class="page-link" href="/#location"><img src="/images/icons/map.png" width="17" height="17px" />Where we are</a>
+    <a class="page-link" href="/finances"><img src="/images/icons/money.png" width="17" height="17px" />Our Finances</a>
+  </nav>
+</header>
+
+<div class="hero">
+  <div class="copy">
+    <h1>LET'S GO SOMEWHERE</h1>
+    <p>
+      We’ve traded in our steady paychecks and permanent home for a life of travel and adventure.  Let's see what happens!
+
+    </p>
+  </div>
+  
+  <video height="900" width="auto" muted="" autoplay="" loop="" preload="auto">
+    <source src="/videos/home.mp4" type="video/mp4">
+  </video>
+</div>
+
+
+    <div class="page-content">
+        <div class="home">
+  <a name="location"></a>
+  <div class="map-wrapper">
+    <div class="copy">
+      <h2 class="subheader">Where we are</h2>
+      <p>And where we've been</p>
+    </div>
+    <div id="map"></div>
+  </div>
+  
+  <div class="container">
+    <div class="twelve columns">
+      <h2 class="subheader">Latest Vlogs</h2>
+      <p>
+        Follow along as we travel the world!
+      </p>
+    </div>
+  </div>
+  
+  <div class="container" id="videos"></div>
+  
+  <div class="container">
+    <div class="twelve columns yt-subscribe">
+      <h3>We upload a new adventure every day!</h3>
+      <a href="http://bit.ly/1Nnl2kq"><img src="/images/yt-subscribe.png" width="195" height="50"></a>
+    </div>
+  </div>
+  
+  <div class="instafeed">
+    <div class="instafeed-wrapper">
+      <script src="//instansive.com/widget/js/instansive.js"></script><iframe src="//instansive.com/widgets/297b3e923f11b1d116222aedfb3fc080a7104a6c.html" id="instansive_297b3e923f" name="instansive_297b3e923f"  scrolling="no" allowtransparency="true" class="instansive-widget" style="width: 100%; border: 0; overflow: hidden;"></iframe>
+    </div>
+    
+    <div class="container">
+      <div class="twelve columns follow-instagram">
+        <a href="https://www.instagram.com/theendlessadventure/"><img src="/images/follow-instagram.png" width="276" height="55" /></a>
+      </div>
+    </div>
+  </div>
+  
+  <div class="container blog-container">
+    <div class="twelve columns">
+      <h2 class="subheader">From the Blog</h2>
+      <p>
+        Tips and tricks for traveling the world
+      </p>
+    </div>
+    
+    <ul class="posts">
+      
+        <li class="one-third column">
+          <a class="post-link" href="/travel/2015/12/21/financial-update-december-2015-let-the-adventure-begin.html">
+            <img src="/images/headers/bridge.jpeg" class="post-image" />
+            <h2 class="subheader">December 2015 Financial Update - Let the Adventure Begin!</h2>
+          </a>
+        </li>
+      
+    </ul>
+  </div>
+  
+  <div class="subscribe">
+    <div class="container">
+      <div class="twelve columns">
+        <h2 class="subheader">Join the <span>Adventure</span></h2>
+      </div>
+      <div class="eight offset-by-two columns">
+        <p>
+          Enter your email below to keep up with all of our crazy adventures as they happen!
+        </p>
+      </div>
+      <div class="eight offset-by-two columns">
+        <form action="http://conversational.us6.list-manage.com/subscribe?u=f210e827b5997f97a4c359077&id=cbb27cac9e" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+          <div class="field">
+            <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="Email Address...">
+          </div>
+      <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+          <div style="position: absolute; left: -5000px;"><input type="text" name="b_0e8642f456c9823c71db27621_7403b78531" tabindex="-1" value=""></div>
+          <input type="submit" value="Join us!" name="subscribe" id="mc-embedded-subscribe" class="button">
+          <span>We'll never sell or misuse your email address. We promise!</span>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+$.ajax({
+  url: "https://www.googleapis.com/youtube/v3/playlistItems?part=contentDetails,snippet&maxResults=3&playlistId=PL29AtJe_IGx8xcKeIMoVlprLXVxCbFUDO&key=AIzaSyACIBXg2XoDGJCFOQHE7YtM4FPBqKm7DFo",
+  dataType:'JSONP',
+  type: 'GET',
+  success: function(data) {
+    console.log(data.items);
+    // Generate array of coordinates
+    $.each(data.items, function(index, value) {
+      console.log(value.snippet.thumbnails);
+        $("#videos").append('<div class="one-third column"><div class="video"><a href="http://youtube.com?v=' + value.contentDetails.videoId + '" target="_blank"><div class="thumbnail-wrapper"><img src="' + value.snippet.thumbnails.medium.url + '" /></a></div><div class="title"><span>' + value.snippet.description.split('-')[0] + '</span><span>' + value.snippet.title + '</span></div></div></div>');
+    });
+  }
+});
+
+</script>
+
+<script>
+mapboxgl.accessToken = 'pk.eyJ1IjoiZXJpY2JpZWxsZXIiLCJhIjoiY2locDh4c2h4MDNndXRwbTIzeG5rajQzaCJ9.JJHbghKWJgF-nUA2-nhq4Q';
+var map = new mapboxgl.Map({
+    container: 'map',
+    style: 'mapbox://styles/ericbieller/cihp8yrew00de92jamnkln0a7',
+    center: [6.328125, 39.740986],
+    zoom: .8
+});
+
+map.on('style.load', function () {
+  
+  var coordsArray = [];
+  var json = {
+    "type": "geojson",
+    "data": {
+        "type": "FeatureCollection",
+        "features": []
+    }
+  }
+  
+  $.ajax({
+    url: "https://spreadsheets.google.com/feeds/list/1Ssi9j4O4He78dESBBYx5GBlN51uOG5eLlzM5WPlsGJY/1/public/basic?alt=json",
+    dataType:'JSONP',
+    type: 'GET',
+    success: function(data) {
+      // Generate array of coordinates
+      $.each(data.feed.entry, function(index, value) {
+        var coords = value['title']['$t'].split(",");
+        coordsArray.push([coords[0], coords[1]]);
+        
+        // All but our current location
+        if (index != data.feed.entry.length-1) {
+          json.data.features.push({
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [coords[0], coords[1]],
+              "properties": {
+                "marker-symbol": "marker"
+              }
+            }
+          });
+        }
+      });
+      
+      // Route
+      map.addSource("route", {
+          "type": "geojson",
+          "data": {
+              "type": "Feature",
+              "properties": {},
+              "geometry": {
+                  "type": "LineString",
+                  "coordinates": coordsArray
+              }
+          }
+      });
+      map.addLayer({
+          "id": "route",
+          "type": "line",
+          "source": "route",
+          "layout": {
+              "line-join": "round",
+              "line-cap": "round"
+          },
+          "paint": {
+              "line-color": "#A7ADB4",
+              "line-width": 3,
+              "line-dasharray": [4, 2]
+          }
+      });
+      
+      // Previous locations
+      map.addSource("markers", json);
+      map.addLayer({
+          "id": "markers",
+          "type": "symbol",
+          "source": "markers",
+          "layout": {
+            "icon-image": "marker",
+            "icon-offset": [0,-22]
+          },
+          "paint": {
+              "text-size": 12
+          }
+      });
+      
+      // Current location
+      map.addSource("current-location", {
+          "type": "geojson",
+          "data": {
+              "type": "Feature",
+              "properties": {},
+              "geometry": {
+                  "type": "Point",
+                  "coordinates": coordsArray[coordsArray.length-1]
+              }
+          }
+      });
+      map.addLayer({
+          "id": "current-location",
+          "type": "symbol",
+          "source": "current-location",
+          "layout": {
+            "icon-image": "marker-2",
+            "icon-offset": [0,-30]
+          },
+          "paint": {
+              "text-size": 12
+          }
+      });
+      
+      // Recenter on most recent location
+      //map.setCenter(coordsArray[coordsArray.length-1]);
+    }
+  })
+  
+  $('#map').mousedown(function () {
+      $('#map canvas').css("pointer-events", "auto");
+  });
+
+  $( "#map" ).mouseleave(function() {
+    $('#map canvas').css("pointer-events", "none"); 
+  });
+});
+</script>
+
+    </div>
+
+    <footer class="site-footer">
+  <div class="container">
+    <div class="three columns">
+      <span><a href="/blog">Travel Blog</a><span>
+      <span><a href="https://www.youtube.com/channel/UCEDrRCC0qRtPd5-sSa1hajw" target="_blank">Daily Vlog</a></span>
+    </div>
+    <div class="three columns">
+      <span><a href="/#location">Where are we?</a></span>
+      <span><a href="/finances">Our Finances</a></span>
+    </div>
+    
+    <div class="six columns description">
+      <h2 class="footer-heading">The Endless Adventure</h2>
+      <p class="text">We’ve traded in our steady paychecks and permanent home for a life of travel and adventure.  Let's see what happens!
+</p>
+    </div>
+</footer>
+
+
+  </body>
+
+</html>

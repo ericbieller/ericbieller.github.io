@@ -1,0 +1,38 @@
+.finances {
+  text-align: center;
+  margin: 20px 0; }
+  .finances p {
+    font-size: 25px;
+    color: #626262;
+    padding: 30px 0 70px 0; }
+  .finances .month {
+    margin-bottom: 110px; }
+    .finances .month h2 {
+      margin-bottom: 60px; }
+    .finances .month:after {
+      content: "";
+      display: block;
+      clear: both; }
+  .finances .inflow,
+  .finances .outflow {
+    padding: 15px 70px 15px 20px;
+    border: 3px solid #f7f7f7;
+    text-align: left;
+    border-radius: 8px;
+    display: inline-block;
+    margin-bottom: 30px; }
+    .finances .inflow span,
+    .finances .outflow span {
+      display: block; }
+    .finances .inflow span:first-child,
+    .finances .outflow span:first-child {
+      font-size: 23px;
+      color: #777777; }
+    .finances .inflow span:last-child,
+    .finances .outflow span:last-child {
+      font-size: 34px;
+      font-weight: bold; }
+  .finances .inflow span:last-child {
+    color: #7CB154; }
+  .finances .outflow span:last-child {
+    color: #B4465B; }

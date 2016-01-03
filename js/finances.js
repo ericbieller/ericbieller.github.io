@@ -2,7 +2,7 @@
   var transactions = {};
   var outflows = 0;
 
-  Papa.parse('/finances/transactions.csv', {
+  Papa.parse('/finances/transactions-2.csv', {
     delimeter: ',',
     download: true,
     header: true,
