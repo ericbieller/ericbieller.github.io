@@ -16,14 +16,15 @@
     $.each(results.data, function(i, el) {
 
       var curr_time = new Date(el.Date).getTime()
-      var start_time = new Date('2015-10').getTime();
+      var start_time = new Date('2015/10/01').getTime();
 
       // Only get transactions past the start time
       if (curr_time >= start_time) {  
       
         // Split the date to use for the cat array key
         var split = el.Date.split('/');
-        var curr_date = split[2] + '-' + split[0];
+        var month = split[0];
+        var curr_date = split[2] + '/' + month + '/01'
       
         // initialize categories array for this date if doesn't exit
         if (typeof transactions[curr_date] == 'undefined') {
@@ -68,12 +69,12 @@
         }
       }
     });
-  
+    console.log(transactions);
     // Create a graph for each month of transactions
     $.each(transactions, function(i, el) {
       // Get human readable month and year
       var d = new Date(i);
-      var date = month[d.getMonth()] + " " + d.getFullYear();
+      var date = months[d.getMonth()] + " " + d.getFullYear();
     
       var outflow = "$" + addCommas(el.outflow.toFixed(2));
       var inflow = "$" + addCommas(el.inflow.toFixed(2));
@@ -87,7 +88,7 @@
           +"</div>"
           +"<div class='container'>"
             +"<div class='six columns'><div class='inflow'><span>Inflow</span><span>" + inflow + "</span></div><div class='outflow'><span>Outflow</span><span>" + outflow + "</span></div></div>"
-            +"<div class='six columns'><canvas width='400' height='400' id='" + month[d.getMonth()] + "'></canvas></div>"
+            +"<div class='six columns'><canvas width='400' height='400' id='" + months[d.getMonth()] + "'></canvas></div>"
           +"</div>"
         +"</div>";
     
@@ -110,7 +111,7 @@
         responsive: true
       }
   
-      var c = document.getElementById(month[d.getMonth()]).getContext('2d');;
+      var c = document.getElementById(months[d.getMonth()]).getContext('2d');;
       myNewChart = new Chart(c).Pie(data, options);
     });
   }
@@ -128,16 +129,16 @@
       return x1 + x2;
   }
 
-  var month = new Array();
-  month[0] = "January";
-  month[1] = "February";
-  month[2] = "March";
-  month[3] = "April";
-  month[4] = "May";
-  month[5] = "June";
-  month[6] = "July";
-  month[7] = "August";
-  month[8] = "September";
-  month[9] = "October";
-  month[10] = "November";
-  month[11] = "December";
+  var months = new Array();
+  months[0] = "January";
+  months[1] = "February";
+  months[2] = "March";
+  months[3] = "April";
+  months[4] = "May";
+  months[5] = "June";
+  months[6] = "July";
+  months[7] = "August";
+  months[8] = "September";
+  months[9] = "October";
+  months[10] = "November";
+  months[11] = "December";
