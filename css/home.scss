@@ -7,6 +7,15 @@
   position: relative;
   background: #393D43;
   margin-top: 70px;
+  
+  @media (max-width: 560px) {
+    background: url('/images/default-bg.jpg');
+    background-size: cover;
+    
+    video {
+      visibility: hidden;
+    }
+  }
 
   .copy {
     position: absolute;

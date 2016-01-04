@@ -2,6 +2,12 @@
   position: relative;
   background: #393D43;
   margin-top: 70px; }
+  @media (max-width: 560px) {
+    .hero {
+      background: url("/images/default-bg.jpg");
+      background-size: cover; }
+      .hero video {
+        visibility: hidden; } }
   .hero .copy {
     position: absolute;
     top: 50%;
