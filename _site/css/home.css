@@ -2,12 +2,8 @@
   position: relative;
   background: #393D43;
   margin-top: 70px; }
-  @media (max-width: 560px) {
-    .hero {
-      background: url("/images/default-bg.jpg");
-      background-size: cover; }
-      .hero video {
-        visibility: hidden; } }
+  .hero img {
+    display: none; }
   .hero .copy {
     position: absolute;
     top: 50%;
@@ -26,9 +22,9 @@
       -webkit-font-smoothing: antialiased; }
     @media (max-width: 560px) {
       .hero .copy h1 {
-        font-size: 35px; }
+        font-size: 32px; }
       .hero .copy p {
-        font-size: 20px; } }
+        font-size: 18px; } }
   .hero video {
     display: block;
     width: 100%;
@@ -39,7 +35,11 @@
     opacity: .6; }
   @media (max-width: 560px) {
     .hero {
-      margin-top: 0; } }
+      margin-top: 0; }
+      .hero img {
+        display: block; }
+      .hero video {
+        display: none; } }
 
 .home .map-wrapper {
   width: 900px;
