@@ -33,13 +33,14 @@
     top: 0%;
     z-index: 1;
     opacity: .6; }
+  @media (max-width: 660px) {
+    .hero img {
+      display: block; }
+    .hero video {
+      display: none; } }
   @media (max-width: 560px) {
     .hero {
-      margin-top: 0; }
-      .hero img {
-        display: block; }
-      .hero video {
-        display: none; } }
+      margin-top: 0; } }
 
 .home .map-wrapper {
   width: 900px;
