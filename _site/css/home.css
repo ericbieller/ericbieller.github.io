@@ -33,7 +33,7 @@
     top: 0%;
     z-index: 1;
     opacity: .6; }
-  @media (max-width: 660px) {
+  @media (max-width: 760px) {
     .hero img {
       display: block; }
     .hero video {
