@@ -42,6 +42,16 @@
     .hero {
       margin-top: 0; } }
 
+.home .about {
+  margin: 100px 0 80px 0; }
+  .home .about img {
+    margin-bottom: 30px;
+    border-radius: 4px; }
+  .home .about h2 {
+    margin-bottom: 50px; }
+  .home .about p {
+    font-size: 22px;
+    margin-bottom: 30px; }
 .home .map-wrapper {
   width: 900px;
   max-width: 100%;
