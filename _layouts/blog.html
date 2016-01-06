@@ -16,8 +16,10 @@
     <header class="page-header" style="background-image: url('/images/headers/{{ post.header_image }}');">
       <div class="container">
         <div class="ten offset-by-one columns">
-          <h1 class="post-title">{{ post.title }}</h1>
-          <p class="post-meta">{% if post.author %}<img class="avatar" src="http://www.gravatar.com/avatar/{{ author.gravatar}}?s=100" width="70" height="70" /><spa class="byline">By {{ author.name }}</span>{% endif %}</p>
+          <div class="copy">
+            <h1 class="post-title">{{ post.title }}</h1>
+            <p class="post-meta">{% if post.author %}<img class="avatar" src="http://www.gravatar.com/avatar/{{ author.gravatar}}?s=100" width="70" height="70" /><spa class="byline">By {{ author.name }}</span>{% endif %}</p>
+          </div>
         </div>
       </div>
     </header>
@@ -52,7 +54,7 @@
           </ul>
         </div>
         <div class="four columns">
-          sidebar
+          
         </div>
       </div>
     </section>
