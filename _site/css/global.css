@@ -128,3 +128,17 @@ body {
   body .featherlight-content {
     background: url("/images/opaque-mountains.jpg") !important;
     background-size: cover !important; }
+
+@media (max-width: 600px) {
+  .featherlight-content {
+    width: 100%;
+    margin: 0 !important;
+    padding: 0 !important;
+    border: none !important; }
+
+  #subscribe-modal {
+    width: 100%; }
+    #subscribe-modal p {
+      margin: 0;
+      padding: 0 30px;
+      width: auto; } }
