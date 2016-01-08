@@ -43,6 +43,7 @@
   <link rel="stylesheet" href="/css/post.css">
   <link rel="stylesheet" href="/css/home.css">
   <link rel="stylesheet" href="/css/finances.css">
+  <link rel="stylesheet" href="/css/featherlight.min.css">
   <link rel="canonical" href="http://yourdomain.com/travel/2015/12/21/financial-update-december-2015-let-the-adventure-begin.html">
   <link rel="alternate" type="application/rss+xml" title="The Endless Adventure" href="http://yourdomain.com/feed.xml" />
 
@@ -51,10 +52,10 @@
   <script src='/js/Chart.min.js'></script>
   
   <script src='https://cdnjs.cloudflare.com/ajax/libs/randomcolor/0.4.1/randomColor.js'></script>
+  <script src='/js/featherlight.min.js'></script>
 </head>
 
   <body class="post">
-    
     <header class="nav">
   <nav class="site-nav">
     <a class="page-link" href="/blog"><img src="/images/icons/marker.png" width="17" height="17px" />Travel Blog</a>
@@ -195,6 +196,26 @@
         </div>
       </div>
     </article>
+    
+    <div id="subscribe-modal" class="subscribe-modal">
+      <h3>Become an Adventurer!</h3>
+      <p>Add your email below to follow along on our crazy journey! We'll only email you every once in a while and we promise it will be super cool content.</p>
+      
+              <form class="subscribe" action="http://conversational.us6.list-manage.com/subscribe?u=f210e827b5997f97a4c359077&id=cbb27cac9e" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+                <div class="field">
+                  <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="Email Address...">
+                </div>
+            <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+                <div style="position: absolute; left: -5000px;"><input type="text" name="b_0e8642f456c9823c71db27621_7403b78531" tabindex="-1" value=""></div>
+                <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
+              </form>
+    </div>
+    
+    <script>
+      setTimeout(function() {
+        $.featherlight($("#subscribe-modal"));
+      }, 2500)
+    </script>
     
     <footer class="site-footer">
   <div class="container">

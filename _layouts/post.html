@@ -9,7 +9,6 @@
   {% include head.html %}
 
   <body class="post">
-    
     {% include nav.html %}
 
     <header class="page-header" style="background-image: url('/images/headers/{{ page.header_image }}');">
@@ -75,6 +74,18 @@
         </div>
       </div>
     </article>
+    
+    <div id="subscribe-modal" class="subscribe-modal">
+      <h3>Become an Adventurer!</h3>
+      <p>Add your email below to follow along on our crazy journey! We'll only email you every once in a while and we promise it will be super cool content.</p>
+      {% include subscribe.html %}
+    </div>
+    
+    <script>
+      setTimeout(function() {
+        $.featherlight($("#subscribe-modal"));
+      }, 2500)
+    </script>
     
     {% include footer.html %}
   </body>
