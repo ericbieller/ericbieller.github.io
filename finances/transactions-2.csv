@@ -3933,16 +3933,29 @@
 "Us Bank",,,12/22/2015,"Download from usbank.com.","Income:Available this month","Income","Available this month",,$0.00,$6.95,C,$4822.19
 "Us Bank",,,12/22/2015,"Download from usbank.com.","Income:Available this month","Income","Available this month",,$6.95,$0.00,C,$4815.24
 "Us Bank",,,12/22/2015,"Download from usbank.com. CAPITAL ONE","Pre-YNAB Debt:Venture Card","Pre-YNAB Debt","Venture Card",,$777.15,$0.00,C,$4038.09
-"Us Bank",,,12/23/2015,"Download from usbank.com. PAYPAL","Monthly Bills:Web Stuff","Monthly Bills","Web Stuff","",$9.99,$0.00,C,$4028.10
+"Us Bank",,,12/23/2015,"Download from usbank.com. PAYPAL","Monthly Bills:Web Stuff","Monthly Bills","Web Stuff",,$9.99,$0.00,C,$4028.10
 "Us Bank",,,12/24/2015,"Download from usbank.com. CAPITAL ONE","Pre-YNAB Debt:Venture Card","Pre-YNAB Debt","Venture Card",,$1058.81,$0.00,C,$2969.29
 "Us Bank",,,12/28/2015,"Download from usbank.com. APL* ITUNES.COM/866-712-7753CA","Everyday Expenses:Spending Money","Everyday Expenses","Spending Money",,$1.99,$0.00,C,$2967.30
 "Us Bank",,,12/28/2015,"Download from usbank.com. VENMO-2","Everyday Expenses:Spending Money","Everyday Expenses","Spending Money",,$1210.10,$0.00,C,$1757.20
-"Us Bank",,,12/29/2015,"Download from usbank.com. AMAZON DIG689922","Income:Available this month","Income","Available this month","",$0.00,$0.58,C,$1757.78
-"Us Bank",,,12/30/2015,"Download from usbank.com. VENMO-0","Income:Available this month","Income","Available this month","",$0.00,$21.60,C,$1779.38
+"Us Bank",,,12/29/2015,"Download from usbank.com. AMAZON DIG689922","Income:Available this month","Income","Available this month",,$0.00,$0.58,C,$1757.78
+"Us Bank",,,12/30/2015,"Download from usbank.com. VENMO-0","Income:Available this month","Income","Available this month",,$0.00,$21.60,C,$1779.38
 "Us Bank",,,12/30/2015,"Download from usbank.com. VENMO-2","Everyday Expenses:Spending Money","Everyday Expenses","Spending Money","parking ticket",$76.66,$0.00,C,$1702.72
 "Us Bank",,,12/31/2015,"Download from usbank.com. SQWIGGLE INC","Income:Available this month","Income","Available this month",,$0.00,$1798.57,C,$3501.29
-"Us Bank",,,12/31/2015,"Download from usbank.com. VENMO-2","Everyday Expenses:Transportation","Everyday Expenses","Transportation","",$7.66,$0.00,C,$3493.63
-"Us Bank",,,12/31/2015,"Download from usbank.com. VENMO-2","Everyday Expenses:Transportation","Everyday Expenses","Transportation","",$12.00,$0.00,C,$3481.63
+"Us Bank",,,12/31/2015,"Download from usbank.com. VENMO-2","Everyday Expenses:Transportation","Everyday Expenses","Transportation",,$7.66,$0.00,C,$3493.63
+"Us Bank",,,12/31/2015,"Download from usbank.com. VENMO-2","Everyday Expenses:Transportation","Everyday Expenses","Transportation",,$12.00,$0.00,C,$3481.63
+"Us Bank",,,01/04/2016,"Download from usbank.com. VENMO-0","Monthly Bills:Rent","Monthly Bills","Rent",,$0.00,$1668.68,C,$5150.31
+"Us Bank",,,01/04/2016,"Download from usbank.com. VENMO-0","Monthly Bills:Housing","Monthly Bills","Housing",,$0.00,$469.00,C,$5619.31
+"Us Bank",,,01/04/2016,"Download from usbank.com. BROOKSHIRE BROTHWIMBERLEY   TX---- You Requested $30.00 in Cash Back","Everyday Expenses:Spending Money","Everyday Expenses","Spending Money",,$37.49,$0.00,C,$5581.82
+"Us Bank",,,01/04/2016,"Download from usbank.com. CAPITAL ONE","Pre-YNAB Debt:Venture Card","Pre-YNAB Debt","Venture Card",,$594.68,$0.00,C,$4987.14
+"Us Bank",,,01/05/2016,"Download from usbank.com. PGANDE","Monthly Bills:Utilities","Monthly Bills","Utilities",,$44.21,$0.00,C,$4942.93
+"Us Bank",,,01/05/2016,"Download from usbank.com. Banana Visa","Everyday Expenses:Clothing","Everyday Expenses","Clothing",,$105.78,$0.00,C,$4837.15
+"Us Bank",,,01/05/2016,"Download from usbank.com. Mosser Companies","Monthly Bills:Rent","Monthly Bills","Rent",,$1612.53,$0.00,C,$3224.62
+"Us Bank",,,01/06/2016,"Download from usbank.com. VENMO-2","Everyday Expenses:Transportation","Everyday Expenses","Transportation",,$11.02,$0.00,C,$3213.60
+"Us Bank",,,01/08/2016,"Download from usbank.com. VENMO-2","Everyday Expenses:Spending Money","Everyday Expenses","Spending Money","",$33.18,$0.00,C,$3180.42
+"Us Bank",,,01/11/2016,"Mobile Rdc Deposit","Income:Available this month","Income","Available this month","",$0.00,$30.00,U,$3210.42
+"Us Bank",,,01/11/2016,"Depositpoint Deposit Fee","Income:Available this month","Income","Available this month","",$0.50,$0.00,U,$3209.92
+"Us Bank",,,01/11/2016,"Web Authorized Pmt Capital One","Pre-YNAB Debt:Venture Card","Pre-YNAB Debt","Venture Card","",$2000.00,$0.00,U,$1209.92
+"Us Bank",,,01/13/2016,"Electronic Deposit Payoneer Inc.","Income:Available this month","Income","Available this month","",$0.00,$3206.36,U,$4416.28
 "Amazon Credit Card",,,06/21/2015,"Starting Balance","Pre-YNAB Debt:Amazon Credit Card","Pre-YNAB Debt","Amazon Credit Card",,$0.00,$0.00,C,$0.00
 "Amazon Credit Card",,,06/21/2015,"Test","Everyday Expenses:Spending Money","Everyday Expenses","Spending Money",,$5.00,$0.00,U,-$5.00
 "Venture Card",,,07/14/2015,"Starting Balance","Pre-YNAB Debt:Venture Card","Pre-YNAB Debt","Venture Card",,$0.00,$59.97,C,$59.97
@@ -4773,8 +4786,8 @@
 "Venture Card",,,12/28/2015,"DIVA NAILS & SPA","Everyday Expenses:Health & Fitness","Everyday Expenses","Health & Fitness","DIVA NAILS & SPA",$14.40,$0.00,C,-$314.33
 "Venture Card",,,12/28/2015,"WM SUPERCENTER #152","Everyday Expenses:Spending Money","Everyday Expenses","Spending Money","WM SUPERCENTER #152",$17.52,$0.00,C,-$331.85
 "Venture Card",,,12/28/2015,"AIRBNB INC","Monthly Bills:Housing","Monthly Bills","Housing","AIRBNB INC",$65.00,$0.00,C,-$396.85
-"Venture Card",,,12/28/2015,"TRAVEL INSURANCE POLICY",,,,"TRAVEL INSURANCE POLICY",$72.00,$0.00,C,-$468.85
-"Venture Card",,,12/29/2015,"MPC 48",,,,"MPC 48",$5.84,$0.00,C,-$474.69
+"Venture Card",,,12/28/2015,"TRAVEL INSURANCE POLICY","Everyday Expenses:Transportation","Everyday Expenses","Transportation","TRAVEL INSURANCE POLICY",$72.00,$0.00,C,-$468.85
+"Venture Card",,,12/29/2015,"MPC 48","Everyday Expenses:Spending Money","Everyday Expenses","Spending Money","MPC 48",$5.84,$0.00,C,-$474.69
 "Venture Card",,,12/29/2015,"GULF OIL 92054567","Everyday Expenses:Transportation","Everyday Expenses","Transportation","GULF OIL 92054567",$13.42,$0.00,C,-$488.11
 "Venture Card",,,12/29/2015,"PANERA BREAD #1044","Everyday Expenses:Spending Money","Everyday Expenses","Spending Money","PANERA BREAD #1044",$21.62,$0.00,C,-$509.73
 "Venture Card",,,12/29/2015,"EXPRESS MART","Everyday Expenses:Spending Money","Everyday Expenses","Spending Money","EXPRESS MART",$24.98,$0.00,C,-$534.71
@@ -4793,3 +4806,66 @@
 "Venture Card",,,12/31/2015,"COX FARMS MARKET","Everyday Expenses:Groceries","Everyday Expenses","Groceries","COX FARMS MARKET",$29.28,$0.00,C,-$408.27
 "Venture Card",,,12/31/2015,"ROOSTER'S ROADHOUSE","Everyday Expenses:Spending Money","Everyday Expenses","Spending Money","ROOSTER'S ROADHOUSE",$29.86,$0.00,C,-$438.13
 "Venture Card",,,12/31/2015,"AIRBNB INC","Monthly Bills:Housing","Monthly Bills","Housing","AIRBNB INC",$702.00,$0.00,C,-$1140.13
+"Venture Card",,,01/02/2016,"CREDIT-TRAVEL REWARD","Everyday Expenses:Transportation","Everyday Expenses","Transportation","CREDIT-TRAVEL REWARD",$0.00,$261.83,C,-$878.30
+"Venture Card",,,01/02/2016,"NAME-CHEAP.COM NAME-CH","Monthly Bills:Web Stuff","Monthly Bills","Web Stuff","NAME-CHEAP.COM NAME-CH",$0.50,$0.00,C,-$878.80
+"Venture Card",,,01/02/2016,"HILL TOWN LIQUOR","Everyday Expenses:Spending Money","Everyday Expenses","Spending Money","HILL TOWN LIQUOR",$2.14,$0.00,C,-$880.94
+"Venture Card",,,01/02/2016,"ESPUMOSO CAFFE","Everyday Expenses:Coffee","Everyday Expenses","Coffee","ESPUMOSO CAFFE",$3.56,$0.00,C,-$884.50
+"Venture Card",,,01/02/2016,"TARGET 00022780","Everyday Expenses:Household Goods","Everyday Expenses","Household Goods","TARGET 00022780",$5.99,$0.00,C,-$890.49
+"Venture Card",,,01/02/2016,"HILL TOWN LIQUOR","Everyday Expenses:Spending Money","Everyday Expenses","Spending Money","HILL TOWN LIQUOR",$6.43,$0.00,C,-$896.92
+"Venture Card",,,01/02/2016,"WEST OAK COFFEE BAR","Everyday Expenses:Coffee","Everyday Expenses","Coffee","WEST OAK COFFEE BAR",$9.22,$0.00,C,-$906.14
+"Venture Card",,,01/02/2016,"QT 975 08009755","Everyday Expenses:Transportation","Everyday Expenses","Transportation","QT 975 08009755",$12.72,$0.00,C,-$918.86
+"Venture Card",,,01/02/2016,"SQ *ELLUMENTS","Everyday Expenses:Spending Money","Everyday Expenses","Spending Money","SQ *ELLUMENTS",$12.99,$0.00,C,-$931.85
+"Venture Card",,,01/02/2016,"HEB #173","Everyday Expenses:Groceries","Everyday Expenses","Groceries","HEB #173",$18.83,$0.00,C,-$950.68
+"Venture Card",,,01/02/2016,"CESAR'S TACOS","Everyday Expenses:Spending Money","Everyday Expenses","Spending Money","CESAR'S TACOS",$20.13,$0.00,C,-$970.81
+"Venture Card",,,01/02/2016,"THE TEXAS THEATRE","Everyday Expenses:Spending Money","Everyday Expenses","Spending Money","THE TEXAS THEATRE",$23.50,$0.00,C,-$994.31
+"Venture Card",,,01/02/2016,"NOVA","Everyday Expenses:Spending Money","Everyday Expenses","Spending Money","NOVA",$31.65,$0.00,C,-$1025.96
+"Venture Card",,,01/02/2016,"DEEP SUSHI","Everyday Expenses:Spending Money","Everyday Expenses","Spending Money","DEEP SUSHI",$37.56,$0.00,C,-$1063.52
+"Venture Card",,,01/02/2016,"PREKINDLE EVENTS","Everyday Expenses:Spending Money","Everyday Expenses","Spending Money","PREKINDLE EVENTS",$59.00,$0.00,C,-$1122.52
+"Venture Card",,,01/04/2016,"HEB GAS #173","Everyday Expenses:Transportation","Everyday Expenses","Transportation","HEB GAS #173",$6.67,$0.00,C,-$1129.19
+"Venture Card",,,01/04/2016,"WAL-MART #0901","Everyday Expenses:Groceries","Everyday Expenses","Groceries","WAL-MART #0901",$16.88,$0.00,C,-$1146.07
+"Venture Card",,,01/04/2016,"SAC N PAC 113","Everyday Expenses:Groceries","Everyday Expenses","Groceries","SAC N PAC 113",$19.64,$0.00,C,-$1165.71
+"Venture Card",,,01/04/2016,"CASA SOL MEXICAN RESTAURA","Everyday Expenses:Spending Money","Everyday Expenses","Spending Money","CASA SOL MEXICAN RESTAURA",$26.80,$0.00,C,-$1192.51
+"Venture Card",,,01/04/2016,"HEB #173","Everyday Expenses:Groceries","Everyday Expenses","Groceries","HEB #173",$28.77,$0.00,C,-$1221.28
+"Venture Card",,,01/04/2016,"COMCAST CALIFORN CS 1X","Monthly Bills:Internet","Monthly Bills","Internet","COMCAST CALIFORN CS 1X",$77.83,$0.00,C,-$1299.11
+"Venture Card",,,01/04/2016,"AMAZON MKTPLACE PMTS","Everyday Expenses:Spending Money","Everyday Expenses","Spending Money","AMAZON MKTPLACE PMTS",$192.39,$0.00,C,-$1491.50
+"Venture Card",,,01/04/2016,"AIRBNB INC","Monthly Bills:Housing","Monthly Bills","Housing","AIRBNB INC",$470.00,$0.00,C,-$1961.50
+"Venture Card",,,01/05/2016,"APL* ITUNES.COM/BILL","Everyday Expenses:Spending Money","Everyday Expenses","Spending Money","APL* ITUNES.COM/BILL",$3.99,$0.00,C,-$1965.49
+"Venture Card",,,01/05/2016,"VALENTINOS PIZZA","Everyday Expenses:Spending Money","Everyday Expenses","Spending Money","VALENTINOS PIZZA",$16.89,$0.00,C,-$1982.38
+"Venture Card",,,01/05/2016,"SCHLOTZSKY'S","Everyday Expenses:Spending Money","Everyday Expenses","Spending Money","SCHLOTZSKY'S",$18.80,$0.00,C,-$2001.18
+"Venture Card",,,01/05/2016,"COUNTER CULTURE RE","Everyday Expenses:Spending Money","Everyday Expenses","Spending Money","COUNTER CULTURE RE",$26.56,$0.00,C,-$2027.74
+"Venture Card",,,01/05/2016,"HERTZ RENT-A-CAR","Everyday Expenses:Transportation","Everyday Expenses","Transportation","HERTZ RENT-A-CAR",$330.86,$0.00,C,-$2358.60
+"Venture Card",,,01/06/2016,"OLD NAVY US 6615","Everyday Expenses:Clothing","Everyday Expenses","Clothing","OLD NAVY US 6615",$12.96,$0.00,C,-$2371.56
+"Venture Card",,,01/06/2016,"HOPS & GRAIN BREWING","Everyday Expenses:Spending Money","Everyday Expenses","Spending Money","HOPS & GRAIN BREWING",$23.00,$0.00,C,-$2394.56
+"Venture Card",,,01/06/2016,"GRUENE RIVER GRILL","Everyday Expenses:Spending Money","Everyday Expenses","Spending Money","GRUENE RIVER GRILL",$34.15,$0.00,C,-$2428.71
+"Venture Card",,,01/06/2016,"JOURNEYS #1019","Everyday Expenses:Clothing","Everyday Expenses","Clothing","JOURNEYS #1019",$91.95,$0.00,C,-$2520.66
+"Venture Card",,,01/06/2016,"AIRBNB INC","Monthly Bills:Housing","Monthly Bills","Housing","AIRBNB INC",$224.00,$0.00,C,-$2744.66
+"Venture Card",,,01/06/2016,"AIRBNB INC","Monthly Bills:Housing","Monthly Bills","Housing","AIRBNB INC",$521.00,$0.00,C,-$3265.66
+"Venture Card",,,01/07/2016,"BLUE CAT CAFE","Everyday Expenses:Spending Money","Everyday Expenses","Spending Money","BLUE CAT CAFE",$27.96,$0.00,C,-$3293.62
+"Venture Card",,,01/07/2016,"GROUPON INC","Everyday Expenses:Spending Money","Everyday Expenses","Spending Money","GROUPON INC",$30.00,$0.00,C,-$3323.62
+"Venture Card",,,01/07/2016,"HEB #465","Everyday Expenses:Groceries","Everyday Expenses","Groceries","HEB #465",$63.90,$0.00,C,-$3387.52
+"Venture Card",,,01/08/2016,"CENOTE","Everyday Expenses:Coffee","Everyday Expenses","Coffee","CENOTE",$4.06,$0.00,C,-$3391.58
+"Venture Card",,,01/08/2016,"GHOST PERSONAL","Monthly Bills:Web Stuff","Monthly Bills","Web Stuff","GHOST PERSONAL",$10.00,$0.00,C,-$3401.58
+"Venture Card",,,01/08/2016,"FEDEX 782114018331","Everyday Expenses:Spending Money","Everyday Expenses","Spending Money","FEDEX 782114018331",$14.83,$0.00,C,-$3416.41
+"Venture Card",,,01/08/2016,"CSTORE 2500 E 7th AustinT","Everyday Expenses:Spending Money","Everyday Expenses","Spending Money","CSTORE 2500 E 7th AustinT",$18.01,$0.00,C,-$3434.42
+"Venture Card",,,01/08/2016,"SQ *VERACRUZ ALL NA","Everyday Expenses:Spending Money","Everyday Expenses","Spending Money","SQ *VERACRUZ ALL NA",$20.84,$0.00,C,-$3455.26
+"Venture Card",,,01/08/2016,"LAS CAZUELAS","Everyday Expenses:Spending Money","Everyday Expenses","Spending Money","LAS CAZUELAS",$22.38,$0.00,C,-$3477.64
+"Venture Card",,,01/08/2016,"DRIFTWOOD ESTATE WINERY","Everyday Expenses:Spending Money","Everyday Expenses","Spending Money","DRIFTWOOD ESTATE WINERY",$47.26,$0.00,C,-$3524.90
+"Venture Card",,,01/09/2016,"CAPITAL ONE ONLINE PYMT","Pre-YNAB Debt:Venture Card","Pre-YNAB Debt","Venture Card","CAPITAL ONE ONLINE PYMT AuthDate 09-JAN",$0.00,$2000.00,C,-$1524.90
+"Venture Card",,,01/09/2016,"THE LEANING PEAR","Everyday Expenses:Spending Money","Everyday Expenses","Spending Money","THE LEANING PEAR",$27.09,$0.00,C,-$1551.99
+"Venture Card",,,01/09/2016,"ALAMO S LAMAR RETAIL","Everyday Expenses:Spending Money","Everyday Expenses","Spending Money","ALAMO S LAMAR RETAIL",$36.75,$0.00,C,-$1588.74
+"Venture Card",,,01/11/2016,"REGISTER@FAA 333MEEN","Everyday Expenses:Spending Money","Everyday Expenses","Spending Money","REGISTER@FAA 333MEEN",$0.00,$5.00,C,-$1583.74
+"Venture Card",,,01/11/2016,"APL* ITUNES.COM/BILL","Everyday Expenses:Spending Money","Everyday Expenses","Spending Money","APL* ITUNES.COM/BILL",$0.99,$0.00,C,-$1584.73
+"Venture Card",,,01/11/2016,"ICE HOUSE","Everyday Expenses:Spending Money","Everyday Expenses","Spending Money","ICE HOUSE",$5.41,$0.00,C,-$1590.14
+"Venture Card",,,01/11/2016,"AUSBCYCLE 512-954-1665","Everyday Expenses:Spending Money","Everyday Expenses","Spending Money","AUSBCYCLE 512-954-1665",$8.00,$0.00,C,-$1598.14
+"Venture Card",,,01/11/2016,"AUSBCYCLE 512-954-1665","Everyday Expenses:Spending Money","Everyday Expenses","Spending Money","AUSBCYCLE 512-954-1665",$8.00,$0.00,C,-$1606.14
+"Venture Card",,,01/11/2016,"EL SOL Y LA LUNA","Everyday Expenses:Spending Money","Everyday Expenses","Spending Money","EL SOL Y LA LUNA",$9.20,$0.00,C,-$1615.34
+"Venture Card",,,01/11/2016,"TRINITY- IRON CACT","Everyday Expenses:Spending Money","Everyday Expenses","Spending Money","TRINITY- IRON CACT",$10.47,$0.00,C,-$1625.81
+"Venture Card",,,01/11/2016,"ALAMO S LAMAR REST","Everyday Expenses:Spending Money","Everyday Expenses","Spending Money","ALAMO S LAMAR REST",$11.01,$0.00,C,-$1636.82
+"Venture Card",,,01/11/2016,"THE DINOSAUR PARK","Everyday Expenses:Spending Money","Everyday Expenses","Spending Money","THE DINOSAUR PARK",$14.00,$0.00,C,-$1650.82
+"Venture Card",,,01/11/2016,"KORIENTE RESTAURANT","Everyday Expenses:Spending Money","Everyday Expenses","Spending Money","KORIENTE RESTAURANT",$23.11,$0.00,C,-$1673.93
+"Venture Card",,,01/11/2016,"JOE'S BAKERY & COFFEE","Everyday Expenses:Spending Money","Everyday Expenses","Spending Money","JOE'S BAKERY & COFFEE",$24.34,$0.00,C,-$1698.27
+"Venture Card",,,01/11/2016,"HILL COUNTRY WINE SHOPPE","Everyday Expenses:Spending Money","Everyday Expenses","Spending Money","HILL COUNTRY WINE SHOPPE",$28.07,$0.00,C,-$1726.34
+"Venture Card",,,01/11/2016,"FEDEXOFFICE 00044016","Everyday Expenses:Spending Money","Everyday Expenses","Spending Money","FEDEXOFFICE 00044016",$33.48,$0.00,C,-$1759.82
+"Venture Card",,,01/11/2016,"ALAMO S LAMAR REST","Everyday Expenses:Spending Money","Everyday Expenses","Spending Money","ALAMO S LAMAR REST",$49.30,$0.00,C,-$1809.12
+"Venture Card",,,01/11/2016,"TARGET 00024380","Everyday Expenses:Household Goods","Everyday Expenses","Household Goods","TARGET 00024380",$52.50,$0.00,C,-$1861.62
+"Venture Card",,,01/12/2016,"WHISLERS","Everyday Expenses:Spending Money","Everyday Expenses","Spending Money","WHISLERS",$30.00,$0.00,C,-$1891.62
