@@ -85,13 +85,12 @@ body {
       margin: 0px auto;
       font-size: 18px;
       color: #585858; }
-  body .subscribe {
-    float: right;
+  body .subscribe-modal .subscribe {
     margin: 0; }
-    body .subscribe:after {
+    body .subscribe-modal .subscribe:after {
       content: "";
       clear: both; }
-    body .subscribe .field {
+    body .subscribe-modal .subscribe .field {
       border-top-left-radius: 4px;
       border-bottom-left-radius: 4px;
       height: 100%;
@@ -99,7 +98,7 @@ body {
       padding: 2px;
       height: 34px;
       background: #fff; }
-      body .subscribe .field input {
+      body .subscribe-modal .subscribe .field input {
         border: none;
         width: 100%;
         height: 100%;
@@ -107,7 +106,7 @@ body {
         width: 220px;
         font-size: 14px;
         padding-left: 12px; }
-    body .subscribe .button {
+    body .subscribe-modal .subscribe .button {
       display: block;
       float: left;
       margin: 0 0 0 -2px;
@@ -119,11 +118,11 @@ body {
       font-size: 15px;
       padding: 11px 20px;
       line-height: normal; }
-      body .subscribe .button:hover {
+      body .subscribe-modal .subscribe .button:hover {
         opacity: .9;
         background: #66D295;
         color: #fff; }
-      body .subscribe .button span {
+      body .subscribe-modal .subscribe .button span {
         text-transform: uppercase; }
   body .featherlight-content {
     background: url("/images/opaque-mountains.jpg") !important;
