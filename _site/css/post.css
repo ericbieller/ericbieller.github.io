@@ -79,8 +79,7 @@
 .post-footer .comments {
   margin-top: 80px; }
 .post-footer .author {
-  height: 109px;
-  padding: 35px;
+  padding: 35px 35px 30px 35px;
   background: #f7f7f7;
   margin: 100px 0 40px 0;
   border-radius: 8px; }
@@ -88,6 +87,9 @@
     width: 40px;
     height: 40px;
     opacity: .4; }
+    .post-footer .author .icon.youtube {
+      width: 26px;
+      height: 26px; }
   .post-footer .author .author-avatar {
     display: block;
     width: 109px;
@@ -95,7 +97,7 @@
     background-size: 109px 109px;
     border-radius: 60px;
     float: left;
-    margin: 0 30px 100px 0; }
+    margin: 0 30px 70px 0; }
   .post-footer .author h4 {
     margin: 0 0 16px 0;
     line-height: 0.7; }

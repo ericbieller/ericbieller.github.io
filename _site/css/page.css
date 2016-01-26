@@ -3,3 +3,9 @@
   background-size: cover;
   background-color: #f7f7f7;
   margin-top: 70px; }
+  .page-header h1 a {
+    color: #fff; }
+    .page-header h1 a:hover {
+      color: #fff;
+      opacity: .90;
+      text-decoration: none; }

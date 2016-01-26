@@ -125,8 +125,7 @@
   }
   
   .author {
-    height: 109px;
-    padding: 35px;
+    padding: 35px 35px 30px 35px;
     background: #f7f7f7;
     margin: 100px 0 40px 0;
     border-radius: 8px;
@@ -135,6 +134,11 @@
       width: 40px;
       height: 40px;
       opacity: .4;
+      
+      &.youtube {
+        width: 26px;
+        height: 26px;
+      }
     }
     
     .author-avatar {
@@ -144,7 +148,7 @@
       background-size: 109px 109px;
       border-radius: 60px;
       float: left;
-      margin: 0 30px 100px 0;
+      margin: 0 30px 70px 0;
       
     }
     h4 {

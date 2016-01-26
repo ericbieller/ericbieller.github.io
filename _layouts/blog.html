@@ -17,7 +17,7 @@
       <div class="container">
         <div class="ten offset-by-one columns">
           <div class="copy">
-            <h1 class="post-title">{{ post.title }}</h1>
+            <h1 class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></h1>
             <p class="post-meta">{% if post.author %}<img class="avatar" src="http://www.gravatar.com/avatar/{{ author.gravatar}}?s=100" width="70" height="70" /><spa class="byline">By {{ author.name }}</span>{% endif %}</p>
           </div>
         </div>
@@ -30,31 +30,36 @@
           <ul class="loop">
 
               {% for post in site.posts %}
-              {% if forloop.index == 1 %}
-                {% break %}
-              {% endif %}
-              {% assign author = site.data.authors[post.author] %}
-              <li class="post">
-              <article class="{{post_class}}">
-                  <header class="post-header">
-                      <h2 class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
-                  <div class="post-meta">
-                    {% if author %}
-                    <img class="author-thumb" src="http://www.gravatar.com/avatar/{{ author.gravatar}}?s=100" alt="Author image" nopin="nopin" />
-                    <span class="author">By {{ author.name }}</span>
-                    {% endif %}
-                  </div>
-                  </header>
-                  <section class="post-excerpt">
-                      <p>{{ post.excerpt }} <div class="read-more"><a href="{{ post.url }}">READ MORE</a></div></p>
-                  </section>
-              </article>
-              </li>
+              {% if forloop.index != 1 %}
+                {% assign author = site.data.authors[post.author] %}
+                <li class="post">
+                <article class="{{post_class}}">
+                    <header class="post-header">
+                        <h2 class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
+                    <div class="post-meta">
+                      {% if author %}
+                      <img class="author-thumb" src="http://www.gravatar.com/avatar/{{ author.gravatar}}?s=100" alt="Author image" nopin="nopin" />
+                      <span class="author">By {{ author.name }}</span>
+                      {% endif %}
+                    </div>
+                    </header>
+                    <section class="post-excerpt">
+                        <p>{{ post.excerpt }} <div class="read-more"><a href="{{ post.url }}">READ MORE</a></div></p>
+                    </section>
+                </article>
+                </li>
+                {% endif %}
               {% endfor %}
           </ul>
         </div>
         <div class="four columns">
-          
+          <div class="sidebar">
+            <section class="youtube">
+              <h3>Watch <em>The Endless Adventure</em> on YouTube</h3>
+              <p>We post a new adventure every day. <a href="http://bit.ly/1Nnl2kq">Subscribe</a> and follow along!</p>
+              <iframe width="560" height="315" src="https://www.youtube.com/embed/Qm7a1IA7oQ8" frameborder="0" allowfullscreen></iframe>
+            </section>
+          </div>
         </div>
       </div>
     </section>
