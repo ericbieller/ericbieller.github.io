@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "10 Tips to Make Your next Road Trip Not Suck"
+title:  "10 Tips to Make Your Next Road Trip Not Suck"
 date:   2016-01-25 12:00:00
 categories: travel
 header_image: road-trip-header.jpeg
