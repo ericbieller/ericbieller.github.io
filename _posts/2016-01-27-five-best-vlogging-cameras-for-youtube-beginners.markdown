@@ -152,7 +152,7 @@ This camera is pretty much the king of the Point-and-Shoots. It’s about as pop
 So that's our breakdown of the best vlogging cameras for beginning YouTube vloggers. Keep in mind this is our own personal opinions. It's up to you to figure out what works for you and to do the research to find the right one.
 
 Thanks a lot for reading. If you found this helpful, we hope you consider <a class="twitter-share-button"
-  href="https://twitter.com/intent/tweet?text=The 5 Best Vlogging Cameras for YouTube Beginners via @the_endless_a http://localhost:4000/vlogging/2016/01/27/five-best-vlogging-cameras-for-youtube-beginners.html"
+  href="https://twitter.com/intent/tweet?text=The 5 Best Vlogging Cameras for YouTube Beginners via @the_endless_a http://bit.ly/1nzJ6IU"
   data-size="large">sharing it on Twitter</a>. If you have any questions or comments, you can leave those below or shoot us a message on [Twitter](http://twitter.com/the_endless_a). Happy vlogging!
 
 
