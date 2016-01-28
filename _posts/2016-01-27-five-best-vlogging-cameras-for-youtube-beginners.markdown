@@ -153,7 +153,7 @@ So that's our breakdown of the best vlogging cameras for beginning YouTube vlogg
 
 Thanks a lot for reading. If you found this helpful, we hope you consider <a class="twitter-share-button"
   href="https://twitter.com/intent/tweet?text=The 5 Best Vlogging Cameras for YouTube Beginners via @the_endless_a http://bit.ly/1nzJ6IU"
-  data-size="large">sharing it on Twitter</a>. If you have any questions or comments, you can leave those below or shoot us a message on [Twitter](http://twitter.com/the_endless_a). Happy vlogging!
+  data-size="large" target="_blank">sharing it on Twitter</a>. If you have any questions or comments, you can leave those below or shoot us a message on [Twitter](http://twitter.com/the_endless_a). Happy vlogging!
 
 
 
