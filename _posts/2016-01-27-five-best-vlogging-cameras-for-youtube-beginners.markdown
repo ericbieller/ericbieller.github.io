@@ -9,7 +9,7 @@ author: eric_bieller
 
 Starting out as a vlogger on YouTube is hard enough without having to stress over which camera to buy. There are a dizzying amount of DSLR, Mirrorless and Point-and-Shoot cameras on the market. So how do you decide which one is the best camera for a new vlogger?
 
-Well, we’ve been vlogging full-time for the last 4 months and we’ve learned that there are specific things that matter most when searching for the right vlogging camera:
+Well, we’ve been vlogging full-time on [our YouTube channel](https://www.youtube.com/channel/UCEDrRCC0qRtPd5-sSa1hajw) for a good while now and we’ve learned that there are specific things that matter most when searching for the right vlogging camera:
 
 - Price
 - Size / Weight

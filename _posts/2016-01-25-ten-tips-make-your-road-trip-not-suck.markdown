@@ -72,7 +72,7 @@ Sitting in an uncomfortable seat in a cramped car and only stopping at rest stop
 
 ##9. Dress comfy!
 
-This is probably a given, but wearing restricting clothing is definitely not the best idea for long days in the car. We’re not saying wear your pjs and slippers the whole time, but maybe wear comfortable leggings instead of tights or a cotton t-shirt instead of a button down. Also, consider bringing a small blanket and pillow can make all the difference. Nothing’s more annoying than silently freezing for hours or waking up to a crick in your neck from sleeping against the window.
+This is probably a given, but wearing restricting clothing is definitely not the best idea for long days in the car. We’re not saying wear your pjs and slippers the whole time, but maybe wear comfortable leggings instead of tights or a cotton t-shirt instead of a button down. Also, consider bringing a small blanket and pillow. Nothing’s more annoying than silently freezing for hours or waking up to a crick in your neck from sleeping against the window!
 
 ![neck hurting]({{ site.url }}/images/uploads/sleeping-in-car.png)
 
