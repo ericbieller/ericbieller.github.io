@@ -216,8 +216,8 @@
       .home .posts .post-link:hover .post-image {
         transform: scale(1.05); }
   .home .posts .post-image {
-    width: 110%;
-    height: auto;
+    width: auto;
+    height: 100%;
     position: absolute;
     transition: all ease-out .25s; }
   .home .posts h2 {
