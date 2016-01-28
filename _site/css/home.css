@@ -219,7 +219,8 @@
     width: auto;
     height: 100%;
     position: absolute;
-    transition: all ease-out .25s; }
+    transition: all ease-out .25s;
+    max-width: none; }
   .home .posts h2 {
     color: #fff;
     text-decoration: none;

@@ -54,7 +54,7 @@ With such a short list of cons, the Canon S120 is a really great camera for vlog
 
 This is the camera we chose when we first started vlogging, and I think we made a great choice! It’s an all-around better camera than the S120, but it’s a bit more expensive at around $599. Here’s the breakdown:
 
-[!canon powershot g7x]({{ site.url }}/images/uploads/g7x.jpg)
+![canon powershot g7x]({{ site.url }}/images/uploads/g7x.jpg)
 
 **Pros**
 
@@ -82,7 +82,7 @@ We recently switched from the Canon G7X to the a6000. Now that isn’t to say th
 
 This camera is even cheaper than some point-and-shoot cameras at around $698.
 
-[!sony a6000]({{ site.url }}/images/uploads/a6000.jpg)
+![sony a6000]({{ site.url }}/images/uploads/a6000.jpg)
 
 **Pros**
 
@@ -105,7 +105,7 @@ This camera is even cheaper than some point-and-shoot cameras at around $698.
 
 This is a really great camera by Sony. It’s light and has an intuitive physical design, which makes it a great camera for YouTube vloggers. It’s a bit more expensive than some Point-and-Shoot cameras on this list, but only by a bit, selling for around $777.
 
-[!nex]({{ site.url }}/images/uploads/nex.jpg)
+![nex]({{ site.url }}/images/uploads/nex.jpg)
 
 **Pros**
 
@@ -126,7 +126,7 @@ This is a really great camera by Sony. It’s light and has an intuitive physica
 
 This camera is pretty much the king of the Point-and-Shoots. It’s about as popular among vloggers as the Canon G7X. And for good reason! It’s design and functionality is extremely comparable. The price, however, isn’t. The Mark IV sells for around $948.
 
-[!sony rx100 IV]({{ site.url }}/images/uploads/rx100.jpg)
+![sony rx100 IV]({{ site.url }}/images/uploads/rx100.jpg)
 
 **Pros**
 
@@ -146,5 +146,14 @@ This camera is pretty much the king of the Point-and-Shoots. It’s about as pop
 - No touchscreen
 
 [Price it on Amazon](http://www.amazon.com/Sony-Cyber-shot-DSC-RX100-Digital-Camera/dp/B00ZDWGM34/ref=sr_1_2?s=photo&ie=UTF8&qid=1453953364&sr=1-2&keywords=sony+rx100)
+
+---
+
+So that's our breakdown of the best vlogging cameras for beginning YouTube vloggers. Keep in mind this is our own personal opinions. It's up to you to figure out what works for you and to do the research to find the right one.
+
+Thanks a lot for reading. If you found this helpful, we hope you consider <a class="twitter-share-button"
+  href="https://twitter.com/intent/tweet?text=The 5 Best Vlogging Cameras for YouTube Beginners via @the_endless_a http://localhost:4000/vlogging/2016/01/27/five-best-vlogging-cameras-for-youtube-beginners.html"
+  data-size="large">sharing it on Twitter</a>. If you have any questions or comments, you can leave those below or shoot us a message on [Twitter](http://twitter.com/the_endless_a). Happy vlogging!
+
 
 

@@ -26,6 +26,17 @@ body {
     text-align: center;
     z-index: 1;
     position: relative; }
+  body .page-header .read-now {
+    width: 100%;
+    text-align: center;
+    color: #fff;
+    display: block;
+    z-index: 1;
+    opacity: .70;
+    position: relative; }
+    body .page-header .read-now:hover {
+      opacity: 1;
+      text-decoration: none; }
   body .page-header .copy {
     padding: 80px 0; }
   body .page-content {

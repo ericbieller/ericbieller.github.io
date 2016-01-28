@@ -20,6 +20,8 @@
 .post hr {
   border: 2px solid #f7f7f7;
   margin: 70px 0 60px 0; }
+.post img {
+  max-width: 50%; }
 
 .post-meta {
   color: #fff;
