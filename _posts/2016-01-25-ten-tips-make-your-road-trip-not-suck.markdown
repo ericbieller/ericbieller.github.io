@@ -7,7 +7,7 @@ header_image: road-trip-header.jpeg
 author: allison_bieller
 ---
 
-Road trips always sound adventurous and exciting, but in reality, if you’re covering a lot ground in a short amount of time, they can get pretty tedious. Add in bad weather, the horrible songs your friend keeps playing, and the mountain of trash and random souvenirs you pick up along the way - that all inevitably end up in between your legs - a road trip can easily turn into a one-way trip to hell.
+Road trips always sound adventurous and exciting, but in reality, if you’re covering a lot ground in a short amount of time, they can get pretty tedious. Add in bad weather, the horrible songs your friend keeps playing, and the mountain of trash and random souvenirs you pick up along the way which inevitably ends up between your legs, suddenly a road trip can easily turn into a one-way trip to hell.
 
 We've spent countless hours on the road traveling from place to place. [We often vlog our time on the road](https://www.youtube.com/watch?v=NUkvUX43zVk) so that others can learn from our mistakes and, hopefully, be entertained :) So we know a thing or two about road tripping!
 
