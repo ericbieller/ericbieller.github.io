@@ -7,7 +7,7 @@ header_image: beach-dock.jpeg
 author: eric_bieller
 ---
 
-##[Stroll through Dunlawton Sugar Mill Gardens](http://dunlawtonsugarmillgardens.org/index.html)
+## [Stroll through Dunlawton Sugar Mill Gardens](http://dunlawtonsugarmillgardens.org/index.html)
 
 We had to check this place out because the pictures online just looked amazing. We weren’t let down! We arrived and were instantly enamored with the beauty of the place. The walking paths are lined with foliage and vegetation, not to mention curious squirrels.
 
