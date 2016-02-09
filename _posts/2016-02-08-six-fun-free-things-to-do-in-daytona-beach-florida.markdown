@@ -21,7 +21,7 @@ We paid a visit to the gardens in a recent vlog episode:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/keej3nX1TEM" frameborder="0" allowfullscreen></iframe>
 
-##[Tour the Angel and Phellps Chocolate Factory](http://angellandphelps.com/tours.html)
+## [Tour the Angel and Phellps Chocolate Factory](http://angellandphelps.com/tours.html)
 
 We all had a bit of a sweet tooth, so we decided to take a tour of the Angel and Phellps Chocolate Factory in Daytona, Florida. As soon as we walked in, they handed free samples to us. I tried a fudge bar that was literally called “Amazing”. And let me tell you, as the name implies, it was amazing!
 
@@ -29,7 +29,7 @@ We showed up around 2pm on a Wednesday and the place was rather crowded. Which i
 
 At the end of the tour, you are able to pick a couple samples to try. I highly recommend the chocolate covered potato chips. They were so good it was stupid.
 
-##[Walk the Daytona Beach Boardwalk](http://www.daytonabeachboardwalk.com/)
+## [Walk the Daytona Beach Boardwalk](http://www.daytonabeachboardwalk.com/)
 
 Since we were staying just down the road, we had to check out the Daytona Beach Boardwalk. Here you’ll find the usual boardwalk amenities: Huge hot dogs, rides, and crowds of tourists. We actually traveled here in the off season so it was manageable, but I’d hate to see how busy this place gets in the summer months!
 
@@ -37,7 +37,7 @@ The beach was great. Aside from almost being run over by minivans and jeeps (yep
 
 The Boardwalk is definitely a must-go. So next time you’re in Daytona, why not grab hot dog, hop on the ferris wheel and chill.
 
-##[Explore the Ponce de leon Lighthouse](http://ponceinlet.org/)
+## [Explore the Ponce de leon Lighthouse](http://ponceinlet.org/)
 
 During our time in Florida, we were always on the hunt for epic views and photo ops. The Ponce De Leon Lighthouse did not let us down. This 175 foot tall lighthouse overlooks the Ponce Inlet beach. The views from the top were just amazing. We got lucky here too as we didn’t find it to be too crowded, but I can imagine how busy it might get
 
@@ -51,11 +51,11 @@ We also visited the Ponce de Leon Lighthouse in a recent vlog:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/keej3nX1TEM" frameborder="0" allowfullscreen></iframe>
 
-##[Visit the North Peninsula Sate Recreation Area](https://www.floridastateparks.org/park/north-peninsula)
+## [Visit the North Peninsula Sate Recreation Area](https://www.floridastateparks.org/park/north-peninsula)
 
 Now that you’ve had your fill of tours and tourists, take a secluded and peaceful hike through the North Peninsula State Park. Parking is free and cars aren’t allowed on the beach, so you won’t have to worry about sharing the road. Plus there aren’t any tacky condos in sight which was probably our favorite part! Just pretty walking trails, sun-bathers, turtles, and blue herons. We also hear it’s a bird-watchers paradise, so if that’s your thing, make sure to bring your binoculars. 
 
-##[Check out The Casements - John D. Rockefeller’s Summer Home](http://www.thecasements.net/)
+## [Check out The Casements - John D. Rockefeller’s Summer Home](http://www.thecasements.net/)
 
 The Casements was purchased in 1918 for [John D. Rockefeller](https://en.wikipedia.org/wiki/John_D._Rockefeller) and it served as his winter getaway during his retirement years. He ultimately passed away there in 1937.
 
