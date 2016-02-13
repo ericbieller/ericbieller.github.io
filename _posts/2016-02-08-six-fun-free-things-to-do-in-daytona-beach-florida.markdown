@@ -7,6 +7,10 @@ header_image: beach-dock.jpeg
 author: eric_bieller
 ---
 
+When you're traveling to new places, budget is always a huge factor. We recently spent a week in Daytona, Florida and we were determined to stretch our budget as far as possible. We managed to have a ton of fun every day without spending an arm and a leg! 
+
+Check out these fun and free activities to do in Daytona, Florida: 
+
 ## [Stroll through Dunlawton Sugar Mill Gardens](http://dunlawtonsugarmillgardens.org/index.html)
 
 We had to check this place out because the pictures online just looked amazing. We weren’t let down! We arrived and were instantly enamored with the beauty of the place. The walking paths are lined with foliage and vegetation, not to mention curious squirrels.
