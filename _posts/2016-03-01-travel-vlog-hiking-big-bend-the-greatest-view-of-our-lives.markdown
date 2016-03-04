@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Travel Vlog: Hiking Big Bend - The Greatest View of Our Lives"
-date:   2016-02-19 12:00:00
+date:   2016-03-03 12:00:00
 categories: Adventures
 header_image: allison-eric-big-bend.png
 author: eric_bieller
