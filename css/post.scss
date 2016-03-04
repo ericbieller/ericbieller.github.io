@@ -4,6 +4,10 @@
 @import 'elements';
 
 .post {
+  p {
+    color: #1d1d1d;
+  }
+  
   .page-header {
     position: relative;
     
@@ -17,6 +21,7 @@
     
     .byline {
       display: block;
+      color: #fff;
     }
     
     &:after {
@@ -36,8 +41,13 @@
     margin: 70px 0 60px 0;
   }
   
-  img {
-    max-width: 50%;
+  .full-post {
+    img {
+      width: 100%;
+    }
+    iframe { 
+      width: 100%;
+    }
   }
 }
 
@@ -71,8 +81,8 @@
     }
     > p:first-child {
       font-weight: bold;
-      color: #575757;
       margin-bottom: 48px;
+      font-size: 24px;
     }
     
     p {

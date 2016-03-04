@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Check out These 6 Fun and FREE Things to Do in Daytona Beach"
-date:   2016-01-27 12:00:00
+date:   2016-02-08 12:00:00
 categories: travel
 header_image: beach-dock.jpeg
 author: eric_bieller

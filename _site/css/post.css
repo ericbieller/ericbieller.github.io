@@ -1,3 +1,5 @@
+.post p {
+  color: #1d1d1d; }
 .post .page-header {
   position: relative; }
   .post .page-header .avatar {
@@ -7,7 +9,8 @@
     margin-left: 4px;
     margin-top: 40px; }
   .post .page-header .byline {
-    display: block; }
+    display: block;
+    color: #fff; }
   .post .page-header:after {
     content: "";
     display: block;
@@ -20,8 +23,10 @@
 .post hr {
   border: 2px solid #f7f7f7;
   margin: 70px 0 60px 0; }
-.post img {
-  max-width: 50%; }
+.post .full-post img {
+  width: 100%; }
+.post .full-post iframe {
+  width: 100%; }
 
 .post-meta {
   color: #fff;
@@ -47,8 +52,8 @@
     margin: 52px 0 22px 0; }
   .post-content .full-post > p:first-child {
     font-weight: bold;
-    color: #575757;
-    margin-bottom: 48px; }
+    margin-bottom: 48px;
+    font-size: 24px; }
   .post-content .full-post p {
     font-size: 22px;
     margin-bottom: 28px; }
