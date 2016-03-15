@@ -26,7 +26,11 @@
 .post .full-post img {
   width: 100%; }
 .post .full-post iframe {
-  width: 100%; }
+  max-width: 562px;
+  width: 100%;
+  margin: 0px auto;
+  display: block;
+  margin-bottom: 45px; }
 
 .post-meta {
   color: #fff;

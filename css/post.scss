@@ -46,7 +46,11 @@
       width: 100%;
     }
     iframe { 
+      max-width: 562px;
       width: 100%;
+     margin: 0px auto;
+     display: block;
+     margin-bottom: 45px;
     }
   }
 }

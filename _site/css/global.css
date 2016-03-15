@@ -40,7 +40,7 @@ body {
   body .page-header .copy {
     padding: 80px 0; }
   body .page-content {
-    padding: 0; }
+    padding: 60px 20px 60px 20px; }
   body .site-footer {
     background: #3A3D41;
     padding: 60px 0;

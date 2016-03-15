@@ -6,8 +6,10 @@
 .page-header {
   width: 100%;
   background-size: cover;
+  background-position: center center;
   background-color: #f7f7f7;
   margin-top: 70px;
+  min-height: 450px;
   
   h1 a {
     color: #fff;
@@ -16,5 +18,11 @@
       opacity: .90;
       text-decoration: none;
     }
+  }
+}
+
+.page-content {
+  p {
+    font-size: 20px;
   }
 }
