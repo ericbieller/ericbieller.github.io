@@ -84,6 +84,11 @@
   section {
     padding: 20px;
     background: #f7f7f7;
+    margin-bottom: 20px;
+    
+    input {
+      width: 100%;
+    }
   }
   .youtube {
     iframe {
@@ -91,4 +96,10 @@
       height: auto;
     }
   }
+  .subscribe {
+    .emai-notice {
+      font-size: 14px;
+    }
+  }
+  
 }

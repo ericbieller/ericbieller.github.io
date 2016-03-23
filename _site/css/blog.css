@@ -56,7 +56,12 @@
     padding-bottom: 4px; }
   .sidebar section {
     padding: 20px;
-    background: #f7f7f7; }
+    background: #f7f7f7;
+    margin-bottom: 20px; }
+    .sidebar section input {
+      width: 100%; }
   .sidebar .youtube iframe {
     width: 100%;
     height: auto; }
+  .sidebar .subscribe .emai-notice {
+    font-size: 14px; }
