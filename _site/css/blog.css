@@ -1,7 +1,8 @@
 .loop {
-  padding-right: 20px; }
+  padding-right: 20px;
+  margin: 0; }
   .loop .post {
-    margin: 60px 0 0 0;
+    margin: 0 0 60px 0;
     padding: 0;
     width: 100%;
     border: none;
@@ -46,22 +47,20 @@
         color: #5096E4;
         color: #5096E4; }
 
-.sidebar {
-  margin-top: 50px; }
-  .sidebar h3 {
-    font-size: 21px;
-    text-align: left;
-    color: #4a4a4a; }
-  .sidebar p {
-    padding-bottom: 4px; }
-  .sidebar section {
-    padding: 20px;
-    background: #f7f7f7;
-    margin-bottom: 20px; }
-    .sidebar section input {
-      width: 100%; }
-  .sidebar .youtube iframe {
-    width: 100%;
-    height: auto; }
-  .sidebar .subscribe .emai-notice {
-    font-size: 14px; }
+.sidebar h3 {
+  font-size: 21px;
+  text-align: left;
+  color: #4a4a4a; }
+.sidebar p {
+  padding-bottom: 4px; }
+.sidebar section {
+  padding: 20px;
+  background: #f7f7f7;
+  margin-bottom: 20px; }
+  .sidebar section input {
+    width: 100%; }
+.sidebar .youtube iframe {
+  width: 100%;
+  height: auto; }
+.sidebar .subscribe .emai-notice {
+  font-size: 14px; }

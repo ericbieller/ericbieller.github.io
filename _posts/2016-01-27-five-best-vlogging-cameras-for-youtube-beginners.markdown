@@ -3,6 +3,7 @@ layout: post
 title:  "The 5 Best Vlogging Cameras for YouTube Beginners"
 date:   2016-01-27 12:00:00
 categories: vlogging
+tags: [vlogging]
 header_image: vlogging-camera-header.jpeg
 author: eric_bieller
 ---

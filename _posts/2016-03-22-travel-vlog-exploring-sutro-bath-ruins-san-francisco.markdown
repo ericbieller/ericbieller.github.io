@@ -3,6 +3,7 @@ layout: post
 title:  "Travel Vlog: Exploring the Sutro Bath Ruins in San Francisco"
 date:   2016-03-22 12:00:00
 categories: Travel
+tags: [travel, vloging]
 header_image: sutro.jpg
 author: eric_bieller
 ---

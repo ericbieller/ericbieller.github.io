@@ -3,6 +3,7 @@ layout: post
 title:  "Why West Texas Should Be Your Next Vacation Destination"
 date:   2016-03-08 12:00:00
 categories: Travel
+tags: [travel, travel-tips]
 header_image: texas-sunset.jpg
 author: allison_bieller
 ---

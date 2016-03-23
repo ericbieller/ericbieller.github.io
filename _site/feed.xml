@@ -6,8 +6,8 @@
 </description>
     <link>http://theendlessadventure.co/</link>
     <atom:link href="http://theendlessadventure.co/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 22 Mar 2016 23:28:50 -0700</pubDate>
-    <lastBuildDate>Tue, 22 Mar 2016 23:28:50 -0700</lastBuildDate>
+    <pubDate>Wed, 23 Mar 2016 00:59:30 -0700</pubDate>
+    <lastBuildDate>Wed, 23 Mar 2016 00:59:30 -0700</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -31,6 +31,10 @@
         <pubDate>Tue, 22 Mar 2016 05:00:00 -0700</pubDate>
         <link>http://theendlessadventure.co/travel/travel-vlog-exploring-sutro-bath-ruins-san-francisco.html</link>
         <guid isPermaLink="true">http://theendlessadventure.co/travel/travel-vlog-exploring-sutro-bath-ruins-san-francisco.html</guid>
+        
+        <category>travel</category>
+        
+        <category>vloging</category>
         
         
         <category>travel</category>
@@ -97,6 +101,10 @@
         <pubDate>Sun, 13 Mar 2016 05:00:00 -0700</pubDate>
         <link>http://theendlessadventure.co/travel/how-to-become-a-travel-vlogger.html</link>
         <guid isPermaLink="true">http://theendlessadventure.co/travel/how-to-become-a-travel-vlogger.html</guid>
+        
+        <category>travel</category>
+        
+        <category>vlogging</category>
         
         
         <category>travel</category>
@@ -176,6 +184,10 @@
         <link>http://theendlessadventure.co/travel/why-west-texas-should-be-your-next-vacation-destination.html</link>
         <guid isPermaLink="true">http://theendlessadventure.co/travel/why-west-texas-should-be-your-next-vacation-destination.html</guid>
         
+        <category>travel</category>
+        
+        <category>travel-tips</category>
+        
         
         <category>travel</category>
         
@@ -228,6 +240,10 @@
         <pubDate>Thu, 03 Mar 2016 04:00:00 -0800</pubDate>
         <link>http://theendlessadventure.co/adventures/travel-vlog-hiking-big-bend-the-greatest-view-of-our-lives.html</link>
         <guid isPermaLink="true">http://theendlessadventure.co/adventures/travel-vlog-hiking-big-bend-the-greatest-view-of-our-lives.html</guid>
+        
+        <category>vlogging</category>
+        
+        <category>travel</category>
         
         
         <category>adventures</category>
@@ -299,6 +315,10 @@
         <pubDate>Mon, 08 Feb 2016 04:00:00 -0800</pubDate>
         <link>http://theendlessadventure.co/travel/six-fun-free-things-to-do-in-daytona-beach-florida.html</link>
         <guid isPermaLink="true">http://theendlessadventure.co/travel/six-fun-free-things-to-do-in-daytona-beach-florida.html</guid>
+        
+        <category>travel</category>
+        
+        <category>travel-tips</category>
         
         
         <category>travel</category>
@@ -480,6 +500,8 @@
         <link>http://theendlessadventure.co/vlogging/five-best-vlogging-cameras-for-youtube-beginners.html</link>
         <guid isPermaLink="true">http://theendlessadventure.co/vlogging/five-best-vlogging-cameras-for-youtube-beginners.html</guid>
         
+        <category>vlogging</category>
+        
         
         <category>vlogging</category>
         
@@ -573,6 +595,12 @@
         <link>http://theendlessadventure.co/travel/ten-tips-make-your-road-trip-not-suck.html</link>
         <guid isPermaLink="true">http://theendlessadventure.co/travel/ten-tips-make-your-road-trip-not-suck.html</guid>
         
+        <category>travel</category>
+        
+        <category>road-trip</category>
+        
+        <category>travel-tips</category>
+        
         
         <category>travel</category>
         
@@ -651,11 +679,15 @@
 &lt;p&gt;Thanks for reading. Until next time, always be wandering.&lt;/p&gt;
 </description>
         <pubDate>Mon, 21 Dec 2015 04:00:00 -0800</pubDate>
-        <link>http://theendlessadventure.co/travel/financial-update-december-2015-let-the-adventure-begin.html</link>
-        <guid isPermaLink="true">http://theendlessadventure.co/travel/financial-update-december-2015-let-the-adventure-begin.html</guid>
+        <link>http://theendlessadventure.co/finances/financial-update-december-2015-let-the-adventure-begin.html</link>
+        <guid isPermaLink="true">http://theendlessadventure.co/finances/financial-update-december-2015-let-the-adventure-begin.html</guid>
+        
+        <category>adventure</category>
+        
+        <category>finances</category>
         
         
-        <category>travel</category>
+        <category>finances</category>
         
       </item>
     

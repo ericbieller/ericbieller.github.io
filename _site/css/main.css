@@ -256,6 +256,7 @@ pre {
 
 .post-list {
   margin-left: 0;
+  margin-top: 60px;
   list-style: none; }
   .post-list > li {
     margin-bottom: 30px; }

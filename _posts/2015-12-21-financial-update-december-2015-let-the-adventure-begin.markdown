@@ -2,7 +2,8 @@
 layout: post
 title:  "December 2015 Financial Update - Let the Adventure Begin!"
 date:   2015-12-21 12:00:00
-categories: travel
+categories: finances
+tags: [adventure, finances]
 header_image: bridge.jpeg
 author: eric_bieller
 ---

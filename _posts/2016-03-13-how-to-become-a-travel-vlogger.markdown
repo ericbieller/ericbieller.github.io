@@ -3,6 +3,7 @@ layout: post
 title:  "How to Become a Travel Vlogger"
 date:   2016-03-13 12:00:00
 categories: Travel
+tags: [travel, vlogging]
 header_image: vlogging-header.jpeg
 author: eric_bieller
 ---
