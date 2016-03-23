@@ -2,11 +2,11 @@
   position: relative;
   background: #393D43;
   margin-top: 70px; }
-  .hero img {
+  .hero .hero-bg {
     display: none; }
   .hero .copy {
     position: absolute;
-    top: 50%;
+    top: 45%;
     left: 50%;
     transform: translate(-50%, -50%);
     z-index: 2;
@@ -20,11 +20,19 @@
       font-size: 25px;
       line-height: 1.3;
       -webkit-font-smoothing: antialiased; }
+    .hero .copy p + p {
+      font-family: "Shadows Into Light";
+      margin-top: 30px;
+      font-size: 30px; }
+      .hero .copy p + p a {
+        color: #fff; }
     @media (max-width: 560px) {
       .hero .copy h1 {
         font-size: 32px; }
       .hero .copy p {
-        font-size: 18px; } }
+        font-size: 18px; }
+      .hero .copy p + p {
+        font-size: 24px; } }
   .hero video {
     display: block;
     width: 100%;
@@ -33,8 +41,15 @@
     top: 0%;
     z-index: 1;
     opacity: .6; }
+  .hero .start-here {
+    position: absolute;
+    bottom: 40px;
+    left: 50%;
+    margin-left: -125px;
+    width: 250px;
+    height: 150px; }
   @media (max-width: 760px) {
-    .hero img {
+    .hero .hero-bg {
       display: block; }
     .hero video {
       display: none; } }

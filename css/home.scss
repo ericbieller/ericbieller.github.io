@@ -8,13 +8,13 @@
   background: #393D43;
   margin-top: 70px;
   
-  img {
+  .hero-bg {
     display: none;
   }  
 
   .copy {
     position: absolute;
-    top: 50%;
+    top: 45%;
     left: 50%;
     transform: translate(-50%, -50%);
     z-index: 2;
@@ -33,6 +33,16 @@
       -webkit-font-smoothing: antialiased;
     }
     
+    p + p {
+      font-family: "Shadows Into Light";
+      margin-top: 30px;
+      font-size: 30px;
+      
+      a {
+        color: #fff;
+      }
+    }
+    
     @media (max-width: 560px) {
       h1 {
         font-size: 32px;
@@ -40,6 +50,10 @@
       
       p {
         font-size: 18px;
+      }
+      
+      p + p {
+        font-size: 24px;
       }
     }
   }
@@ -54,8 +68,17 @@
     opacity: .6;
   }
   
+  .start-here {
+    position: absolute;
+    bottom: 40px;
+    left: 50%;
+    margin-left: -125px;
+    width: 250px;
+    height: 150px;
+  }
+  
   @media (max-width: 760px) {
-    img {
+    .hero-bg {
       display: block;
     }
     
