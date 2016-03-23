@@ -12,8 +12,7 @@ body {
     text-align: center;
     -webkit-font-smoothing: antialiased; }
   body .subheader + p {
-    margin: 0;
-    margin-top: 4px;
+    margin: 4px 0 45px 0;
     font-size: 22px;
     color: #65696E;
     text-align: center; }

@@ -85,6 +85,11 @@
     p {
       font-size: 22px;
       margin-bottom: 30px;
+      
+      @media (max-width: 860px) {
+        font-size: 18px;
+        line-height: 1.35;
+      }
     }
   }
   .map-wrapper {
@@ -139,7 +144,7 @@
   }
   
   .instafeed-wrapper {
-    margin-top: 40px;
+    margin-top: 55px;
     width: 100%;
     overflow: hidden;
     height: auto;
@@ -161,7 +166,6 @@
   }
   
   #videos {
-    margin-top: 30px;
     margin-bottom: 70px;
     
     .video {
@@ -306,14 +310,24 @@
   }
   
   .blog-container {
-    margin-top: 80px;
+    margin-top: 90px;
     margin-bottom: 80px;
   }
   
   .posts {
-    padding: 30px 0 0 0;
     list-style: none;
     clear: both;
+    
+    li:nth-child(3n+4) {
+      margin-left: 0;
+    }
+    
+    li {
+      a {
+        margin-bottom: 40px;
+        background-size: 100%;
+      }
+    }
     
     &:after {
       content: "";
@@ -327,13 +341,13 @@
       height: 200px;
       box-sizing: border-box;
       overflow: hidden;
+      background-size: auto 100%;
+      background-position: center center;
+      transition: all .25s ease-in-out;
       
       &:hover {
         text-decoration: none;
-        
-        .post-image {
-          transform: scale(1.05);
-        }
+        background-size: auto 110%;
       }
     }
     
