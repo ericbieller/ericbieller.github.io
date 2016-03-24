@@ -10,7 +10,7 @@ author: eric_bieller
 
 Are you looking for your daily dose of wanderlust? Well, here are a few of our favorite travel vloggers who will inspire you to drop everything and book a trip immediately!
 
-## [A Dangerous Business](http://www.dangerous-business.com)
+##[A Dangerous Business](http://www.dangerous-business.com)
 
 ![a dangerous business travel vlog](/images/uploads/dangerous-business.jpg)
 
