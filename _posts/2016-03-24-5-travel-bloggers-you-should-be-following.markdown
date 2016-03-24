@@ -32,7 +32,7 @@ Poi and Kirsty have called many countries home from Thailand to Austria and now 
 
 ![The Go Fever Travel Blog](/images/uploads/the-go-fever.jpg)
 
-Catherine is an amazing write and travel junkie. She’s visited tons of exotic places across the globe like Belize, Jordan and Croatia, just to name a few. On her blog, she shares travel stories as well as the best travel tips she’s picked up along the way. Definitely a great travel blog to follow!
+Catherine is an amazing writer and travel junkie. She’s visited tons of exotic places across the globe like Belize, Jordan and Croatia, just to name a few. On her blog, she shares travel stories as well as the best travel tips she’s picked up along the way. Definitely a great travel blog to follow!
 
 <h2><a href="http://www.findingtheuniverse.com" target="_blank">Finding the Universe</a></h2>
 
