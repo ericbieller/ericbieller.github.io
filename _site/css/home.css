@@ -1,3 +1,6 @@
+.amcharts-chart-div a {
+  display: none !important; }
+
 .hero {
   position: relative;
   background: #393D43;
@@ -85,6 +88,7 @@
   .home .map-wrapper canvas {
     pointer-events: none; }
   .home .map-wrapper .copy {
+    pointer-events: none;
     position: absolute;
     top: 60px;
     width: 100%;

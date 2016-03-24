@@ -60,7 +60,7 @@
     <a class="page-link" target="_blank" href="https://www.youtube.com/channel/UCEDrRCC0qRtPd5-sSa1hajw"><img src="/images/icons/video.png" width="17" height="17px" />Daily Vlog</a>
     <a class="page-link logo" href="/"><img src="/images/logo.png" width="300" height="33" /></a>
     <a class="page-link" href="/#location"><img src="/images/icons/map.png" width="17" height="17px" />Where we are</a>
-    <a class="page-link" href="/finances"><img src="/images/icons/money.png" width="17" height="17px" />Our Finances</a>
+    <a class="page-link" href="/blog/tag/finances"><img src="/images/icons/money.png" width="17" height="17px" />Our Finances</a>
   </nav>
 </header>
 
@@ -97,7 +97,7 @@
       </div>
       <div class="seven columns">
         <p>
-          Hi! We're Eric and Allison. We've sold everything we own, quit our day jobs and hit the road in search of adventure.
+          Hi! We're Eric and Allison. We've sold everything we own, quit our day jobs and hit the road in search of adventure. We make daily vlogs of our travels on <a href="https://www.youtube.com/c/TheEndlessAdventure">our YouTube channel</a>.
         </p>
         <p>
           Our goal is to show others how we make this lifestyle possible. From the financial struggle to hectic nature of day to day travels, you'll find it all right here.
@@ -148,6 +148,12 @@
     </div>
     
     <ul class="posts">
+      
+        <li class="one-third column">
+          <a class="post-link" href="/travel/5-travel-bloggers-you-should-be-following.html" style="background-image: url(/images/headers/beach.jpeg)">
+            <h2 class="subheader">5 Travel Bloggers You Should be Following</h2>
+          </a>
+        </li>
       
         <li class="one-third column">
           <a class="post-link" href="/travel/travel-vlog-exploring-sutro-bath-ruins-san-francisco.html" style="background-image: url(/images/headers/sutro.jpg)">
@@ -206,7 +212,74 @@
       <h2 class="subheader">Where we are</h2>
       <p>And where we've been</p>
     </div>
-    <div id="map"></div>
+    <div id="map">
+<script src="https://www.amcharts.com/lib/3/ammap.js" type="text/javascript"></script>
+<script src="https://www.amcharts.com/lib/3/maps/js/worldHigh.js" type="text/javascript"></script>
+<script src="https://www.amcharts.com/lib/3/themes/dark.js" type="text/javascript"></script>
+<div id="mapdiv" style="width: 100%; height: 450px;"></div>
+<script type="text/javascript">
+var map = AmCharts.makeChart("mapdiv",{
+type: "map",
+theme: "dark",
+projection: "mercator",
+panEventsEnabled : false,
+backgroundColor : "#FFFFFF",
+backgroundAlpha : 1,
+zoomControl: {
+zoomControlEnabled : false
+},
+dataProvider : {
+map : "worldHigh",
+getAreasFromMap : true,
+areas :
+[
+	{
+		"id": "FR",
+		"showAsSelected": true
+	},
+	{
+		"id": "GB",
+		"showAsSelected": true
+	},
+	{
+		"id": "BS",
+		"showAsSelected": true
+	},
+	{
+		"id": "CA",
+		"showAsSelected": true
+	},
+	{
+		"id": "DO",
+		"showAsSelected": true
+	},
+	{
+		"id": "MX",
+		"showAsSelected": true
+	},
+	{
+		"id": "US",
+		"showAsSelected": true
+	},
+	{
+		"id": "CN",
+		"showAsSelected": true
+	}
+]
+},
+areasSettings : {
+autoZoom : false,
+color : "#E6E6E6",
+colorSolid : "#66D295",
+selectedColor : "#66D295",
+outlineColor : "#FFFFFF",
+rollOverColor : "#C4C4C4",
+rollOverOutlineColor : "#FFFFFF"
+}
+});
+</script>
+
+    </div>
   </div>
   
   <div class="subscribe">
@@ -233,150 +306,6 @@
     </div>
   </div>
 </div>
-
-<script>
-$.ajax({
-  url: "https://www.googleapis.com/youtube/v3/playlistItems?part=contentDetails,snippet&maxResults=3&playlistId=PL29AtJe_IGx8xcKeIMoVlprLXVxCbFUDO&key=AIzaSyACIBXg2XoDGJCFOQHE7YtM4FPBqKm7DFo",
-  dataType:'JSONP',
-  type: 'GET',
-  success: function(data) {
-    console.log(data.items);
-    // Generate array of coordinates
-    $.each(data.items, function(index, value) {
-      console.log(value.snippet.thumbnails);
-        $("#videos").append('<div class="one-third column"><div class="video"><a href="http://youtube.com?v=' + value.contentDetails.videoId + '" target="_blank"><div class="thumbnail-wrapper"><img src="' + value.snippet.thumbnails.medium.url + '" /></a></div><div class="title"><span>' + value.snippet.description.split('-')[0] + '</span><span>' + value.snippet.title + '</span></div></div></div>');
-    });
-  }
-});
-
-</script>
-
-<script>
-mapboxgl.accessToken = 'pk.eyJ1IjoiZXJpY2JpZWxsZXIiLCJhIjoiY2locDh4c2h4MDNndXRwbTIzeG5rajQzaCJ9.JJHbghKWJgF-nUA2-nhq4Q';
-var map = new mapboxgl.Map({
-    container: 'map',
-    style: 'mapbox://styles/ericbieller/cihp8yrew00de92jamnkln0a7',
-    center: [6.328125, 39.740986],
-    zoom: .8
-});
-
-map.on('style.load', function () {
-  
-  var coordsArray = [];
-  var json = {
-    "type": "geojson",
-    "data": {
-        "type": "FeatureCollection",
-        "features": []
-    }
-  }
-  
-  $.ajax({
-    url: "https://spreadsheets.google.com/feeds/list/1Ssi9j4O4He78dESBBYx5GBlN51uOG5eLlzM5WPlsGJY/1/public/basic?alt=json",
-    dataType:'JSONP',
-    type: 'GET',
-    success: function(data) {
-      // Generate array of coordinates
-      $.each(data.feed.entry, function(index, value) {
-        var coords = value['title']['$t'].split(",");
-        coordsArray.push([coords[0], coords[1]]);
-        
-        // All but our current location
-        if (index != data.feed.entry.length-1) {
-          json.data.features.push({
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [coords[0], coords[1]],
-              "properties": {
-                "marker-symbol": "marker"
-              }
-            }
-          });
-        }
-      });
-      
-      // Route
-      map.addSource("route", {
-          "type": "geojson",
-          "data": {
-              "type": "Feature",
-              "properties": {},
-              "geometry": {
-                  "type": "LineString",
-                  "coordinates": coordsArray
-              }
-          }
-      });
-      map.addLayer({
-          "id": "route",
-          "type": "line",
-          "source": "route",
-          "layout": {
-              "line-join": "round",
-              "line-cap": "round"
-          },
-          "paint": {
-              "line-color": "#A7ADB4",
-              "line-width": 3,
-              "line-dasharray": [4, 2]
-          }
-      });
-      
-      // Previous locations
-      map.addSource("markers", json);
-      map.addLayer({
-          "id": "markers",
-          "type": "symbol",
-          "source": "markers",
-          "layout": {
-            "icon-image": "marker",
-            "icon-offset": [0,-22]
-          },
-          "paint": {
-              "text-size": 12
-          }
-      });
-      
-      // Current location
-      map.addSource("current-location", {
-          "type": "geojson",
-          "data": {
-              "type": "Feature",
-              "properties": {},
-              "geometry": {
-                  "type": "Point",
-                  "coordinates": coordsArray[coordsArray.length-1]
-              }
-          }
-      });
-      map.addLayer({
-          "id": "current-location",
-          "type": "symbol",
-          "source": "current-location",
-          "layout": {
-            "icon-image": "marker-2",
-            "icon-offset": [0,-30]
-          },
-          "paint": {
-              "text-size": 12
-          }
-      });
-      
-      // Recenter on most recent location
-      //map.setCenter(coordsArray[coordsArray.length-1]);
-    }
-  })
-  
-  $('#map').mousedown(function () {
-      $('#map canvas').css("pointer-events", "auto");
-  });
-
-  $( "#map" ).mouseleave(function() {
-    $('#map canvas').css("pointer-events", "none"); 
-  });
-});
-</script>
 
     </div>
 

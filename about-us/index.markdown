@@ -9,11 +9,11 @@ We’re Eric and Allison Bieller and we’re here to show you that long term tra
 
 We had it all. We were both in our late 20s, had great jobs with impressive salaries and an apartment in downtown San Francisco. *But something was still missing.*
 
-In our younger years, a new television or a nice car would have gotten us really excited. But as we’ve grown older, these items have slowly lost their allure. Eventually we were able to see behind the curtain of consumerism. And the truth is, we were just trying to fill a hole inside ourselves with these posessions. But with each new posession, the hole actually grows bigger.
+In our younger years, purchasing a new television or a nice car would have gotten us really excited. But as we’ve grown older, these items have slowly lost their allure. Eventually we were able to see behind the curtain of consumerism and the truth is, we were just trying to fill a hole inside ourselves with these posessions. But with each new purchase, the high quickly wears off and the hole actually grows bigger.
 
-In november of 2015, we got in our car and just drove. We left our jobs, our apartment and all of our things behind. We decided once and for all that we *were going to start living life, instead of letting life live us*.
+In november of 2015, we got in our car and just drove. We left our jobs, our apartment and all of our things behind. We decided once and for all that we were going to *start living life, instead of letting life live us*.
 
-After all, when life is said and done and the lights are going out, what are you going to remember most, the fancy sofa that looked so good with your IKEA rug, or the time you ran with the bulls in Spain?
+After all, when your time here is up and the lights are going out, what are you going to remember most, the fancy sofa that looked so good with your IKEA rug, or the time you ran with the bulls in Spain or the time you hiked Machu Pichu?
 
 **Exactly.** *And that’s why we just can’t sit still any longer.*
 

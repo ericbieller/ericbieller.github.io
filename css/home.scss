@@ -3,6 +3,12 @@
 
 @import 'elements';
 
+.amcharts-chart-div {
+  a {
+    display: none !important;
+  }
+}
+
 .hero {
   position: relative;
   background: #393D43;
@@ -134,6 +140,7 @@
     }
   
     .copy {
+      pointer-events: none;
       position: absolute;
       top: 60px;
       width: 100%;
