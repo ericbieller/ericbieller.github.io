@@ -1,8 +1,8 @@
 # Site settings
-title: "The Endless Adventure | Travel Vlogs & Blogs"
+title: "The Endless Adventure | Travel Blog & Daily Vlog"
 email: info@theendlessadventure.co
 description: > # this means to ignore newlines until "baseurl:"
-  Hi! We're Eric and Allison Bieller. We quit our jobs and sold everything to travel full-time. We make daily vlogs of our travels and adventures around the world!
+  Hi! We're Eric and Allison. We quit our full-time jobs and sold everything to travel full-time. We make daily vlogs of our travels and adventures around the world!
 tagline: Hi! We're Eric & Allison. We make daily vlogs of our travels and adventures around the world!
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://theendlessadventure.co" # the base hostname & protocol for your site

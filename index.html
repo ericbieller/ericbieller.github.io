@@ -190,10 +190,8 @@ $.ajax({
   dataType:'JSONP',
   type: 'GET',
   success: function(data) {
-    console.log(data.items);
     // Generate array of coordinates
     $.each(data.items, function(index, value) {
-      console.log(value.snippet.thumbnails);
         $("#videos").append('<div class="one-third column"><div class="video"><a href="http://youtube.com?v=' + value.contentDetails.videoId + '" target="_blank"><div class="thumbnail-wrapper"><img src="' + value.snippet.thumbnails.medium.url + '" /></a></div><div class="title"><span>' + value.snippet.description.split('-')[0] + '</span><span>' + value.snippet.title + '</span></div></div></div>');
     });
   }
