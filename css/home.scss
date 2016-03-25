@@ -102,9 +102,26 @@
   .about {
     margin: 100px 0 80px 0;
     
-    img {
-      margin-bottom: 30px;
-      border-radius: 4px;
+    .about-img {
+      display: block;
+      position: relative;
+      img {
+        margin-bottom: 30px;
+        border-radius: 4px;
+      }
+      .play-triangle {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        margin-left: -35px;
+        margin-top: -50px;
+        opacity: .8;
+      }
+      &:hover {
+        .play-triangle {
+          opacity: 1;
+        }
+      }
     }
     
     h2 {

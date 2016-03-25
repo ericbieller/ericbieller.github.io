@@ -62,9 +62,21 @@
 
 .home .about {
   margin: 100px 0 80px 0; }
-  .home .about img {
-    margin-bottom: 30px;
-    border-radius: 4px; }
+  .home .about .about-img {
+    display: block;
+    position: relative; }
+    .home .about .about-img img {
+      margin-bottom: 30px;
+      border-radius: 4px; }
+    .home .about .about-img .play-triangle {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      margin-left: -35px;
+      margin-top: -50px;
+      opacity: .8; }
+    .home .about .about-img:hover .play-triangle {
+      opacity: 1; }
   .home .about h2 {
     margin-bottom: 50px; }
   .home .about p {
