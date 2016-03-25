@@ -30,12 +30,14 @@
       .hero .copy p + p a {
         color: #fff; }
     @media (max-width: 560px) {
-      .hero .copy h1 {
-        font-size: 32px; }
-      .hero .copy p {
-        font-size: 18px; }
-      .hero .copy p + p {
-        font-size: 24px; } }
+      .hero .copy {
+        margin-top: 20px; }
+        .hero .copy h1 {
+          font-size: 28px; }
+        .hero .copy p {
+          font-size: 18px; }
+        .hero .copy p + p {
+          font-size: 24px; } }
   .hero video {
     display: block;
     width: 100%;
