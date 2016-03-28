@@ -28,12 +28,12 @@
     <section class="post-list">
       <div class="container">
         <div class="eight columns">
-          <ul class="loop">
+          <ul class="loop" itemscope itemtype="http://schema.org/Blog">
 
               {% for post in site.posts %}
               {% if forloop.index != 1 %}
                 {% assign author = site.data.authors[post.author] %}
-                <li class="post">
+                <li class="post" itemscope itemtype="http://schema.org/BlogPosting">
                 <article class="{{post_class}}">
                     <header class="post-header">
                         <h2 class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
@@ -42,9 +42,10 @@
                       <img class="author-thumb" src="author thumbnail" src="http://www.gravatar.com/avatar/{{ author.gravatar}}?s=100" alt="Author image" nopin="nopin" />
                       <span class="author">By {{ author.name }}</span>
                       {% endif %}
+                      <time itemprop="datePublished" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %-d, %Y" }}</time>
                     </div>
                     </header>
-                    <section class="post-excerpt">
+                    <section class="post-excerpt" itemprop="description">
                         <p>{{ post.excerpt }} <div class="read-more"><a href="{{ post.url }}">READ MORE</a></div></p>
                     </section>
                 </article>

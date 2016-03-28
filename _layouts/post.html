@@ -26,15 +26,15 @@
 
   {% include head.html %}
 
-  <body class="post">
+  <body class="post" itemscope itemtype="http://schema.org/BlogPosting">
     {% include nav.html %}
 
     <header class="page-header" style="background-image: url('/images/headers/{{ page.header_image }}');">
       <div class="container">
         <div class="ten offset-by-one columns">
           <div class="copy">
-            <h1 class="post-title">{{ page.title }}</h1>
-            <p class="post-meta">{% if page.author %}<img class="avatar" src="http://www.gravatar.com/avatar/{{ author.gravatar}}?s=100" width="70" height="70" /><span class="byline">By {{ author.name }}</span>{% endif %}</p>
+            <h1 class="post-title" itemprop="name">{{ page.title }}</h1>
+            <p class="post-meta">{% if page.author %}<img class="avatar" src="http://www.gravatar.com/avatar/{{ author.gravatar}}?s=100" width="70" height="70" /><span class="byline">By {{ author.name }}</span>{% endif %}<time itemprop="datePublished" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%b %-d, %Y" }}</time></p>
           </div>
         </div>
       </div>
@@ -46,7 +46,7 @@
       </div>
     </div>
 
-    <article class="post-content">
+    <article class="post-content" itemprop="articleBody">
       <div class="container">
         <div class="ten offset-by-one columns">
           <div class="full-post">

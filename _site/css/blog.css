@@ -35,6 +35,8 @@
         font-size: 14px;
         -webkit-font-smoothing: antialiased;
         float: left; }
+      .loop .post .post-meta time {
+        display: none; }
     .loop .post .post-excerpt {
       margin-top: 24px; }
       .loop .post .post-excerpt p {
