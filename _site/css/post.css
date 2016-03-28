@@ -1,5 +1,7 @@
 .post p {
   color: #1d1d1d; }
+  .post p img {
+    margin-bottom: 20px; }
 .post .page-header {
   position: relative; }
   .post .page-header .avatar {
