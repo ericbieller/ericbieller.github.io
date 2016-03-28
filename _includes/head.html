@@ -24,6 +24,14 @@
   <link rel="icon" type="image/png" sizes="96x96" href="/images/favicon/favicon-96x96.png">
   <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon/favicon-16x16.png">
   <link rel="manifest" href="/images/favicon/manifest.json">
+
+  {% if page.canonical-url == nil %}
+  {% capture canonical %}{{ site.url }}{% if site.permalink contains '.html' %}{{ page.url }}{% else %}{{ page.url | remove:'index.html' | strip_slash }}{% endif %}{% endcapture %}
+  {% else %}
+  {% assign canonical = page.canonical-url %}
+  {% endif %}
+  <link rel="canonical" href="{{ canonical }}">
+
   <meta name="msapplication-TileColor" content="#ffffff">
   <meta name="msapplication-TileImage" content="/images/favicon/ms-icon-144x144.png">
   <meta name="theme-color" content="#ffffff">

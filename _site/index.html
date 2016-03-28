@@ -28,6 +28,12 @@
   <link rel="icon" type="image/png" sizes="96x96" href="/images/favicon/favicon-96x96.png">
   <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon/favicon-16x16.png">
   <link rel="manifest" href="/images/favicon/manifest.json">
+
+  
+  
+  
+  <link rel="canonical" href="http://theendlessadventure.co/">
+
   <meta name="msapplication-TileColor" content="#ffffff">
   <meta name="msapplication-TileImage" content="/images/favicon/ms-icon-144x144.png">
   <meta name="theme-color" content="#ffffff">
@@ -65,11 +71,11 @@
 
     <header class="nav">
   <nav class="site-nav">
-    <a class="page-link" href="/blog"><img src="/images/icons/marker.png" width="17" height="17px" />Travel Blog</a>
-    <a class="page-link" target="_blank" href="https://www.youtube.com/channel/UCEDrRCC0qRtPd5-sSa1hajw"><img src="/images/icons/video.png" width="17" height="17px" />Daily Vlog</a>
-    <a class="page-link logo" href="/"><img src="/images/logo.png" width="300" height="33" /></a>
-    <a class="page-link" href="/#location"><img src="/images/icons/map.png" width="17" height="17px" />Where we are</a>
-    <a class="page-link" href="/blog/tag/finances"><img src="/images/icons/money.png" width="17" height="17px" />Our Finances</a>
+    <a class="page-link" href="/blog"><img src="/images/icons/marker.png" alt="travel blog icon" width="17" height="17px" />Travel Blog</a>
+    <a class="page-link" target="_blank" href="https://www.youtube.com/channel/UCEDrRCC0qRtPd5-sSa1hajw"><img src="/images/icons/video.png" alt="video vlog icon" width="17" height="17px" />Daily Vlog</a>
+    <a class="page-link logo" href="/"><img src="/images/logo.png" alt="The Endless Adventure" width="300" height="33" /></a>
+    <a class="page-link" href="/#location"><img src="/images/icons/map.png" alt="location map" width="17" height="17px" />Where we are</a>
+    <a class="page-link" href="/blog/tag/finances"><img src="/images/icons/money.png" alt="finances" width="17" height="17px" />Our Finances</a>
   </nav>
 </header>
 
@@ -84,7 +90,7 @@
     </o>
   </div>
   
-  <img class="hero-bg" src="/images/default-bg.jpg" width="100%" />
+  <img class="hero-bg" src="/images/default-bg.jpg" alt="the endless adventure background" width="100%" />
   
   <video height="900" width="auto" muted="" autoplay="" loop="" preload="auto">
     <source src="/videos/home-v2.mp4" type="video/mp4">
@@ -103,8 +109,8 @@
     <div class="container">
       <div class="five columns">
         <a href="https://www.youtube.com/c/TheEndlessAdventure" class="about-img" target="_blank">
-          <img src="/images/play-triangle.png" class="play-triangle" width="75" height="100" />
-          <img src="/images/eric-ally.png" />
+          <img src="/images/play-triangle.png" alt="play video icon" class="play-triangle" width="75" height="100" />
+          <img src="/images/eric-ally.png" alt="eric and allison" />
         </a>
       </div>
       <div class="seven columns">
@@ -135,7 +141,7 @@
   <div class="container">
     <div class="twelve columns yt-subscribe">
       <h3>We upload a new adventure every day!</h3>
-      <a href="http://bit.ly/1Nnl2kq"><img src="/images/yt-subscribe.png" width="195" height="50"></a>
+      <a href="http://bit.ly/1Nnl2kq"><img src="/images/yt-subscribe.png" alt="subscribe on youtube" width="195" height="50"></a>
     </div>
   </div>
   
@@ -146,7 +152,7 @@
     
     <div class="container">
       <div class="twelve columns follow-instagram">
-        <a href="https://www.instagram.com/theendlessadventure/"><img src="/images/follow-instagram.png" width="276" height="55" /></a>
+        <a href="https://www.instagram.com/theendlessadventure/"><img src="/images/follow-instagram.png" alt="follow on instagram" width="276" height="55" /></a>
       </div>
     </div>
   </div>
@@ -162,7 +168,7 @@
     <ul class="posts">
       
         <li class="one-third column">
-          <a class="post-link" href="/remote/working/5-best-coffee-shops-to-work-from-remotely-austin-texas.html" style="background-image: url(/images/headers/austin.jpeg)">
+          <a class="post-link" href="/remote-working/5-best-coffee-shops-to-work-from-remotely-austin-texas.html" style="background-image: url(/images/headers/austin.jpeg)">
             <h2 class="subheader">The 5 Best Coffee Shops to Work From in Austin, TX</h2>
           </a>
         </li>
@@ -331,7 +337,7 @@ $.ajax({
   success: function(data) {
     // Generate array of coordinates
     $.each(data.items, function(index, value) {
-        $("#videos").append('<div class="one-third column"><div class="video"><a href="http://youtube.com?v=' + value.contentDetails.videoId + '" target="_blank"><div class="thumbnail-wrapper"><img src="' + value.snippet.thumbnails.medium.url + '" /></a></div><div class="title"><span>' + value.snippet.description.split('-')[0] + '</span><span>' + value.snippet.title + '</span></div></div></div>');
+        $("#videos").append('<div class="one-third column"><div class="video"><a href="http://youtube.com?v=' + value.contentDetails.videoId + '" target="_blank"><div class="thumbnail-wrapper"><img src="' + value.snippet.thumbnails.medium.url + '" alt="YouTube Thumbnail" /></a></div><div class="title"><span>' + value.snippet.description.split('-')[0] + '</span><span>' + value.snippet.title + '</span></div></div></div>');
     });
   }
 });

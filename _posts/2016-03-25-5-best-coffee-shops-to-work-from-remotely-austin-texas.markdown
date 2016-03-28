@@ -2,7 +2,7 @@
 layout: post
 title:  "The 5 Best Coffee Shops to Work From in Austin, TX"
 date:   2016-03-25 14:00:00
-categories: Remote Working
+category: remote-working
 tags: [travel, remote-working, lists]
 header_image: austin.jpeg
 author: eric_bieller

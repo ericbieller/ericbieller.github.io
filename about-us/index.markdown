@@ -1,6 +1,7 @@
 ---
 layout: page
 header_image: allison-eric-big-bend.png
+canonical-url: http://theendlessadventure.co/about-us
 ---
 
 We’re Eric and Allison Bieller and we’re here to show you that long term travel is a possiblity for anyone daring enough to take the plunge. We’ve quit out jobs, sold our posessions and left everything behind to chase adventure and experience!
