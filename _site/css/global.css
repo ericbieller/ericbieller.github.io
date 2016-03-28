@@ -38,6 +38,8 @@ body {
       text-decoration: none; }
   body .page-header .copy {
     padding: 80px 0; }
+  body .page-header .post-image {
+    display: none; }
   body .page-content {
     padding: 60px 20px 60px 20px; }
   body .site-footer {
