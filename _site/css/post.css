@@ -20,6 +20,8 @@
     background: #333;
     opacity: .4;
     top: 0; }
+  .post .page-header .sd-logo {
+    display: none; }
 .post hr {
   border: 2px solid #f7f7f7;
   margin: 70px 0 60px 0; }
