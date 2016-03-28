@@ -37,7 +37,7 @@
   <meta name="theme-color" content="#ffffff">
   <meta name="google-site-verification" content="7h-GhDvJQzRcy9Cy5TGMkVI5dsjKIYNfYgF3tNeW65I" />
   
-  <meta content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" property="og:title">
+  <meta content="{% if page.title %}{{ page.title }}{% elseif post.title %}{{ post.title }}{% else %}{{ site.title }}{% endif %}" property="og:title">
   <meta content="Website" property="og:type">
   <meta content="{% if post.header_image %}{{ post.share_image }}{% else %}http://theendlessadventure.co/images/fb-image.png{% endif %}" property="og:image">
   <meta content="{% if page.url %}{{ site.url }}{{ page.url }}{% else %}The Endless Adventure{% endif %}" property="og:url">
