@@ -35,7 +35,7 @@
         <div class="ten offset-by-one columns">
           <div class="copy">
             <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
-            <p class="post-meta">{% if page.author %}<img class="avatar" src="http://www.gravatar.com/avatar/{{ author.gravatar}}?s=100" width="70" height="70" itemprop="logo" /><span class="byline">By <span itemprop="publisher author">{{ author.name }}{% endif %}<time itemprop="datePublished" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%b %-d, %Y" }}</time></span></p>
+            <p class="post-meta">{% if page.author %}<img class="avatar" src="http://www.gravatar.com/avatar/{{ author.gravatar}}?s=100" width="70" height="70" /><span class="byline">By <span itemprop="publisher author"><meta content="http://www.gravatar.com/avatar/{{ author.gravatar}}?s=100" itemprop="logo" />{{ author.name }}{% endif %}<time itemprop="datePublished" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%b %-d, %Y" }}</time></span></p>
           </div>
         </div>
       </div>
