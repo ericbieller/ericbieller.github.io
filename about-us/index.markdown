@@ -35,7 +35,7 @@ Don’t get us wrong, this was the hardest decision we’ve ever had to make. It
 If you’d like to follow along on our journey, there are lots of ways you can do that!
 
 - We vlog our daily adventures and post fun travel tips on our [YouTube Channel](https://www.youtube.com/c/TheEndlessAdventure?sub_confirmation=1).
-- Follow our journey in pictures on [Instagram](instagram.com/theendlessadventure/).
+- Follow our journey in pictures on [Instagram](http://instagram.com/theendlessadventure/).
 - Follow us on [Twitter](https://twitter.com/The_Endless_A) for 140 character doses of travel and adventure!
 - Keep up with The Endless Adventure on [Facebook](https://www.facebook.com/TheEndlessAdventurers/).
 - [Subscribe to our blog](http://conversational.us6.list-manage.com/subscribe?u=f210e827b5997f97a4c359077&id=cbb27cac9e) for epic travel stories and fun travel tips.
