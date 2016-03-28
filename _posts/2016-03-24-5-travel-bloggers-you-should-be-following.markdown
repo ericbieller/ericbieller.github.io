@@ -5,6 +5,7 @@ date:   2016-03-24 14:00:00
 categories: Travel
 tags: [travel, blogging, lists]
 header_image: beach.jpeg
+share_image: /images/headers/beach.jpeg
 author: eric_bieller
 ---
 

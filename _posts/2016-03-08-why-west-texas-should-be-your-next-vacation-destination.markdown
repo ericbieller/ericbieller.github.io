@@ -5,6 +5,7 @@ date:   2016-03-08 12:00:00
 categories: Travel
 tags: [travel, travel-tips]
 header_image: texas-sunset.jpg
+share_image: /images/uploads/texas-sunset.jpg
 author: allison_bieller
 ---
 

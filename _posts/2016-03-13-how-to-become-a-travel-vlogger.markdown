@@ -5,6 +5,7 @@ date:   2016-03-13 12:00:00
 categories: Travel
 tags: [travel, vlogging]
 header_image: vlogging-header.jpeg
+share_image: /images/uploads/vlogging-header.jpg
 author: eric_bieller
 ---
 

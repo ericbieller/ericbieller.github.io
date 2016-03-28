@@ -5,6 +5,7 @@ date:   2016-01-25 12:00:00
 categories: travel
 tags: [travel, road-trip, travel-tips]
 header_image: road-trip-header.jpeg
+share_image: /images/uploads/road-trip-header.jpeg
 author: allison_bieller
 ---
 

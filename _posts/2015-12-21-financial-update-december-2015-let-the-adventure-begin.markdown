@@ -5,6 +5,7 @@ date:   2015-12-21 12:00:00
 categories: finances
 tags: [adventure, finances]
 header_image: bridge.jpeg
+share_image: /images/uploads/bridge.jpeg
 author: eric_bieller
 ---
 

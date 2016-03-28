@@ -5,6 +5,7 @@ date:   2016-03-22 12:00:00
 categories: Travel
 tags: [travel, vlogging]
 header_image: sutro.jpg
+share_image: /images/uploads/sutro.jpg
 author: eric_bieller
 ---
 

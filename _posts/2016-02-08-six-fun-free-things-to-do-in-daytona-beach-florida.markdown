@@ -5,6 +5,7 @@ date:   2016-02-08 12:00:00
 categories: travel
 tags: [travel, travel-tips]
 header_image: beach-dock.jpeg
+share_image: /images/uploads/beach-dock.jpeg
 author: eric_bieller
 ---
 

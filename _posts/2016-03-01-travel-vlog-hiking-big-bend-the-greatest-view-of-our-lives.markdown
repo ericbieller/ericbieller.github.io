@@ -5,6 +5,7 @@ date:   2016-03-03 12:00:00
 categories: Adventures
 tags: [vlogging, travel]
 header_image: allison-eric-big-bend.png
+share_image: /images/uploads/allison-eric-big-bend.png
 author: eric_bieller
 ---
 

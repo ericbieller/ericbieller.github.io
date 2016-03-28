@@ -5,6 +5,7 @@ date:   2016-03-25 14:00:00
 category: remote-working
 tags: [travel, remote-working, lists]
 header_image: austin.jpeg
+share_image: /images/headers/austin.jpeg
 author: eric_bieller
 ---
 
