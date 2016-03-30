@@ -18,7 +18,7 @@ Before we decided officially that we wanted to sell all of our posessions and li
 Our trip took us all around this huge country of ours. We met some amazing people and had experiences that we'll take with us forever. We shucked oysters with the locals in Mississippi, cooked ribeye steaks with bonifide cowboys in Bandera, TX, snuck into an abandoned ghost town, and peered over the edge of the greatest expanse in the world, the Grand Canyon.
 
 ![Ally at grand canyon](/images/uploads/ally-grand-canyon.jpg)
-The Grand Canyon has to be seen to be believed. Peering over the edge and looking 6000 down just might change your life. Check out [that day's vlog](https://www.youtube.com/watch?v=QQTUyZF_1f0) for an up close view.
+The Grand Canyon has to be seen to be believed. Peering over the edge and looking 6000 ft down just might change your life. Check out [that day's vlog](https://www.youtube.com/watch?v=QQTUyZF_1f0) for an up close view.
 
 ![Sunset in texas](/images/uploads/texas-sunset.jpg)
 We spent a lot of time in Texas and the sunsets never disappointed.
