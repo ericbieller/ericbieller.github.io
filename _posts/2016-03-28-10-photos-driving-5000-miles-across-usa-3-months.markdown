@@ -11,7 +11,7 @@ author: eric_bieller
 
 When we left our home in San Francisco, we weren't sure where the road was going to take us, but we were dying to find out.
 
-Before we decided officially that we wanted to sell all of our posessions and live a nomadic lifstyle, we wanted to dip our toes in the water a bit. So, we decided to take an epic 3 month roadtrip around the country so we could get a taste of what it was really like to live out of a bag and to life a lifestyle of travel.
+Before we decided officially that we wanted to sell all of our posessions and live a nomadic lifstyle, we wanted to dip our toes in the water a bit. So, we decided to take an epic 3 month roadtrip around the country so we could get a taste of what it was really like to live out of a backpack and to travel full-time!
 
 ![route across the usa](/images/uploads/road-trip-map.png)
 
