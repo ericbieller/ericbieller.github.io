@@ -33,23 +33,23 @@ These once vibrant bath houses in west San Francisco have been reduced to ruins 
 The roads seem to go on forever over in western Texas.
 
 ![Sand dunes](/images/uploads/dunes.jpg)
-These white sand dunes in New Mexico seem to come out of nowhere! Check out [that day's vlog](https://www.youtube.com/watch?v=PCoXUeY9aKw) for an up close view.
+These huge white sand dunes in New Mexico seem to come out of nowhere! Check out [that day's vlog](https://www.youtube.com/watch?v=PCoXUeY9aKw) for an up close view.
 
 ![prada store](/images/uploads/prada-marfa.jpg)
-This random prada store sits outside of Marfa, TX, literally in the middle of the desert. So strange.
+This random Prada store sits outside of Marfa, TX, literally in the middle of the desert. So strange.
 
 ![mardi gras beads](/images/uploads/beads.jpg)
-The aftermath of mardi gras in Baton Rouge, LA. Check out [that day's vlog](https://www.youtube.com/watch?v=iM4zqlxLzEw) for an up close view.
+The aftermath of mardi gras in Baton Rouge, LA. It was an amazing party, but you wouldn't believe the mess these people left behind! Check out [that day's vlog](https://www.youtube.com/watch?v=iM4zqlxLzEw) for an up close view.
 
 ![rock in atlanta](/images/uploads/stone-mountain.jpg)
-This rock sits just outside of Atlanta, GA and offers the most incredible view of the city and surrounding areas. Check out [that day's vlog](https://www.youtube.com/watch?v=k7ajq61CuRE) for an up close view.
+This huge rock sits just outside of Atlanta, GA and offers the most incredible view of the city and surrounding areas. Check out [that day's vlog](https://www.youtube.com/watch?v=k7ajq61CuRE) for an up close view.
 
 ![looking out at new york view](/images/uploads/nyc-view.jpg)
-The island of Manhattan is so photogenic. This was taken from the base of the sttue of liberty, which offered some of the best views. Check out [that day's vlog](https://www.youtube.com/watch?v=UMWr6azqyOw) for an up close view. 
+The island of Manhattan is so photogenic. This was taken from the base of the Statue of Liberty, which offered some of the best views. Check out [that day's vlog](https://www.youtube.com/watch?v=UMWr6azqyOw) for an up close view. 
 
 ----
 
-Our road trip might be over but the adventure is just beginning! We're heading over to Europe for the next few months, then we'll hopefully head over to southeast Asia.
+Our road trip might be over but the adventure is just beginning! We're heading over to Europe for the next few months, then we'll slowly make our way over to southeast Asia. It's going to be an amazing year!
 
 You can follow along on our journey by subscribing to our [YouTube Channel](https://www.youtube.com/c/TheEndlessAdventure?sub_confirmation=1) or by [subscribing to our blog](http://conversational.us6.list-manage.com/subscribe?u=f210e827b5997f97a4c359077&id=cbb27cac9e). Thanks for reading, we'll see you on the road!
 
