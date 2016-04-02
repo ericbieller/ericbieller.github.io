@@ -3,7 +3,7 @@ layout: post
 title:  "10 Photos from Driving 10,000 Miles Across the US in 3 Months."
 date:   2016-03-28 12:00:00
 category: Travel
-tags: [travel, roat-trip, lists]
+tags: [travel, road-trip, lists]
 header_image: road-trip-map.png
 share_image: /images/headers/road-trip-map.png
 author: eric_bieller
