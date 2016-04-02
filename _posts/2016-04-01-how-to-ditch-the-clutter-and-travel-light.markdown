@@ -10,6 +10,8 @@ author: allison_bieller
 ---
 My husband and I recently left our jobs and apartment in San Francisco to travel the world full time. Most people would agree that we’re living the dream, but full disclosure, it’s way more stressful and complicated than it sounds!
 
+##Tame the Closet
+
 When we made this decision, obviously we were super pumped up. But once that initial excitement subsided, we started thinking about what full-time travel actually entails and the reality of the situation set in: *traveling the world means living out of a small suitcase or backpack...and there’s no way in hell your entire wardrobe, shoes, home gym, straightener, lotions, hair products, and cats will fit!*
 ##Tame the Closet
 ![cats in apartment](/images/uploads/the-cats.jpg)
