@@ -10,15 +10,13 @@ author: allison_bieller
 ---
 My husband and I recently left our jobs and apartment in San Francisco to travel the world full time. Most people would agree that we’re living the dream, but full disclosure, it’s way more stressful and complicated than it sounds!
 
-##Tame the Closet
-
 When we made this decision, obviously we were super pumped up. But once that initial excitement subsided, we started thinking about what full-time travel actually entails and the reality of the situation set in: *traveling the world means living out of a small suitcase or backpack...and there’s no way in hell your entire wardrobe, shoes, home gym, straightener, lotions, hair products, and cats will fit!*
-##Tame the Closet
+
 ![cats in apartment](/images/uploads/the-cats.jpg)
-##Tame the Closet
+
 So what do you do? First step, **panic!!!** Next, take a deep breath (or many short ones into a brown paper bag) and focus. 
 
-##Tame the Closet
+## Tame the Closet
 
 Let’s start with your closet. If you’re like me, the majority of your shoes and clothing are sitting there waiting for that one perfect beach day, a birthday picnic in the park or the night when Ryan Gosling invites you to the Academy Awards because he finally realized he’s in love with you totally and eternally. 
 
@@ -36,7 +34,7 @@ Flip flops are must-haves for showers and pool days, but can also be the perfect
 
 Depending on how much space you have, a pair of rain boots is also really nice to have (as I sit here writing on a rainy day in Montreal, wearing my soaking wet tennis shoes). Weight is always a factor, but apparently rain boots are super [lightweight](http://www.bogsfootwear.ca/shop/style/71287.html) these days! So there you have it - style, comfort, and minimalism all in one!
 
-##Choosing Your Clothing
+## Choosing Your Clothing
 
 When it comes to clothing, think about the different climates you’ll be in and go from there. Let’s assume you’re like me and traveling indefinitely across all different climates, since that’s the hardest kind of travel to prepare for in my opinion. 
 
@@ -44,7 +42,7 @@ Luckily, there’s an easy secret: **basics and layers**. Get a couple pairs of 
 
 To maximize warmth and minimize load, invest in a couple long-sleeved thermal tops and a [3-in-1 jacket](http://www.backcountry.com/Store/catalog/search.jsp?s=u&q=3+in+1+jacket) to keep you covered in all climates. If you plan on doing a lot of Instagramming while on the road and are worried about always wearing the same thing, I can assure you that people will notice a patterned top a lot faster than a basic tee. ;)
 
-##Choosing Your Accessories and Toiletries
+## Choosing Your Accessories and Toiletries
 
 Okay, now that your clothing’s settled, everything else is a piece of cake! For those who do it all - moisturize, exfoliate, tweeze, style, wax - you might have a hard time at first, but like I mentioned earlier, just think about the necessities. You can always buy things like face masks and extra razor heads on the road, so start out with small quantities and leave your bubble bath at home! 
 
