@@ -38,9 +38,11 @@ Depending on how much space you have, a pair of rain boots is also really nice t
 
 When it comes to clothing, think about the different climates you’ll be in and go from there. Let’s assume you’re like me and traveling indefinitely across all different climates, since that’s the hardest kind of travel to prepare for in my opinion. 
 
-Luckily, there’s an easy secret: **basics and layers**. Get a couple pairs of pants and/or jeans, shorts, and skirts that can easily be dressed up or down and don’t wrinkle easily. Match these with the majority of your tops and voila! Your bottom half is literally covered! For me, I picked out all the bottoms I wanted and then grabbed tops that I could mix easily with them. For both guys and gals, solid and striped tops specifically are great because they can go with anything! 
+Luckily, there’s an easy secret: **basics and layers**. Get a couple pairs of pants and/or jeans, shorts, and skirts that can easily be dressed up or down and don’t wrinkle easily. Match these with the majority of your tops and voila! Your bottom half is literally covered! 
 
-To maximize warmth and minimize load, invest in a couple long-sleeved thermal tops and a [3-in-1 jacket](http://www.backcountry.com/Store/catalog/search.jsp?s=u&q=3+in+1+jacket) to keep you covered in all climates. If you plan on doing a lot of Instagramming while on the road and are worried about always wearing the same thing, I can assure you that people will notice a patterned top a lot faster than a basic tee. ;)
+For me, I picked out all the bottoms I wanted and then grabbed tops that I could mix easily with them. For both guys and gals, solid and striped tops specifically are great because they can go with anything! If you plan on doing a lot of Instagramming while on the road and are worried about always wearing the same thing, I can assure you that people will notice a patterned top a lot faster than a basic tee. ;)
+
+To maximize warmth and minimize load, invest in a couple long-sleeved thermal tops and a [3-in-1 jacket](http://www.backcountry.com/Store/catalog/search.jsp?s=u&q=3+in+1+jacket) to keep you covered in all climates.
 
 ## Choosing Your Accessories and Toiletries
 
@@ -58,7 +60,7 @@ In addition to your shampoo and soap, things I highly recommend having in your b
 
 ----
 
-So there you have it! After 5 months of living out a backpack, these are the tips, tricks, and essentials I’ve found that’ll take the stress out of packing without compromising on style and hygiene.
+So there you have it! After 5 months of living out of a backpack, these are the tips, tricks, and essentials I’ve found that’ll take the stress out of packing without compromising on style and hygiene.
 
 Have any great packing tips or recommendations? Let us know!! 
 
