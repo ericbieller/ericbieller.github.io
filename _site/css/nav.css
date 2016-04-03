@@ -21,6 +21,8 @@
       margin-top: 9px;
       margin-right: 20px;
       font-size: 15px; }
+      .secondary-header nav a:last-child {
+        margin-right: 0; }
   .secondary-header .social {
     float: right;
     margin-top: 4px; }
@@ -42,8 +44,10 @@
       margin: 0;
       padding: 0 0 10px 0; } }
   @media (max-width: 560px) {
-    .secondary-header nav a:last-child {
-      display: none; } }
+    .secondary-header nav {
+      display: none; }
+    .secondary-header .social a {
+      margin-top: 8px; } }
 
 .nav {
   width: 100%;

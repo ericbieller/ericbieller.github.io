@@ -29,6 +29,10 @@
       margin-top: 9px;
       margin-right: 20px;
       font-size: 15px;
+      
+      &:last-child {
+        margin-right: 0;
+      }
     }
   }
   
@@ -65,8 +69,11 @@
   
   @media (max-width: 560px) {
     nav {
-      a:last-child {
-        display: none;
+      display: none;
+    }
+    .social {
+      a {
+        margin-top: 8px;
       }
     }
   }
