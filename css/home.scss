@@ -12,10 +12,10 @@
 .hero {
   position: relative;
   background: #393D43;
-  margin-top: 70px;
   
   .hero-bg {
     display: none;
+    opacity: .5;
   }  
 
   .copy {
@@ -396,6 +396,17 @@
         text-decoration: none;
         background-size: auto 110%;
       }
+      
+      &:after {
+        content: "";
+        display: block;
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        background: #333;
+        opacity: .4;
+        top: 0;
+      }
     }
     
     .post-image {
@@ -414,6 +425,7 @@
       font-size: 26px;
       position: relative;
       padding: 14px;
+      z-index: 1;
       
       @media (max-width: 930px) {
         font-size: 20px;

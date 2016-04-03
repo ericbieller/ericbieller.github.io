@@ -39,7 +39,7 @@
                         <h2 class="post-title" itemptop="headline"><a href="{{ post.url }}">{{ post.title }}</a></h2>
                     <div class="post-meta">
                       {% if author %}
-                      <img class="author-thumb" src="author thumbnail" src="http://www.gravatar.com/avatar/{{ author.gravatar}}?s=100" alt="Author image" nopin="nopin" itemprop="image" />
+                      <img class="author-thumb" alt="author thumbnail" src="http://www.gravatar.com/avatar/{{ author.gravatar}}?s=100" alt="Author image" nopin="nopin" itemprop="image" />
                       <span class="author" itemprop="author">By {{ author.name }}</span>
                       {% endif %}
                       <time itemprop="datePublished" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %-d, %Y" }}</time>

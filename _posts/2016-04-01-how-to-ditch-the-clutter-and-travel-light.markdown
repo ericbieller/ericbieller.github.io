@@ -3,7 +3,7 @@ layout: post
 title:  "How to Ditch the Clutter and Travel Light"
 date:   2016-04-01 12:00:00
 category: Travel
-tags: [travel, travel-tips]
+tags: [travel, travel-tips, minimalism]
 header_image: girl-woods-backpack.jpeg
 share_image: /images/headers/girl-woods-backpack.jpeg
 author: allison_bieller
