@@ -4,9 +4,18 @@
 .secondary-header {
   background: #66D295;
   padding: 0 30px;
+  width: 100%;
+  top: 0;
+  z-index: 3;
+  box-sizing: border-box;  
   
   @media (max-width: 560px) {
     position: static;
+  }
+  
+  &.fixed {
+    display: none;
+    position: fixed;
   }
     
   nav {
