@@ -3,6 +3,7 @@ body {
   body h1, body h2, body h3, body h4, body h5 {
     font-family: Asap; }
   body h1 {
+    font-weight: bold;
     font-size: 45px; }
   body h2 {
     font-size: 44px;
