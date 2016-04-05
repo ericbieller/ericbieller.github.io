@@ -167,12 +167,14 @@ var $clone = 0;
 var threshold = 150;
 $( window ).scroll(function() {
   var scroll = $(window).scrollTop();
+  
   if (scroll > threshold && $clone == 0) {
     $clone = $(".secondary-header").clone().prependTo("body");
     $clone.addClass('fixed').slideDown("slow");
   } else if (scroll < threshold && $clone != 0) {
     console.log('up');
     $clone.slideUp("slow");
+    $clone.remove();
     $clone = 0;
   }
 });
