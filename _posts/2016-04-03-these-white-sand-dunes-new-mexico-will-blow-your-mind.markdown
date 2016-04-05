@@ -5,7 +5,7 @@ date:   2016-04-01 12:00:00
 category: Travel
 tags: [travel, vlogs]
 header_image: allison-and-eric-jump-dunes.jpg
-share_image: /images/headers/girl-woods-backpack.jpeg
+share_image: /images/headers/allison-and-eric-jump-dunes.jpeg
 author: allison_bieller
 ---
 
