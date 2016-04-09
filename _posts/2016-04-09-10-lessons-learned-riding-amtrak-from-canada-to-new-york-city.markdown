@@ -11,7 +11,7 @@ author: allison_bieller
 
 Eric and I recently booked a trip to Montreal but needed to be in Florida for a cruise the following week. So, naturally we figured we should hit up New York on the way down since we’d be on the East Coast anyway. But the flights were expensive and we didn’t have a car, so that left us with one option: Amtrak. 
 
-After a little digging, we found a train route that cost on $69/person and figured what the heck! So now here I am at the end of the train ride, giving you the freshest perspective of train travel across the Canadian border.
+After a little digging, we found a train route that cost $69/person and figured what the heck! So now here I am at the end of the train ride, giving you the freshest perspective of train travel across the Canadian border.
 
 Check out that day's vlog for an up close look:
 
@@ -27,7 +27,7 @@ The train departs at 10:20am, but you should arrive about 30 minutes prior to th
 
 ## Border Patrol is no joke!
 
-About 2 hours into your ride (right inside the New York state line), Border Patrol boards the train to collect papers, inspect passports and question everyone. If you don’t speak English, appear to be on drugs like the guy behind us, or aren’t the US, prepare to be asked a lot of questions by stern, highly impatient agents. 
+About 2 hours into your ride (right inside the New York state line), Border Patrol boards the train to collect papers, inspect passports and question everyone. If you don’t speak English, appear to be on drugs like the guy behind us, or from aren’t the US, prepare to be asked a lot of questions by stern, highly impatient agents. 
 
 If you’re really lucky, you’ll get called to the cafe car for what I can only assume is interrogation hell. I’m not sure if this is true for all of these routes, but we literally sat still on the tracks for 2 hours during this process, which leads me to my next lesson learned:
 
