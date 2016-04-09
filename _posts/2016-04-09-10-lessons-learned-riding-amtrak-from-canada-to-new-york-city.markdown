@@ -9,7 +9,7 @@ share_image: /images/headers/train-tracks.jpg
 author: allison_bieller
 ---
 
-Eric and I and I recently booked a trip to Montreal but needed to be in Florida for a cruise the following week. So, naturally we figured we should hit up New York on the way down since we’d be on the East Coast anyway. But the flights were expensive and we didn’t have a car, so that left us with one option: Amtrak. 
+Eric and I recently booked a trip to Montreal but needed to be in Florida for a cruise the following week. So, naturally we figured we should hit up New York on the way down since we’d be on the East Coast anyway. But the flights were expensive and we didn’t have a car, so that left us with one option: Amtrak. 
 
 After a little digging, we found a train route that cost on $69/person and figured what the heck! So now here I am at the end of the train ride, giving you the freshest perspective of train travel across the Canadian border.
 
