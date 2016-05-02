@@ -13,11 +13,11 @@ In case you haven’t heard, we’re big fans of using cruises as an affordable 
 
 Sadly, the only thing cruises don’t automatically include is alcohol. And there’s no way we’re spending two weeks on a boat (with 8 continuous days at sea) completely sober. 
 
-While it’s true that cruise lines often offer alcohol packages, they’re actually pretty expensive. Ours cost anywhere from $39 for the basic package to $59 for the premium package per day per person. At first that sounds like a freaking awesomedeal, but the catch is that when you sign up for the drink package, you have to pay for it every remaining day. That basically means you end up literally doubling your ticket price! No bueno.
+While it’s true that cruise lines often offer alcohol packages, they’re actually pretty expensive. Ours cost anywhere from $39 for the basic package to $59 for the premium package per day per person. At first that sounds like a freaking awesome deal, but the catch is that when you sign up for the drink package, you have to pay for it every remaining day. That basically means you end up literally doubling your ticket price! No bueno.
 
-So, we got a little scrappy and ended up sneaking on 3, 750ml bottles of liquor and 4 mini bottles and no one was the wiser. Security was a breeze. At first we were nervous they might be suspicious of our bottles, but we flew right on by!
+So, we got a little scrappy and ended up sneaking on 2 750ml bottles of liquor and 4 mini bottles and no one was the wiser. Security was a breeze. At first we were nervous they might be suspicious of our bottles, but we flew right on by!
 
-The truth is, we totally could have snuck on 4 times the amount we did without anyone batting an eye... so hopefully that's what we inspire you to do :) 
+The truth is, we totally could have snuck on 4 times the amount we did without anyone batting an eye... so that's hopefully what we'll inspire you to do :) 
 
 
 ## Here’s how you do it:
@@ -84,8 +84,6 @@ Okay so this isn’t really a free way to drink, but it does make things way mor
 Well now that we’ve done the research and successfully put our tricks to the test, we hope that your next cruise will end up being the ultimate, free booze cruise!!
 
 ----
-
-Overall, the train is a fun, affordable experience that you should definitely try once, but probably not more than that. ;)
 
 If you want to follow along on our journey, consider subscribing to our [YouTube Channel](https://www.youtube.com/c/TheEndlessAdventure?sub_confirmation=1) or [subscribing to our blog](http://conversational.us6.list-manage.com/subscribe?u=f210e827b5997f97a4c359077&id=cbb27cac9e). Thanks for reading, we'll see you on the road!
 
