@@ -21,7 +21,7 @@ Okay, so now that you have your car and a full, I repeat a FULL, tank of gas (ga
 
 ![Texas Sunset](/images/uploads/texas-sunset.jpg)
 
-##Bandera
+## Bandera
 
 Okay, so Bandera probably isn’t considered true “west Texas”, but it's definitely a good start for your journey. The self-proclaimed [Cowboy Capital of the World](http://www.banderacowboycapital.com/), the freakin world!!, is definitely the most authentic and adorable town. In Bandera, the deer roam freely, the beer is cheap, and the smokey bars are filled with denim-clad cowboys, live music, and line dancing. 
 
@@ -29,7 +29,7 @@ Okay, so Bandera probably isn’t considered true “west Texas”, but it's def
 
 ![horse trail ride](/images/uploads/horse-trail-ride.jpg)
 
-##Marfa
+## Marfa
 
 If cowboys aren’t really your thing, then your first west Texas stop should definitely be Marfa, TX. The best way to explain Marfa is to imagine an abandoned desert town that’s been taken over by hipsters and filled with random art galleries, delicious food, sketchy bars, and great coffee. 
 
@@ -45,7 +45,7 @@ Check out our travel vlog of our day in Marfa to get a good feel for the town :)
 
 If you plan ahead and have a little leeway with your budget, I highly recommend staying in a teepee or trailer at [Marfa's El Cosmico](http://elcosmico.com/) campground - it’ll definitely give you the most authentic experience. Or if you’re like me and can’t seem to plan anything more than a couple weeks in advance, then definitely look for airbnbs in either [Marfa](https://www.airbnb.com/s/Marfa--TX--United-States?guests=&checkin=&checkout=&ss_id=3sy3sww9&source=bb&s_tag=l19obG27) or [Alpine](https://www.airbnb.com/s/alpine--TX--United-States?checkin=&checkout=&guests=&ss_id=0i6k6svk&s_tag=ZEnmtN4i).
 
-##Big Bend
+## Big Bend
 
 After a day or two of getting some of the strangest instagram pics around Marfa, it’s time to pack up and head south for some [mind-blowing views in Big Bend](http://localhost:4000/adventures/travel-vlog-hiking-big-bend-the-greatest-view-of-our-lives.html). I unfortunately only had time for a quick day hike there, but you could easily spend a week or weeks in the area! 
 
@@ -61,7 +61,7 @@ Check out our epic vlog of our hike to the top of Big Bend:
 <iframe width="560" height="415" src="https://www.youtube.com/embed/Fr3DnW5qyXE" frameborder="0" allowfullscreen></iframe>
 </p>
 
-##Terlingua
+## Terlingua
 
 Either on your way in or out of Big Bend, you have to stop in Terlingua at least for a day to check out the remains of the Chisos Mining Company. Or if you’re like me and don’t necessarily love camping, it could also be your home base while you’re exploring Big Bend. Literally referred to as [Ghost Town Texas](http://ghosttowntexas.com/), Terlingua is a fascinating glimpse into what old mining towns looked like. 
 
