@@ -10,6 +10,7 @@ url: "http://theendlessadventure.co" # the base hostname & protocol for your sit
 twitter_username: jekyllrb
 github_username:  jekyll 
 permalink: none
+future: true
 
 
 # Build settings
