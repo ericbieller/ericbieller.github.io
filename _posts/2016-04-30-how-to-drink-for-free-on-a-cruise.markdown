@@ -3,7 +3,7 @@ layout: post
 title:  "How to Drink for Free on a Cruise"
 date:   2016-04-09 15:30:00
 category: Travel
-tags: [travel, travel-tips, budget-travel]
+tags: [travel, travel-tips, budget-travel, cruises]
 header_image: cocktail-header.jpeg
 share_image: /images/headers/cocktail-header.jpeg
 author: allison_bieller
