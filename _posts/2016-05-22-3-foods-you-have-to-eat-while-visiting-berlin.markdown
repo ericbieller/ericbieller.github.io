@@ -17,7 +17,7 @@ We wanted to try the dishes Berlin was known for. But, instead of just googling 
 
 We were given a bunch of amazing suggestions, but settled on the following three since they came the most highly recommended and, let’s face it, they sound delicious!
 
-[video]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2aUg7mjzbg8" frameborder="0" allowfullscreen></iframe>
 
 ## Currywurst at Curry 36
 
