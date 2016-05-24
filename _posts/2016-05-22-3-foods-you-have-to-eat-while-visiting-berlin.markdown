@@ -2,8 +2,8 @@
 layout: post
 title:  "3 Foods You HAVE to Eat While Visiting Berlin"
 date:   2016-05-22 15:30:00
-category: Travel Guides
-tags: [travel, travel-guides]
+category: travel-guides
+tags: [travel, travel-guides, food]
 header_image: currywurst.jpg
 share_image: /images/images/uploads/currywurst.jpg
 author: eric_bieller
@@ -48,7 +48,7 @@ If you’re in Berlin, you’ve definitely got to give these unique little pastr
 
 ## Schnitzel at Scheers Schnitzel
 
-While Schnitzel may be hard to pronounce, it’s easy to devour! We found a quaint, unassuming little schnitzel place under bridge in East Berlin called Scheers Schnitzel (try saying that 5 times fast!).
+While Schnitzel may be hard to pronounce, it’s easy to devour! We found a quaint, unassuming little schnitzel place under a bridge in East Berlin called Scheers Schnitzel (try saying that 5 times fast!).
 
 If you’re not familiar with it, a schnitzel is meat, thinned by pounding with a meat tenderizer, coated with flour, beaten eggs and bread crumbs, and then fried. Yep, it’s just as delicious as it sounds!
 
