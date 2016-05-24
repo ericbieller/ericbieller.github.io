@@ -8,6 +8,7 @@
 
   <title>The Endless Adventure | Travel Blog & Daily Vlog</title>
   <meta name="description" content="Travel blog where we share tips and tricks for traveling the world with a focus on budget travel and minimalism.">
+  <meta name="keywords" content="budget travel, travel blog, travel vlog, travel tips, travel tricks, the endless adventure, eric bieller, allison bieller, cheap travel guides">
 
   <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
   <link href='https://fonts.googleapis.com/css?family=Itim|PT+Sans:400,700|Asap:700|Shadows+Into+Light:400|Londrina+Sketch:400' rel='stylesheet' type='text/css'>
@@ -189,6 +190,12 @@
     <ul class="posts">
       
         <li class="one-third column">
+          <a class="post-link" href="/travel%20guides/3-foods-you-have-to-eat-while-visiting-berlin.html" style="background-image: url(/images/headers/currywurst.jpg)">
+            <h2 class="subheader">3 Foods You HAVE to Eat While Visiting Berlin</h2>
+          </a>
+        </li>
+      
+        <li class="one-third column">
           <a class="post-link" href="/travel/9-things-you-need-to-know-before-your-first-cruise.html" style="background-image: url(/images/headers/allison-cruise.jpg)">
             <h2 class="subheader">9 Things You Need to Know Before Taking Your First Cruise</h2>
           </a>
@@ -233,12 +240,6 @@
         <li class="one-third column">
           <a class="post-link" href="/travel/5-10-photos-driving-5000-miles-across-usa-3-months.html" style="background-image: url(/images/headers/road-trip-map.png)">
             <h2 class="subheader">10 Photos from Driving 10,000 Miles Across the US in 3 Months.</h2>
-          </a>
-        </li>
-      
-        <li class="one-third column">
-          <a class="post-link" href="/remote-working/5-best-coffee-shops-to-work-from-remotely-austin-texas.html" style="background-image: url(/images/headers/austin.jpeg)">
-            <h2 class="subheader">The 5 Best Coffee Shops to Work From in Austin, TX</h2>
           </a>
         </li>
       
@@ -382,7 +383,7 @@ $.ajax({
   success: function(data) {
     // Generate array of coordinates
     $.each(data.items, function(index, value) {
-        $("#videos").append('<div class="one-third column"><div class="video"><a href="http://youtube.com?v=' + value.contentDetails.videoId + '" target="_blank"><div class="thumbnail-wrapper"><img src="' + value.snippet.thumbnails.medium.url + '" alt="YouTube Thumbnail" /></a></div><div class="title"><span>' + value.snippet.description.split('-')[0] + '</span><span>' + value.snippet.title + '</span></div></div></div>');
+        $("#videos").append('<div class="one-third column"><div class="video"><a href="http://youtube.com?v=' + value.contentDetails.videoId + '" target="_blank"><div class="thumbnail-wrapper"><img src="' + value.snippet.thumbnails.medium.url + '" alt="YouTube Thumbnail" /></a></div><div class="title"><span><a href="http://youtube.com?v=' + value.contentDetails.videoId + '">' + value.snippet.title + '</a></span></div></div></div>');
     });
   }
 });

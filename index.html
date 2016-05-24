@@ -216,7 +216,7 @@ $.ajax({
   success: function(data) {
     // Generate array of coordinates
     $.each(data.items, function(index, value) {
-        $("#videos").append('<div class="one-third column"><div class="video"><a href="http://youtube.com?v=' + value.contentDetails.videoId + '" target="_blank"><div class="thumbnail-wrapper"><img src="' + value.snippet.thumbnails.medium.url + '" alt="YouTube Thumbnail" /></a></div><div class="title"><span>' + value.snippet.description.split('-')[0] + '</span><span>' + value.snippet.title + '</span></div></div></div>');
+        $("#videos").append('<div class="one-third column"><div class="video"><a href="http://youtube.com?v=' + value.contentDetails.videoId + '" target="_blank"><div class="thumbnail-wrapper"><img src="' + value.snippet.thumbnails.medium.url + '" alt="YouTube Thumbnail" /></a></div><div class="title"><span><a href="http://youtube.com?v=' + value.contentDetails.videoId + '">' + value.snippet.title + '</a></span></div></div></div>');
     });
   }
 });
