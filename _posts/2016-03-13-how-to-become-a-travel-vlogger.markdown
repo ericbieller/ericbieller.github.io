@@ -15,7 +15,7 @@ The good news is, you don’t have to quit your job and sell all your possession
 
 So where the heck do you even start? What if you have a full time job? What gear do you need?
 
-##Incorporate travel into your life
+## Incorporate travel into your life
 
 When people talk about “travel”, they are usually referring to expensive excursions thousands of miles away from your home. But there’s no rule that says you have to go far away from your home in order to travel.
 
@@ -23,13 +23,13 @@ The first step to a successful travel vlog is finding ways to travel, even to pl
 
 Since most of us don’t have an unlimited budget, it’s important to keep your travels and activities cheap. Search Google for free things to do in your area or check our Groupon for cheap deals on fun activities.
 
-##Just start filming
+## Just start filming
 
 Any time a vlogger asks us where they should start, we always say the same thing, just start filming. It doesn’t matter if you’re hanging around your house talking about your upcoming travel plans or bringing the camera along while you visit a park with your family. The only way to learn how to vlog is to start making mistakes so you can learn from them. And the only way to do that is to pop the camera out and start filming. 
 
 Trust me, once you overcome this initial hurdle, vlogging will become easier and easier. Eventually it will be second nature! So grab the camera, get out of the house and start creating videos you crazy creative creature!
 
-##It’s not about the gear
+## It’s not about the gear
 
 Vlogging is about 10% equipment and 90% story. Don’t waste your money by dumping it into expensive cameras and audio equipment. If people end up watching your vlog, it will be because of the great story you’re telling and the creative ways you tell it, not because your video was shot in 4k.
 
@@ -41,19 +41,19 @@ We started vlogging on a used Canon G7X, then eventually upgraded to a Sony a600
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Fr3DnW5qyXE" frameborder="0" allowfullscreen></iframe>
 
-##Don’t do it for the money
+## Don’t do it for the money
 
 Because there is no money. Period. Not for the foreseeable future anyways. It will take a crap ton of blood, sweat, tears and time (a whole lotta time) before you develop a large enough audience to make a decent profit. Even with 100,000 video views, you’ll only make an estimated $100-$300 profit. Getting the picture?
 
 Start your travel vlog because you’re passionate about travel and want to inspire others to travel more. Try to have fun with it. If you’re not having fun, then vlogging might not be for you! Maybe try golf?
 
-##Connect with other travelers
+## Connect with other travelers
 
 The best thing you can do as a beginner travel vlogger is to connect with other travelers. Meeting other like minded people, whether online or in person, will help you feel like you’re not alone in this travel game. They can also be a great source of inspiration and drive you to keep traveling yourself!
 
 Instagram and Twitter are great resources for connecting with other travelers. We’ve already met so many great people through these networks! We also make a point to interact with other YouTubers who have travel focused channels. It’s like having a bit of a support group and is a great way to find other YouTubers to collaborate with. Speaking of collaborating, it’s a hugely effective way to grow your subscribers. Keep in mind, though, that this usually only works with channels that have similar subscriber counts as yours.
 
-##Conclusion
+## Conclusion
 
 Hopefully these tips help you get off on the right foot with your travel vlog. The most important thing of all, though, is to make sure you have passion. If you’re not passionate about travel, it will show through in your videos and you’ll likely not be able to keep up with vlogging anyways because you’ll get burnt out.
 

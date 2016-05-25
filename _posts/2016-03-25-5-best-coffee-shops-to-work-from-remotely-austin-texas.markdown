@@ -15,7 +15,7 @@ We didn’t have any specific places in mind when we showed up, but instead want
 
 So after a week working remote from Austin, here are the best coffee shops we found:
 
-##Cenote
+## Cenote
 
 ![cenote coffee shop](/images/uploads/cenote.jpeg)
 
@@ -30,7 +30,7 @@ Outlet wise, Cenote had us covered. Everywhere we sat we were able to find an ou
 
 **Bottom line:** With tons of seating, great coffee and outlets-o-plenty, you’d be missing out big time if you didn’t check out Cenote.
 
-##Wright Brothers Brew and Brew
+## Wright Brothers Brew and Brew
 
 ![wright brothers coffee shop](/images/uploads/wright-brothers.jpeg)
 
@@ -47,7 +47,7 @@ Their food options were fairly light, but surprisingly they allow you to bring i
 
 **Bottom line:** Brew and Brew is a legit spot for coffee lovers and hard core remote workers. Inside you’ll find plenty of outlets, tables you can stand at and a great selection of beers. Unfortunately there’s no patio and the outside is a bit lack luster, but the unique decor and positive vibe on the inside make it a great place to get stuff done.
 
-##The Buzzmill
+## The Buzzmill
 
 ![buzzmill coffee shop](/images/uploads/buzzmill.jpeg)
 
@@ -63,7 +63,7 @@ Oh, and did I mention it’s open 24 hours? I don’t even know how that’s pos
 **Bottom line:** With decent coffee, tons of seating, and a quiet study hall, Buzzmill is a remote workers paradise. Throw in $1 PBR and amazing barbecue in the backyard, what more could you need?
 Cenote
 
-##Cafe Medici
+## Cafe Medici
 
 ![cafe medici coffee shop](/images/uploads/medici.jpeg)
 
@@ -75,7 +75,7 @@ We had heard great things about their coffee, but at this point in the day we we
 
 **Bottom line:** Cafe Medici has a super polished interior with tons of seating and plenty of counters for standing. Overall it’s a top notch place for digital nomads to get some work done.
 
-##Juan Pelota
+## Juan Pelota
 
 ![juan pelota coffee shop](/images/uploads/juan.jpeg)
 

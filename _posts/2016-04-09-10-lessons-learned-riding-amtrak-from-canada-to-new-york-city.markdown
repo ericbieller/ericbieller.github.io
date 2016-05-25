@@ -25,13 +25,13 @@ When you arrive at the Gare Centrale station in Montreal, you just head inside, 
 
 The train departs at 10:20am, but you should arrive about 30 minutes prior to that time since they start the boarding process a little before 10am. It’s scheduled to arrive in NYC a whopping 10 and a half hours later at 8:50pm. So you know going in that it’s going to be a long day.
 
-## Border Patrol is no joke!
+## Border Patrol is no joke
 
 About 2 hours into your ride (right inside the New York state line), Border Patrol boards the train to collect papers, inspect passports and question everyone. If you don’t speak English, appear to be on drugs like the guy behind us, or from aren’t the US, prepare to be asked a lot of questions by stern, highly impatient agents. 
 
 If you’re really lucky, you’ll get called to the cafe car for what I can only assume is interrogation hell. I’m not sure if this is true for all of these routes, but we literally sat still on the tracks for 2 hours during this process, which leads me to my next lesson learned:
 
-## You will not arrive on time.
+## You will not arrive on time
 
 Unless somehow every single person on the train has their legal documents perfectly in order, someone will get called to that damn cafe car and your schedule will be shot to hell. We didn’t ended up arriving at Penn Station until 9:45pm, making the day a whopping 12 hours of fun! 
 
@@ -57,7 +57,7 @@ For smokers and people who require frequent fresh air, this might be a bit of a 
 
 Important note for this stop: the power goes off for about 15-20 mins while they switch the engine. For the love of everything holy people, DO NOT USE THE BATHROOM DURING THIS TIME! I didn’t think about it until mid-pee (while hovering of course) but no power = no flushing. Needless to say, I, along with about 5 other people after me either didn’t realize or just didn’t care about that fact. I shudder to think what that poor bathroom went through during that break. If you get stir crazy easily, you can always just walk through the train cars until you get to that station.
 
-## The views are awesome!
+## The views are awesome
 
 So I actually slept most of the way from Montreal to the US border so I can’t really comment on the first couple hours but once you get into New York, the views are amazing! You travel alongside lakes, canals and rivers pretty much the whole time and see all sorts of quaint little towns, forests and wildlife along the way. We’d always heard that upstate New York was beautiful, and it definitely did not disappoint!
 
