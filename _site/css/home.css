@@ -267,7 +267,7 @@
     position: absolute;
     transition: all ease-out .25s;
     max-width: none; }
-  .home .posts h2 {
+  .home .posts h3 {
     color: #fff;
     text-decoration: none;
     text-align: left;
@@ -277,12 +277,12 @@
     padding: 14px;
     z-index: 1; }
     @media (max-width: 930px) {
-      .home .posts h2 {
+      .home .posts h3 {
         font-size: 20px; } }
     @media (max-width: 760px) {
-      .home .posts h2 {
+      .home .posts h3 {
         font-size: 14px;
         line-height: 1.25; } }
     @media (max-width: 549px) {
-      .home .posts h2 {
+      .home .posts h3 {
         font-size: 26px; } }

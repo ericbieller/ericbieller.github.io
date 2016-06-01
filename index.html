@@ -72,7 +72,7 @@ layout: default
       {% for post in site.posts limit: 9 %}
         <li class="one-third column">
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}" style="background-image: url(/images/headers/{{ post.header_image }})">
-            <h2 class="subheader">{{ post.title }}</h2>
+            <h3 class="subheader">{{ post.title }}</h3>
           </a>
         </li>
       {% endfor %}
