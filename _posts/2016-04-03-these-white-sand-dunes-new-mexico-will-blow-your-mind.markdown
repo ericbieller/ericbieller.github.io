@@ -17,7 +17,7 @@ Well, the dunes at the [White Sand National Monument](https://www.nps.gov/whsa/i
 
 ## How to get there
 
-The park is located on Hwy 70 W outside of Alamogordo, NM, but we recommend staying in Las Cruces, NM. It’s a much bigger city with lots of cool stuff to do! As always, we recommend grabbing a room or house on [Airbnb](www.airbnb.ca/c/abieller?s=8) during your stay! (FYI: if you use that link, you’ll get $20 toward your reservation, even if it’s not for a NM trip!! Seriously. What are you waiting for?! Book something already! You’re welcome, we love you!)
+The park is located on Hwy 70 W outside of Alamogordo, NM, but we recommend staying in Las Cruces, NM. It’s a much bigger city with lots of cool stuff to do! As always, we recommend grabbing a room or house on [Airbnb](http://www.airbnb.com/c/abieller?s=8) during your stay! (FYI: if you use that link, you’ll get $20 toward your reservation, even if it’s not for a NM trip!! Seriously. What are you waiting for?! Book something already! You’re welcome, we love you!)
 
 ## Best time to visit
 

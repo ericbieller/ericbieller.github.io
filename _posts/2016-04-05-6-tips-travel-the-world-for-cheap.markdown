@@ -57,7 +57,7 @@ For those not into biking, buses and trains are super affordable forms of transp
 
 Another trick we use to cut down on transportation costs is to book Airbnbs or hostels on the outskirts, but still walking distance, from the areas we’re visiting. You typically get a much cheaper rental rate and pay $0 in transit costs because you’re walking! Plus, you get some extra exercise which is pretty much always a good thing. :)
 
-And, because you're awesome, [here's $35 off your first AirBnB](www.airbnb.com/c/abieller?s=8). No joke!
+And, because you're awesome, [here's $35 off your first AirBnB](http://www.airbnb.com/c/abieller?s=8). No joke!
 
 —
 
