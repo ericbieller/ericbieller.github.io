@@ -5,7 +5,7 @@ date:   2016-05-30 15:30:00
 category: travel-tips
 tags: [travel, travel-tips, lists]
 header_image: dubai.jpg
-share_image: /images/images/uploads/dubai.jpg
+share_image: /images/uploads/dubai/image00.jpg
 author: christine_tran
 ---
 

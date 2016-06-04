@@ -5,7 +5,7 @@ date:   2016-05-22 15:30:00
 category: travel-guides
 tags: [travel, travel-guides, food]
 header_image: currywurst.jpg
-share_image: /images/images/uploads/currywurst.jpg
+share_image: /images/uploads/currywurst.jpg
 author: eric_bieller
 ---
 
