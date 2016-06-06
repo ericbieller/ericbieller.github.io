@@ -7,6 +7,7 @@ tags: [travel, travel-tips]
 header_image: phone-and-bag.jpg
 share_image: /images/headers/phone-and-bag.jpg
 author: eric_bieller
+published: true
 ---
 
 One of the first questions we asked ourselves when we decided we were going to travel fulltime was "How the heck do we get cellphone coverage when we travel to a new country every month!"
