@@ -7,6 +7,7 @@ tags: [travel, travel-tips]
 header_image: girl-backpack.jpg
 share_image: /images/headers/girl-backpack.jpg
 author: allison_bieller
+published: false
 ---
 
 When you’re packing for a trip, obvious things come to mind: clothing, shoes, passport, cell phone, travel-sized shampoo… But once you get on the road, there are some not-so-obvious items that can make all the difference! 
