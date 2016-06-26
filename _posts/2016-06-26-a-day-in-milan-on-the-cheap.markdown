@@ -2,7 +2,7 @@
 layout: post
 title:  "A Day in Milan ON THE CHEAP!"
 date:   2016-06-26 14:30:00
-category: Travel Guides
+category: travel-guides
 tags: [travel-tips, travel-guides, city-guides, budget-travel]
 header_image: canal.jpg
 share_image: /images/headers/canal.jpg
