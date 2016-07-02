@@ -1,3 +1,128 @@
 ---
 layout: blog
 ---
+
+{% assign post = paginator.posts.first %}
+{% assign author = site.data.authors[post.author] %}
+
+    <header class="page-header" style="background-image: url('/images/headers/{{ post.header_image }}');">
+      <div class="container">
+        <div class="ten offset-by-one columns">
+          <div class="copy">
+            <h1 class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></h1>
+            <a href="{{ post.url }}" class="read-now">READ NOW</a>
+            <p class="post-meta">{% if post.author %}<img class="avatar" alt="author avatar" src="http://www.gravatar.com/avatar/{{ author.gravatar}}?s=100" width="70" height="70" /><spa class="byline">By {{ author.name }}</span>{% endif %}</p>
+          </div>
+        </div>
+      </div>
+    </header>
+    
+    <section class="post-list">
+      <div class="container">
+        <div class="eight columns">
+          <ul class="loop" itemscope itemtype="http://schema.org/Blog">
+
+              {% for post in paginator.posts %}
+              {% if forloop.index != 1 %}
+                {% assign author = site.data.authors[post.author] %}
+                <li class="post" itemscope itemtype="http://schema.org/BlogPosting">
+                <article class="{{post_class}}">
+                    <header class="post-header">
+                        <h2 class="post-title" itemptop="headline"><a href="{{ post.url }}">{{ post.title }}</a></h2>
+                    <div class="post-meta">
+                      {% if author %}
+                      <img class="author-thumb" alt="author thumbnail" src="http://www.gravatar.com/avatar/{{ author.gravatar}}?s=100" alt="Author image" nopin="nopin" itemprop="image" />
+                      <span class="author" itemprop="author">By {{ author.name }}</span>
+                      {% endif %}
+                      <time itemprop="datePublished" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %-d, %Y" }}</time>
+                    </div>
+                    </header>
+                    <section class="post-excerpt" itemprop="description">
+                        <p>{{ post.excerpt }} <div class="read-more"><a href="{{ post.url }}">READ MORE</a></div></p>
+                    </section>
+                </article>
+                </li>
+                {% endif %}
+              {% endfor %}
+          </ul>
+        </div>
+        <div class="four columns">
+          <div class="sidebar">
+            <section class="youtube">
+              <h3>Watch <em>The Endless Adventure</em> on YouTube</h3>
+              <p>We post a new adventure every day. <a href="http://bit.ly/1Nnl2kq">Subscribe</a> and follow along!</p>
+              <iframe width="560" height="315" src="https://www.youtube.com/embed/Qm7a1IA7oQ8" frameborder="0" allowfullscreen></iframe>
+            </section>
+            
+            <section class="subscribe">
+              <h3>Become an Adventurer!</h3>
+              <p>Receive critical travel tips and advice right in your inbox.</p>
+              <form action="http://conversational.us6.list-manage.com/subscribe?u=f210e827b5997f97a4c359077&id=cbb27cac9e" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+                <div class="field">
+                  <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="Email Address...">
+                </div>
+            <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+                <div style="position: absolute; left: -5000px;"><input type="text" name="b_0e8642f456c9823c71db27621_7403b78531" tabindex="-1" value=""></div>
+                <input type="submit" value="Join us!" name="subscribe" id="mc-embedded-subscribe" class="button">
+                <span class="email-notice">We'll never sell or misuse your email address. We promise!</span>
+              </form>
+            </section>
+          </div>
+        </div>
+      </div>
+      
+      <div class="container">
+        <div class="eight columns">
+          <!-- Pagination links -->
+          <div class="pagination">
+            <ul>
+              {% if paginator.previous_page %}
+                {% if paginator.previous_page == 1 %}
+                  <li>
+                    <a href="/blog">&laquo;</a>
+                  </li>
+                {% else %}
+                  <li>
+                    <a href="/blog/page{{paginator.previous_page}}/">&laquo;</a>
+                  </li>
+                {% endif %}
+              {% else %}
+                <li class="disabled">
+                  <a href="#">&laquo;</a>
+                </li>
+              {% endif %}
+              {% if paginator.page == 1 %}
+                <li class="active">
+                  <a href="#">1</a>
+                </li>
+              {% else %}
+                <li>
+                  <a href="/blog">1</a>
+                </li>
+              {% endif %}
+              {% for count in (2..paginator.total_pages) %}
+                {% if count == paginator.page %}
+                  <li class="active">
+                    <a href="#">{{count}}</a>
+                  </li>
+                {% else %}
+                  <li>
+                    <a href="/blog/page{{count}}/">{{count}}</a>
+                  </li>
+                {% endif %}
+              {% endfor %}
+              {% if paginator.next_page %}
+                <li>
+                  <a href="/blog/page{{paginator.next_page}}/">&raquo;</a>
+                </li>
+              {% else %}
+                <li class="disabled">
+                  <a href="#">&raquo;</a>
+                </li>
+              {% endif %}
+            </ul>
+          </div>
+        </div>
+      </div>
+    </section>
+    
