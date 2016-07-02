@@ -362,9 +362,11 @@
     </article>
     
     <div id="subscribe-modal" class="subscribe-modal">
-      <h3>Become an Adventurer!</h3>
-      <p>Add your email below to follow along on our crazy journey! We'll only email you every once in a while and we promise it will be super cool content.</p>
-      
+      <div class="container">
+        <div class="twelve columns">
+          <h3>Become an Adventurer!</h3>
+          <p>Add your email below to follow along on our crazy journey! We'll only email you every once in a while and we promise it will be super cool and useful content.</p>
+          
               <form class="subscribe" action="http://conversational.us6.list-manage.com/subscribe?u=f210e827b5997f97a4c359077&id=cbb27cac9e" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
                 <div class="field">
                   <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="Email Address...">
@@ -373,12 +375,37 @@
                 <div style="position: absolute; left: -5000px;"><input type="text" name="b_0e8642f456c9823c71db27621_7403b78531" tabindex="-1" value=""></div>
                 <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
               </form>
+        </div>
+      </div>
     </div>
     
     <script>
       setTimeout(function() {
-        //$.featherlight($("#subscribe-modal"));
-      }, 20000)
+        if (getCookie("modal") != "false") {
+          $.featherlight($("#subscribe-modal"), { afterClose: function() {
+            document.cookie = "modal=false";
+          }});
+        }
+      }, 20000);
+      
+      $("#mc-embedded-subscribe").click(function() {
+        $.featherlight.current().close();
+      });
+      
+      function getCookie(cname) {
+          var name = cname + "=";
+          var ca = document.cookie.split(';');
+          for(var i = 0; i <ca.length; i++) {
+              var c = ca[i];
+              while (c.charAt(0)==' ') {
+                  c = c.substring(1);
+              }
+              if (c.indexOf(name) == 0) {
+                  return c.substring(name.length,c.length);
+              }
+          }
+          return "";
+      }
     </script>
     
     <footer class="site-footer">
@@ -401,6 +428,7 @@
 
   
   <script src='https://cdnjs.cloudflare.com/ajax/libs/randomcolor/0.4.1/randomColor.js'></script>
+  <script src='/js/featherlight.min.js'></script>
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
