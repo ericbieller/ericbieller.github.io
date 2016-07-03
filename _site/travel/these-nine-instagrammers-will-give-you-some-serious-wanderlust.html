@@ -447,35 +447,6 @@
       </div>
     </div>
     
-    <script>
-      setTimeout(function() {
-        if (getCookie("modal") != "false") {
-          $.featherlight($("#subscribe-modal"), { afterClose: function() {
-            document.cookie = "modal=false";
-          }});
-        }
-      }, 20000);
-      
-      $("#mc-embedded-subscribe").click(function() {
-        $.featherlight.current().close();
-      });
-      
-      function getCookie(cname) {
-          var name = cname + "=";
-          var ca = document.cookie.split(';');
-          for(var i = 0; i <ca.length; i++) {
-              var c = ca[i];
-              while (c.charAt(0)==' ') {
-                  c = c.substring(1);
-              }
-              if (c.indexOf(name) == 0) {
-                  return c.substring(name.length,c.length);
-              }
-          }
-          return "";
-      }
-    </script>
-    
     <footer class="site-footer">
   <div class="container">
     <div class="three columns">
