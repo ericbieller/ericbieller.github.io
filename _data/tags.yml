@@ -49,5 +49,8 @@
 - slug: city-guides
   name: City Guides
   
-- slig: instagram
+- slug: instagram
   name: Instagram
+  
+- slug: wanderlust
+  name: Wanderlust
