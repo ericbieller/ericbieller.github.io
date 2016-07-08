@@ -51,6 +51,8 @@ Once we arrived up top, we easily found the trailhead and started walking. This 
 
 ![austria bench view](/images/uploads/austria/bench-austria.jpg)
 
+![allison in austria](/images/uploads/austria/ally-backpack-hike-austria.jpg)
+
 Towards the end of the hike we came across a pub. Yep, there was a pub at the top of this mountain. Isn’t Austria awesome?? Unfortunately this was one of the few days where we were taking a break from beer, but sitting up there and taking in the stunning scenery was enough for us.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fnsLqVZdvh8" frameborder="0" allowfullscreen></iframe>
