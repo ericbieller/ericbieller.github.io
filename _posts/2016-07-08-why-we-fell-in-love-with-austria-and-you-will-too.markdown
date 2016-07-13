@@ -4,8 +4,8 @@ title:  "Why We Fell in Love with Austria, and You Will Too!"
 date:   2016-07-08 14:30:00
 category: Travel
 tags: [travel, wanderlust]
-header_image: ally-backpack-hike-austria-2.png
-share_image: /images/headers/ally-backpack-hike-austria-2.png
+header_image: ally-backpack-hike-austria-2.jpg
+share_image: /images/headers/ally-backpack-hike-austria-2.jpg
 author: eric_bieller
 ---
 
