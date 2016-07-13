@@ -1,68 +1,105 @@
 ---
 layout: post
-title:  "Why We Fell in Love with Austria, and You Will Too!"
+title:  "How to Find the Perfect Airbnb"
 date:   2016-07-08 14:30:00
-category: Travel
-tags: [travel, wanderlust]
-header_image: ally-backpack-hike-austria-2.jpg
-share_image: /images/headers/ally-backpack-hike-austria-2.jpg
-author: eric_bieller
+category: Airbnb
+tags: [travel, travel-tips, airbnb]
+header_image: airbnb-room.jpg
+share_image: /images/headers/airbnb-room.jpg
+author: allison_bieller
 ---
 
-Picture this: Snow capped mountain peaks off in the distance with low flying clouds dancing around them. Flowing hills covered in trees, with the occasional patch of the greenest grass showing through. Air that feels cleaner than any you’ve ever breathed. This is Austria.
+It used to be that when traveling, you had two options: A private but overpriced and sterile hotel room with the potential bonus of bedbugs OR no privacy at all in a cheap, possibly sketchy hostel with the potential bonus of waking up to your bag having been stolen. 
 
-About five years ago, we came across a popular YouTube video. In it, a guy goes flying down a green hillside on a mountain coaster with no brakes. It looked like the experience of a lifetime and quickly jumped to the top of our bucket list.
+But those days are officially over! No more questionable stains on your bed sheets or wearing flip flops in the shower!
 
-Of course, like many bucket list items, we never thought we’d actually have the opportunity to accomplish it. I mean, when would we ever have to opportunity to travel to Austria and stay near the tiny town of Mieders? That thought took us right back to reality.
+You now have the option to stay anywhere from homes, studios, [castles](https://www.airbnb.com/wishlists/stay-in-a-castle), even [this thing](https://www.airbnb.com/rooms/12735111)! You can have as much privacy as you want at a price tag that fits your budget. Sound too good to be true? Well it’s not and it’s amazing! Airbnb gives you the charm of living like a local without having to compromise on amenities. 
 
-Fast forward five years and we’re on a bus traveling from Milan to Innsbruck, a small(ish) town just outside of Mieders, in Austria.
+AND, with this [link](www.airbnb.com/c/abieller) you get $30 off your first booking! Discounts and a better vacation? Miracles do happen!
 
-We had heard a lot of amazing things about Austria from friends and fellow travelers. When this happens, you always run the risk of the place not living up to the hype. But, luckily, Austria more than delivered.
+If you’re only staying in an area for few days, you may not need to be super picky with your space. But if you’re like us and doing more long-term stays (like a week or more), being a little picky can make all the difference. 
 
-The sun was going down and a storm was rolling in as our bus chugged along the Austrian countryside. We had never seen such a beautiful site. The clouds were wrapping around the mountains with beams of sunlight peaking through any gap they could find while quaint little Austrian villages were resting in the valleys below.
+**Trust us. We’ve stayed in 50+ Airbnbs and have become booking pros!**
 
-We arrived in Innsbruck after dark, but were beyond excited to see what this town offered in daylight. The next day we woke up and took a casual peek out the window. Our jaws dropped.
+Start your search by using Airbnb’s first round of filters: set your desired location, date and price range and choose a private room vs. entire apt/home. But don’t stop there! 
 
-<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="7" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:37.5% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://www.instagram.com/p/BHKkfmJhkpc/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank">The view from our Airbnb 😍</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A video posted by The Endless Adventure (@theendlessadventure) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2016-06-27T16:47:18+00:00">Jun 27, 2016 at 9:47am PDT</time></p></div></blockquote> <script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+Do you need wifi? Linens and towels? Free parking? Would you prefer a washing machine and a dishwasher? Want to bring your pet along? Have a specific neighborhood in mind? There’s a filter for all of those too!
 
-Easily the best view we’ve had from any hotel or Airbnb.
+![airbnb filters](/images/uploads/airbnb-tips/filters.png)
 
-Innsbruck is straight out of a fairytale. Anywhere you look, mountains are rising into the sky with green valleys leading up to them. Humans often have a way of ruining this sort of beauty with ugly buildings and skyscrapers, but not in Innsbruck. The architecture was beyond charming and was the perfect compliment to the surrounding mountain ranges.
+So let’s say you’ve added all of your desired filters and have found a few potential candidates.. How do you choose the winner?
 
-![innsbruck architecture](/images/uploads/austria/innsbruck-buildings.jpg)
+## Look through the pictures
 
-We bussed over to the nearby town of Mieders, determined to mark this alpine mountain coaster off of our bucket list. The ride over was yet another jaw dropping experience. Honestly, the beautify of the Austrian countryside is something you have to see for yourself to really *get* it. **This place is beautiful.**
+You can typically immediately discard several options based on the decor. Not everyone’s into older buildings with hardwood floors and quirky features like us and that’s okay! Find the places that look most appealing to you!
 
-At this point, we were both more excited than we could remember. The feeling of walking up to my little coaster cart and strapping in was a surreal one. Life is full of these “oh I’d love to do that but…” and “one day I’ll have to do that...” moments, but this time we were actually doing it. It was a satisfying feeling to say the least.
+In addition to giving you an overall vibe of the space, pictures can tell you a lot about the listing. For example, that “full bed” listed may actually be an air mattress, futon, or pull out sofa which may not be what you’re looking for. Also, maybe the shower is teeny tiny and you’re 6+ft tall. *No bueno.*
 
-With Allison in the car behind me, I grabbed on to the throttle, opened it up… *and we were off!*
+Really examine the pictures to help ensure there won’t be any surprises when you arrive.
 
-Before long we had picked up a good amount of speed. The trees and cows (yes, cows) were blurring past us. We were determined not to touch the brake which is no easy task considering that at every turn you feel like you’re going to go flying off the tracks to your death.
+## Read the reviews
 
-We were screaming, we were laughing, our adrenaline was pumping. It was a true moment of [flow](https://en.wikipedia.org/wiki/Flow_(psychology)). The ride ended as quickly as it had begun, but we both felt satisfied. It was the experience of a lifetime and one of those rare moments where you had accomplished something you never thought you would.
+Since reviews aren’t anonymous, people tend to be a bit nicer with them than they should be. This means sometimes you have to read between the lines. If you notice a lot of people saying things like “The room was great, but the street was a bit noisy - nothing earplugs won’t solve!” or “The apartment was charming, but a bit more cramped than the pictures let on...” it could be an indicator of bigger, potentially deal-breaking issues. 
 
-Afterwards, we traveled back to Innsbruck and found a place called X that served traditional Austrian dishes. We honestly weren’t sure what we ordered (it was all in German!), but it tasted amazing! Seriously one of the top 10 meals we’ve had.
+Reading reviews is almost always my deciding factor when booking. I’ve looked at quite a few listings that seemed great, but upon reading the reviews I realize that they’re a hard no. Our biggest red flags are low scores on cleanliness and location and multiple last minute cancellations by the host - because nobody likes getting dumped! 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wpVuiDMbi3I" frameborder="0" allowfullscreen></iframe>
+It’s usually easy to spot any major issues right off the bat, but reading the reviews will definitely give you invaluable, first-hand info. 
 
-The next day we made our way out to the village of Igls for a hike. The trailhead was atop one of the many peaks, so we hopped on the Gondola to get up to it. As the tram began to climb, the nearby mountain tops started to appear. Soon we were above the trees and could see endless valleys and villages below, nestled between the mountain ranges.
+## Get a feel for public transportation options near your Airbnb
 
-Once we arrived up top, we easily found the trailhead and started walking. This was the type of hike where you don’t make it too far, mostly because every 200ft you have to stop and snap photos and pick up your jaw.
+Before we started taking this into account, we’d often book a place based more on price than location. While it felt good to save money in booking fees, it sometimes meant that we’d pay the difference and then some in transportation costs. Not to mention the hours we’d waste sitting on trains each way. Plus, if your space is far from public transportation, you’ll either end up lugging your bags much further or having to pay for cabs rides to and from the airport.
 
-![austria bench view](/images/uploads/austria/bench-austria.jpg)
+Since you won’t know the exact address of your space until you book, try mapping from nearby cross-streets. Having a general idea of how much and how long transportation will be will help you make the most out of your stay. 
 
-![allison in austria](/images/uploads/austria/ally-backpack-hike-austria.jpg)
+## Book in weekly increment
 
-Towards the end of the hike we came across a pub. Yep, there was a pub at the top of this mountain. Isn’t Austria awesome?? Unfortunately this was one of the few days where we were taking a break from beer, but sitting up there and taking in the stunning scenery was enough for us.
+This is especially helpful if budget is a big factor. The majority of Airbnbs offer a pretty good discount if you book for a full week and even bigger discounts for the entire month. We’ve personally saved hundreds in booking fees simply by staying 7 days instead of 5-6! 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fnsLqVZdvh8" frameborder="0" allowfullscreen></iframe>
+So make sure you try tweaking the dates before you write a place off. Who knows, your ideal Airbnb might suddenly drop down into your price range and you’ll have an extra day or two to put off packing. Winning!
 
-We’ve noticed that as we travel this world, some places end up just clicking with us. Austria was one of those places. For us, it was like different planet where beauty was waiting at every turn. There was so much to discover and we had only scratched the surface.
+## Always over-communication with your host
 
-**Austria, we’ll meet again soon.**
+Maybe you found what seems like a great listing, but it’s brand new and there aren’t any reviews or pictures of the room. Or maybe you’re arriving late at night and aren’t sure if the host is flexible with check-in times. Reaching out to confirm these details will help put your mind at ease. Plus it’ll potentially give the host a gentle nudge to update their listing for future guests.
+
+Reasons you should reach out to your host before booking: 
+
+- To coordinate check-in and check-out times (especially when they’re early or late)
+- If you have a member of your party who won’t be staying the entire time to ensure you don’t overpay (since you sometimes pay extra when more than one to two people stay)
+- To see if there’s public transportation nearby
+- To clarify house rules and amenities 
+
+Overall, Airbnb is a wonderful tool and a huge reason we’re able to travel so comfortably on a budget. We know that staying in someone’s home may seem awkward at first, but with these tips, you may end up feeling even more at home than you do on your own couch!
+
+Here are links to some of our most favorite Airbnbs we’ve stayed in from around the world:
+
+[Los Angeles, CA](https://www.airbnb.com/rooms/9979938)<br />
+[Twentynince Palms, CA](https://www.airbnb.com/rooms/8442302)<br />
+[Austin, TX](https://www.airbnb.com/rooms/9131443)<br />
+[Dallas, TX](https://www.airbnb.com/rooms/7622094)<br />
+[Houson, TX](https://www.airbnb.com/rooms/6166415) <br />
+[Alpine, TX](https://www.airbnb.com/rooms/7708619) <br />
+[Bandera, TX](https://www.airbnb.com/rooms/5617722)<br />
+[Las Cruces, NM](https://www.airbnb.com/rooms/7400644)<br />
+[Pensacola, FL](https://www.airbnb.com/rooms/8761622)<br />
+[Tampa, FL](https://www.airbnb.com/rooms/12130302) <br />
+[Bay St. Louis, MS](https://www.airbnb.com/rooms/2918639)<br />
+[Point Marion, PA](https://www.airbnb.com/rooms/7195113)<br />
+[Marseille, France](https://www.airbnb.com/rooms/12986936)<br />
+[Bordeaux, France](https://www.airbnb.com/rooms/6641049)<br />
+[Brussels, Belgium](https://www.airbnb.com/rooms/7161074)<br />
+[Milan, Italy](https://www.airbnb.com/rooms/12214809)<br />
+[Munich, Germany](https://www.airbnb.com/rooms/8504194) <br />
+[Budapest, Hungary](https://www.airbnb.com/rooms/1152798) <br />
+[Prague, Czech Republic](https://www.airbnb.com/rooms/3761912)<br />
+[Mexico City, Mexico](https://www.airbnb.com/rooms/2792346)
+
+
+Have any awesome Airbnb tips to share? Let us know in the comments below or reach out to us on [Twitter](http://twitter.com/the_endless_a)! And if you end up booking an Airbnb for the first time, tell us how it goes! 
 
 ---
 
-If you want to follow along on our journey, you can subscribe to our [YouTube Channel](https://www.youtube.com/c/TheEndlessAdventure?sub_confirmation=1) or [subscribe to our blog](http://conversational.us6.list-manage.com/subscribe?u=f210e827b5997f97a4c359077&id=cbb27cac9e). Thanks for reading, we'll see you on the road!
+Wondering what The Endless Adventure is all about? [Start here](https://www.youtube.com/watch?v=Qm7a1IA7oQ8).
+
+Follow along on our Journey! You can subscribe to our [YouTube Channel](https://www.youtube.com/c/TheEndlessAdventure?sub_confirmation=1) or [subscribe to our blog](http://conversational.us6.list-manage.com/subscribe?u=f210e827b5997f97a4c359077&id=cbb27cac9e). Thanks for reading, we'll see you on the road!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Qm7a1IA7oQ8" frameborder="0" allowfullscreen></iframe>
