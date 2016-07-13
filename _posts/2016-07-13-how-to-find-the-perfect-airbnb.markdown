@@ -51,13 +51,13 @@ Before we started taking this into account, we’d often book a place based more
 
 Since you won’t know the exact address of your space until you book, try mapping from nearby cross-streets. Having a general idea of how much and how long transportation will be will help you make the most out of your stay. 
 
-## Book in weekly increment
+## Book in weekly increments
 
 This is especially helpful if budget is a big factor. The majority of Airbnbs offer a pretty good discount if you book for a full week and even bigger discounts for the entire month. We’ve personally saved hundreds in booking fees simply by staying 7 days instead of 5-6! 
 
 So make sure you try tweaking the dates before you write a place off. Who knows, your ideal Airbnb might suddenly drop down into your price range and you’ll have an extra day or two to put off packing. Winning!
 
-## Always over-communication with your host
+## Always over-communicate
 
 Maybe you found what seems like a great listing, but it’s brand new and there aren’t any reviews or pictures of the room. Or maybe you’re arriving late at night and aren’t sure if the host is flexible with check-in times. Reaching out to confirm these details will help put your mind at ease. Plus it’ll potentially give the host a gentle nudge to update their listing for future guests.
 
