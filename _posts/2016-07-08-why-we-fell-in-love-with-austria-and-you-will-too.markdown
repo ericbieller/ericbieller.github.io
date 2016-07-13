@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to Find the Perfect Airbnb"
-date:   2016-07-08 14:30:00
+date:   2016-07-13 14:30:00
 category: Airbnb
 tags: [travel, travel-tips, airbnb]
 header_image: airbnb-room.jpg
