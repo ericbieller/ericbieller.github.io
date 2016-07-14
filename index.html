@@ -218,18 +218,3 @@ map.zoomControl.homeButtonEnabled = false;
     </div>
   </div>
 </div>
-
-
-<script>
-$.ajax({
-  url: "https://www.googleapis.com/youtube/v3/playlistItems?part=contentDetails,snippet&maxResults=3&playlistId=PL29AtJe_IGx8xcKeIMoVlprLXVxCbFUDO&key=AIzaSyACIBXg2XoDGJCFOQHE7YtM4FPBqKm7DFo",
-  dataType:'JSONP',
-  type: 'GET',
-  success: function(data) {
-    // Generate array of coordinates
-    $.each(data.items, function(index, value) {
-        $("#videos").append('<div class="one-third column"><div class="video"><a href="http://youtube.com?v=' + value.contentDetails.videoId + '" target="_blank"><div class="thumbnail-wrapper"><img src="' + value.snippet.thumbnails.medium.url + '" alt="YouTube Thumbnail" /></a></div><div class="title"><span><a href="http://youtube.com?v=' + value.contentDetails.videoId + '">' + value.snippet.title + '</a></span></div></div></div>');
-    });
-  }
-});
-</script>
