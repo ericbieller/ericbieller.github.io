@@ -94,7 +94,7 @@ Finding smaller YouTubers is easy. Just search “first youtube video” or “f
 
 ## Post in yttalk forum
 
-The [Yttalk](yttalk.com) forums are full of other YouTubers of all channel sizes. And in addition to being a great place to find help with your channel and feedback on your videos, it’s also a great way to find potential viewers.
+The [Yttalk](http://yttalk.com) forums are full of other YouTubers of all channel sizes. And in addition to being a great place to find help with your channel and feedback on your videos, it’s also a great way to find potential viewers.
 
 Most of your fellow YouTubers are YouTube viewers themselves. So the more you interact on the forums, the more likely it is that they will click your channel and possibly subscribe!
 
