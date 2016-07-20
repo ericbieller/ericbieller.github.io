@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The Best Youtube Workout Channels to Keep you Fit on the Road (or Anywhere!)'
+title: 'The Best YouTube Workout Channels to Keep you Fit on the Road (or Anywhere!)'
 date: 2015-12-21T12:00:00.000Z
 categories: finances
 tags:
