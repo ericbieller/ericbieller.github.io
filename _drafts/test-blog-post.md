@@ -2,13 +2,14 @@
 layout: post
 title: 'The Best YouTube Workout Channels to Keep you Fit on the Road (or Anywhere!)'
 date: 2015-12-21T12:00:00.000Z
-categories: finances
+categories: working-out
 tags:
-  - adventure
-  - fitness
-header_image: bridge.jpeg
-share_image: /images/uploads/bridge.jpeg
-author: eric_bieller
+  - working-out
+  - lists
+  - exercising
+header_image: stayingfit.jpeg
+share_image: /downloads/stayingfit.jpeg
+author: allison_bieller
 ---
 
 
