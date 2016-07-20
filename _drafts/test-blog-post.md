@@ -32,7 +32,7 @@ Joking aside, these are all major concerns that many travelers deal with, includ
 
 Okay, now that you officially have no more excuses, let’s get sweaty!
 
-## Millionaire Hoy
+## [Millionaire Hoy](https://www.youtube.com/c/yaboymillhoy)
 
 \*\*Features: 800+ videos, beginner to advanced options, 10-90min workouts, new videos Fri/Sat/Sun\*\*
 
@@ -42,7 +42,7 @@ First up is my trusty go-to, Millionaire Hoy (aka Ya Boy Mill Hoy)! I’ve been 
 
 Mill Hoy’s channel has the best features in my opinion - timers, upcoming workout previews, estimated calorie counter, modifications, a warmup and cooldown included in the video, and a lot of encouragement and fun commentary. Plus he releases all sorts of 30 day programs which takes the thinking out of your workout routine.
 
-## Christine Salus
+## [Christine Salus](https://www.youtube.com/channel/UCQ-FEQdGiUY5fHHfRyMl-ew)
 
 \*\*Features: 200+ videos, beginner to advanced options, 10-90min workouts, new videos weekly\*\*
 
@@ -50,7 +50,7 @@ Mill Hoy’s channel has the best features in my opinion - timers, upcoming work
 
 I found Christine a few months ago and was hooked immediately. She really cares about fitness and health and it shows in her workouts. Her videos are also a great reminder that you can workout wherever you are. She’s worked out in her living room, bedroom, a field, an old tennis court, a patio…wherever she is, she makes it her studio!
 
-## Kat Musni
+## [Kat Musni](https://www.youtube.com/c/katmusni/featured)
 
 \*\*Features: 370+ videos, beginner to advanced options, 20-60min workouts, new videos Mon/Wed/Fri\*\*
 
@@ -58,7 +58,7 @@ I found Christine a few months ago and was hooked immediately. She really cares 
 
 Kat is hands down the most adorable badass on YouTube. She definitely has the most personality of anyone on the list (her videos often have themes complete with costumes and skits). And she makes even the hardest workouts seem pleasant with her always-cheerful demeanor and encouragement along the way. Don’t be fooled though! Kat puts together some seriously tough and effective workouts.
 
-## Erin Brooks aka SuperMOM
+## [Erin Brooks aka SuperMOM](https://www.youtube.com/channel/UCS6v40p1MU3X9PFYUn_c_Lg)
 
 \*\*Features: 540+ videos, beginner to advanced options, 25-60min workouts, multiple new videos each week\*\*
 
@@ -68,7 +68,7 @@ Erin is definitely one SuperMOMma! Her motto “We don’t have the time, we mak
 
 She specializes in kickboxing (on of my favorite types of workouts), but has a little bit of everything on her channel. Also, her adorable little girl, Sammy, and her “Super cats” often make appearances in her videos - and you all know how much I love cats!
 
-## Hiit Like a Girl
+## [Hiit Like a Girl](https://www.youtube.com/channel/UCKNtgPlQsya6tbpQWZHha-g)
 
 \*\*Features: 70+ videos, all advanced, 40-80min workouts, new video weekly\*\*
 
@@ -76,7 +76,7 @@ She specializes in kickboxing (on of my favorite types of workouts), but has a l
 
 Mandy from Hiit Like a Girl might be my workout spirit animal. She’s super strong, doesn’t shy away from push-ups, and is pretty honest about how brutal her videos are. Needless to say, her workouts are pretty tough - even the silent ones! Basically, her channel’s great for really getting down to business.
 
-## FitnessBlender
+## [FitnessBlender](https://www.youtube.com/channel/UCiP6wD_tYlYLYh3agzbByWQ)
 
 \*\*Features: 750+ videos, beginner to advanced options, 5-90min workouts, new video weekly\*\*
 
@@ -84,7 +84,7 @@ Mandy from Hiit Like a Girl might be my workout spirit animal. She’s super str
 
 Daniel and Kelli, the husband-and-wife team that is FitnessBlender, have been putting out free workout videos since before free workout videos were even a thing. They have every type of workout imaginable from yoga and pilates to kickboxing and tabata.
 
-Pro tip: head directly to their website to do super targeted searches and see detailed information for each video including the breakdown of the workout moves and estimated calorie count.
+Pro tip: head directly to their [website](https://www.fitnessblender.com/videos) for super targeted searches and see detailed information for each video including the breakdown of the workout moves and estimated calorie count.
 
 –
 
