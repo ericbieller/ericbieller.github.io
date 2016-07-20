@@ -7,8 +7,8 @@ tags:
   - working-out
   - lists
   - exercising
-header_image:
-share_image:
+header_image: stayingfit.jpeg
+share_image: images/headers/stayingfit.jpeg
 author: allison_bieller
 ---
 
